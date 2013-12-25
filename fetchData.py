@@ -5,7 +5,7 @@ apiKeys = Apis.Get().Twitter()
 
 tc = Twitter.TwitterCrawler(apiKeys)
 
-tc.getPlaces("query")
+#tc.getPlaces("query")
 #res = tc.searchTweets("hello")
 #print res[0]
 

@@ -1,11 +1,14 @@
 from apis import Apis
 from crawlers import Twitter as Twitter
 
-apiKey = Apis.Get().Twitter()
+apiKeys = Apis.Get().Twitter()
 
-tc = Twitter.TwitterCrawler(apiKey[0])
-res = tc.searchTweets("hello")
-print res[0]
+tc = Twitter.TwitterCrawler(apiKeys)
+
+tc.getPlaces("query")
+#res = tc.searchTweets("hello")
+#print res[0]
+
 
 
 

@@ -34,4 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# vi and idea trash
 .idea/*
+*~

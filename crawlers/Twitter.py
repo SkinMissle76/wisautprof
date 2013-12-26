@@ -1,5 +1,6 @@
 from __future__ import print_function
 import twitter
+from twython import TwythonStreamer
 from models.tables import LOCATIONS_TABLE
 import json
 from pprint import pprint as PP
@@ -12,30 +13,50 @@ def countdown(t): # in seconds
     print ("tasks done, now sleeping for %d seconds " + str(i))
     time.sleep(1)
 
+class MyStreamer(TwythonStreamer):
+  def on_success(self, data):
+    if 'text' in data:
+      print(data)
+
+  def on_error(self, status_code, data):
+    print (status_code)
+
+      # Want to stop trying to get data because of the error?
+      # Uncomment the next line!
+      # self.disconnect()
+
 ###
 
 class TwitterCrawler:
-  apis = None
+  apis1 = None
   _currentlyUsedApi = 1
 
   def __init__(self, apiKeys):
-    self.apis = [self._makeApi(apiKey) for apiKey in apiKeys]
+    self.apis1 = [self._makeApi1(apiKey) for apiKey in apiKeys]
+    self.apis2 = [self._makeApi2(apiKey) for apiKey in apiKeys]
 
-  def _makeApi(self, apiKey):
+  def _makeApi1(self, apiKey): # python-twitter
     return twitter.Api(
       consumer_key =         apiKey['consumer_key'],
       consumer_secret =      apiKey['consumer_secret'],
       access_token_key =     apiKey['access_token_key'],
       access_token_secret =  apiKey['access_token_secret'])
 
-  def _getApi(self):
-    return self.apis[self._currentlyUsedApi]
+  def _makeApi2(self, apiKey): # twython
+    return MyStreamer(
+      apiKey['consumer_key'],
+      apiKey['consumer_secret'],
+      apiKey['access_token_key'],
+      apiKey['access_token_secret'])
+
+  def _getApi1(self):
+    return self.apis1[self._currentlyUsedApi]
 
   def _switchApi(self):
-    self._currentlyUsedApi = (self._currentlyUsedApi + 1) % len(self.apis)
+    self._currentlyUsedApi = (self._currentlyUsedApi + 1) % len(self.apis1)
 
   def searchTweets(self, term, max_id = None):
-    searchResults = self.apis[0].GetSearch(
+    searchResults = self.apis1[0].GetSearch(
         term=term, 
         geocode=None, 
         since_id=None, 
@@ -58,9 +79,19 @@ class TwitterCrawler:
     #return json.dumps(map(lambda x : x.getJSON(), tweets))
     return searchResults
 
-  def getUser(self, userId):
-    user = self.apis[0].GetUser(userId)
+  def getUser(self, userId = None, userName = None):
+    if userId != None:
+      user = self.apis1[0].GetUser(userId)
+    elif userName != None:
+      user = self.apis1[0].GetUser(screen_name = userName)
+    else:
+      raise ValueError("Neither userId or userName were specified")
+
     return user
+
+
+  def getStream(self):
+    return self.apis2[0].statuses.filter(track="twitter")
 
 #  def getPlaces(self, query):
 
@@ -78,8 +109,8 @@ class TwitterCrawler:
 #      parameters['granularity'] = 'city'
 
 #      try:
-#        r = self._getApi()._RequestUrl(url, 'GET', data=parameters)
-#        data = self._getApi()._ParseAndCheckTwitter(r.content)
+#        r = self._getApi1()._RequestUrl(url, 'GET', data=parameters)
+#        data = self._getApi1()._ParseAndCheckTwitter(r.content)
 #        places = data["result"]["places"]
 #        allowed_country_codes = ["GB"]
 #        only_uk_places = filter(lambda p : p["country_code"] in allowed_country_codes, places)
@@ -97,8 +128,8 @@ class TwitterCrawler:
 #        f = open(datafileName,'w')
 #        print("Just switched to file " + datafileName)
 
-#        r = self._getApi()._RequestUrl(url, 'GET', data=parameters)
-#        data = self._getApi()._ParseAndCheckTwitter(r.content)
+#        r = self._getApi1()._RequestUrl(url, 'GET', data=parameters)
+#        data = self._getApi1()._ParseAndCheckTwitter(r.content)
 #        places = data["result"]["places"]
 #        allowed_country_codes = ["GB"]
 #        only_uk_places = filter(lambda p : p["country_code"] in allowed_country_codes, places)

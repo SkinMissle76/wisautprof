@@ -1,7 +1,14 @@
 
 GENDER_TABLE = {
-    -1 : "Male",
-     1 : "Female"
+    -1 : "M",
+     0 : "U", # unisex or unknown
+     1 : "F"
+}
+
+GENDER_TABLE_INVERTED = {
+  "M" : -1,
+  "U" :  0,
+  "F" :  1
 }
 
 def AGE_REAL_TO_SYS(sysAge):

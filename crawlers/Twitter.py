@@ -1,6 +1,6 @@
 from __future__ import print_function
 import twitter
-from twython import TwythonStreamer
+#from twython import TwythonStreamer
 from models.tables import LOCATIONS_TABLE
 import json
 from pprint import pprint as PP
@@ -13,19 +13,19 @@ def countdown(t): # in seconds
     print ("tasks done, now sleeping for %d seconds " + str(i))
     time.sleep(1)
 
-class MyStreamer(TwythonStreamer):
-  def on_success(self, data):
-    if 'text' in data:
-      print(data)
-
-  def on_error(self, status_code, data):
-    print (status_code)
-
-      # Want to stop trying to get data because of the error?
-      # Uncomment the next line!
-      # self.disconnect()
-
-###
+#class MyStreamer(TwythonStreamer):
+#  def on_success(self, data):
+#    if 'text' in data:
+#      print(data)
+#
+#  def on_error(self, status_code, data):
+#    print (status_code)
+#
+#      # Want to stop trying to get data because of the error?
+#      # Uncomment the next line!
+#      # self.disconnect()
+#
+####
 
 class TwitterCrawler:
   apis1 = None
@@ -43,7 +43,7 @@ class TwitterCrawler:
       access_token_secret =  apiKey['access_token_secret'])
 
   def _makeApi2(self, apiKey): # twython
-    return MyStreamer(
+    return twitter.Api(
       apiKey['consumer_key'],
       apiKey['consumer_secret'],
       apiKey['access_token_key'],
@@ -89,9 +89,25 @@ class TwitterCrawler:
 
     return user
 
+  def getUserTimeline(self, userId = None, userName = None, count = 200):
+    if userId != None:
+      userTimeline = self.apis1[0].GetUserTimeline(user_id = userId,
+                                                   count = count,
+                                                   include_rts = False,
+                                                   trim_user=True)
+    elif userName != None:
+      userTimeline = self.apis1[0].GetUserTimeline(screen_name = userName,
+                                                   count = count,
+                                                   include_rts = False,
+                                                   trim_user=True)
+    else:
+      raise ValueError("Neither userId or userName were specified")
 
-  def getStream(self):
-    return self.apis2[0].statuses.filter(track="twitter")
+    return userTimeline
+
+
+  #def getStream(self):
+  #  return self.apis2[0].statuses.filter(track="twitter")
 
 #  def getPlaces(self, query):
 

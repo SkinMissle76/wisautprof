@@ -10,6 +10,11 @@ u =  tc.getUser(userId=422854771)
 print u
 u =  tc.getUser(userName="tkrugg")
 print u
+
+tl = tc.getUserTimeline(userName="tkrugg", count=3)
+lastTweet = tl[0]
+print lastTweet.GetText(), lastTweet.GetId()
+
 #
 #db = TwitterUserDB()
 #db.storeUser(str(u._id), u, u.__str__())

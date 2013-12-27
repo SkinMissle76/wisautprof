@@ -1,6 +1,7 @@
 
 import shelve
 import cPickle as pickle
+import urlparse
 
 DATA_DIR = "./data/"
 FILE_NAME = "coderwall_user_db.shelve"
@@ -23,47 +24,81 @@ class CoderwallUserDB:
   def numberOfUsers(self):
     return len(self._db)
 
+  def getAllUsernames(self):
+    return self._db.keys()
+
   def getAllTwitterUsers(self):
-    twitterUsers = filter(lambda u : self._hasTwitterProfile(u), self._db)
+    #twitterUsers = [self._hasTwitterProfile(username)for username in self._db.keys()]
+    twitterUsers = filter(lambda u : self._hasProfile(u, "twitter"), self.getAllUsernames())
     return twitterUsers
 
-  def _processAll(self):
-    return None
+  def getAllLinkedinUsers(self):
+    linkedinUsers = filter(lambda u : self._hasProfile(u, "linkedin"), self.getAllUsernames())
+    return linkedinUsers
 
-  # user scale
-  def _hasTwitterProfile(self, username):
-    sl = self.getSocialLinks(username)
-    matches = filter(lambda l : l["website"] == "twitter", sl)
-    assert len(matches) <= 1 # there shouldn't be more than one
+  def getAllGithubUsers(self):
+    linkedinUsers = filter(lambda u : self._hasProfile(u, "github"), self.getAllUsernames())
+    return linkedinUsers
 
-    return len(matches) == 1
+  def getTwitterUsername(self, coderwallUsername):
+    return self._getUsernameOn(coderwallUsername, "twitter")
 
-  def getTwitterProfile(self, username):
-    return self.getSocialNetwork(username, "twitter")
+  def getGithubUsername(self, coderwallUsername):
+    return self._getUsernameOn(coderwallUsername, "github")
 
-  def getSocialNetwork(self, username, website):
-    assert website in ["twitter", "github", "linkedin"] # TODO refactor this with KNOwN_SOCIAL_NETWOKS
+  def getLinkedinUsername(self, coderwallUsername):
+    return self._getUsernameOn(coderwallUsername, "linkedin")
 
-    sl = self.getSocialLinks(username)
-    matches = filter(lambda l : l["website"] == website, sl)
-    assert len(matches) <= 1 # there shouldn't be more than one
 
-    return matches[0]
+
+
 
   def getSocialLinks(self, username):
     user = self.get(username)
     socialLinks = filter(lambda l : l != None, user["socialLinks"])
     return socialLinks
 
-
   def get(self, username):
     assert type(username) == str
     user = self._db[username]
     return user
 
+  # private
+  def urlToUsername(self, link, website):
+    assert website in ["twitter", "github", "linkedin"] # TODO refactor this with KNOwN_SOCIAL_NETWOKS
+    if website == "twitter":
+      path = urlparse.urlparse(link).path # gives "/username"
+      username = path[1:] # give "username"
+      return username
+    elif website == "github":
+      raise NotImplementedError
+    elif website == "linkedin":
+      raise NotImplementedError
+    else:
+      raise ValueError("Invalid website " + website)
 
+  def _hasProfile(self, username, website):
+    matches = self._getSocialNetworkProfile(username, website)
+    return len(matches) == 1
 
+  def _hasTwitterProfile(self, username):
+    matches = self._getSocialNetworkProfile(username, "twitter")
+    return len(matches) == 1
 
+  def _getSocialNetworkProfile(self, username, website):
+    assert website in ["twitter", "github", "linkedin"] # TODO refactor this with KNOwN_SOCIAL_NETWOKS
 
+    sl = self.getSocialLinks(username)
+    matches = filter(lambda l : l["website"] == website, sl)
+    assert len(matches) <= 1 # there shouldn't be more than one
+
+    return matches
+
+  def _getUsernameOn(self, coderwallUsername, website):
+    p = self._getSocialNetworkProfile(coderwallUsername, website)
+    if len(p) > 0:
+      return self.urlToUsername(p[0]["link"], website)
+    else:
+      return None
 
 

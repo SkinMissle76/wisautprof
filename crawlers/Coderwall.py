@@ -1,17 +1,16 @@
-
 from BeautifulSoup import BeautifulSoup
 import urllib2, re
-
 
 
 class Coderwall:
 
 
+  KNOWN_SOCIAL_NETWORKS = ["twitter", "github", "linkedin"]
 
 
   def _makeTeamUrl(self, teamName):
     # https://coderwall.com/team/london-software-craftsmanship-community-lscc
-    return "https://coderwall.com/team/" + teamName
+    return "https://coderwall.com/team/" + urllib2.quote(teamName)
 
   def findTeamMembers(self, name):
     url = self._makeTeamUrl(name)
@@ -38,9 +37,9 @@ class Coderwall:
   def _makeSocialLinkFromAnchor(self, anchor):
     url = anchor["href"]
     classes = anchor["class"]
-    knownSocialNetworks = ["twitter", "github", "linkedin"]
-    matches = filter(lambda l : l in classes, knownSocialNetworks)
-    assert len(matches) <= 1
+    matches = filter(lambda l : l in classes, self.KNOWN_SOCIAL_NETWORKS)
+
+    assert len(matches) <= 1  # we should find *at most* one social network per anchor
 
     if len(matches) == 0:
       return None
@@ -72,26 +71,9 @@ class Coderwall:
       return None
 
 
-  def _getMemberProfile(self, member):
-    url = self._getMemberProfileUrl(members)
-    json = urllib2.urlopen(url)
+  def _getMemberProfile(self, username):
+    url = self._getMemberProfileUrl(username, dataformat="json")
+    response = urllib2.urlopen(url)
+    json = response.read()
     return json
-
-
-
-
-
-
-c = Coderwall()
-members = c.findTeamMembers("london-software-craftsmanship-community-lscc")
-print len(members), "member found"
-usernames = [c._getMemberUsername(m) for m in members]
-
-#d =   [c._getMemberSocialLinks(u) for u in usernames]
-for u in usernames[30:]:
-  print "working with username:", u
-  print "url:",  c._getMemberProfileUrl(u)
-  print "social links", c._getMemberSocialLinks(u)
-
-
 

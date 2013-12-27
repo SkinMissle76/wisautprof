@@ -1,7 +1,8 @@
-
+# coding=utf-8
 from crawlers.Coderwall import Coderwall
 from models.CoderwallUserDB import CoderwallUserDB
 
+OVERWRITE_DB = False
 
 TEAMS = [
   "london-software-craftsmanship-community-lscc",
@@ -24,8 +25,47 @@ TEAMS = [
   "reevoo",
   "new-bamboo",
   "living-group",
-  "erlang-solutions"
+  "erlang-solutions",
+  "hachette-uk",
+  "interkonect-services-uk-limited",
+  "central-media-uk",
+  "orange-labs-uk",
+  "kainos-recuitment",
+  "eutechnyx",
+  "pyrocms",
+  "hurstdev",
+  "mamas-papas",
+  "commerce-guys",
+  "nimbleworks",
+  "wiredmedia",
+  "total-synergy",
+  "gylphi",
+  "tamarou",
+  "clock",
+  "unep-wcmc",
+  "buddycloud",
+  "jobandtalent",
+  "esendex",
+  "3squared",
+  "overheard",
+  "carwow",
+  "etch",
+  "the-league-of-extraordinary-developers",
+  "datasift",
+  "thap-ltd",
+  "madebyawesome",
+  "open-source-agility",
+  "urban-appetite",
+  "neutral-tone",
+  "social-genius",
+  "creative-aura",
+  "wildfire-interactive-inc",
+  "tdm-oss-services"
 ]
+
+def getTeamsNames():
+  teams = list(set(TEAMS)) # removing duplicates
+  return teams
 
 def fetchMember(username, team, crawlerInstance):
   c = crawlerInstance
@@ -41,6 +81,7 @@ def fetchMember(username, team, crawlerInstance):
     "socialLinks"    : c._getMemberSocialLinks(username),
     "team"           : team
   }
+  return uObject
 
 def fetchAllTeamMembers(db):
 
@@ -48,8 +89,12 @@ def fetchAllTeamMembers(db):
   c = Coderwall()
   allTeamMembers = []
 
-  for team in TEAMS:
-    print "\n Working with team:", team
+  numberOfProcessedTeams = 0
+  numberOfTeams = len(getTeamsNames())
+
+  for team in getTeamsNames():
+    numberOfProcessedTeams += 1
+    print "\n Working with team:", team, "("+ str(numberOfProcessedTeams) + "/" + str(numberOfTeams) +")"
     # fetching members of a team
     members = c.findTeamMembers(team)
     print len(members), "member found in this team, let's see who we don't already have..."
@@ -57,9 +102,10 @@ def fetchAllTeamMembers(db):
 
     #d =   [c._getMemberSocialLinks(u) for u in usernames]
     for u in usernames:
-      if not db.isStored(str(u)):
+      if not db.isStored(str(u)) or OVERWRITE_DB:
         uObject = fetchMember(u, team, c)
         allTeamMembers.append(uObject)
+        assert(uObject != None)
         db.storeUser(str(u), uObject)
         print "added", u, "into database"
         print ""

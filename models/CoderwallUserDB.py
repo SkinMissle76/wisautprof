@@ -19,7 +19,7 @@ class CoderwallUserDB:
     
   def isStored(self, username):
     assert type(username) == str
-    return self._db.has_key(username)
+    return self._db.has_key(username) and self.get(username) != None
 
   def numberOfUsers(self):
     return len(self._db)

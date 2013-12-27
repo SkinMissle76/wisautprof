@@ -5,8 +5,10 @@ import urllib2, re
 class Coderwall:
 
 
-  KNOWN_SOCIAL_NETWORKS = ["twitter", "github", "linkedin"]
+  KNOWN_SOCIAL_NETWORKS = ["twitter", "github", "linkedin", "blog"]
 
+  def findTeams(self):
+    query = ""
 
   def _makeTeamUrl(self, teamName):
     # https://coderwall.com/team/london-software-craftsmanship-community-lscc

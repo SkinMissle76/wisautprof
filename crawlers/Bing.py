@@ -42,12 +42,3 @@ class Bing:
     json_result = json.loads(response_data)
     result_list = json_result['d']['results']
     return result_list
-#
-#apiKeys = ['2KbKV5Y0n6oItW2wVgbvmeI4C2uCDNrZnyCgYkg5Kvo']
-#b = Bing(apiKeys)
-#res = b.search("Cumbria uk site:about.me", 0, 5)
-#print len(res)
-#print res[0]["Title"]
-#print res[0]["Url"]
-
-

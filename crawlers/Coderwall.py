@@ -51,7 +51,7 @@ class Coderwall:
       }
 
   def _getMemberProfileUrl(self, username, dataformat=None):
-    url  = "https://coderwall.com/" + username
+    url  = "https://coderwall.com/" + urllib2.quote(username)
     if dataformat == "json":
       url += ".json"
     elif dataformat == None:
@@ -86,7 +86,12 @@ c = Coderwall()
 members = c.findTeamMembers("london-software-craftsmanship-community-lscc")
 print len(members), "member found"
 usernames = [c._getMemberUsername(m) for m in members]
-print usernames
+
 #d =   [c._getMemberSocialLinks(u) for u in usernames]
+for u in usernames[30:]:
+  print "working with username:", u
+  print "url:",  c._getMemberProfileUrl(u)
+  print "social links", c._getMemberSocialLinks(u)
+
 
 

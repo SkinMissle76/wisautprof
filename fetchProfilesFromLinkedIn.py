@@ -10,10 +10,6 @@ URLS = [
 
 lc = Linkedin()           # this guys is the linkedin crawler
 
+profile = lc.getProfile(URLS[0])
+print profile["fullName"]
 
-profiles = []
-for url in URLS:
-  profile = lc.getProfile(url)
-  profiles.append(profile)
-
-print [p["fullName"] for p in profiles]

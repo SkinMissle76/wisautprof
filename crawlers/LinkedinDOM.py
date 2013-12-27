@@ -1,15 +1,6 @@
-from distutils.command.install_data import install_data
-from BeautifulSoup import BeautifulSoup
 from pyquery import PyQuery
-import urllib2, re
-
 
 class Linkedin:
-
-
-  def __init__(self):
-    x = 2
-
 
   def getProfile(self, url):
     doc = self._getDocument(url)
@@ -53,21 +44,6 @@ class Linkedin:
     descriptionSummaryDOM = doc("#profile-summary .description.summary")
     return descriptionSummaryDOM.text()
 
-
-  #def _getElementByClass(self, document, element, className):
-  #  pattern = '\\b'+ className + '\\b'
-  #  reg = re.compile(pattern)
-  #  return document.findAll(element, {"class" : reg})
-  #
-  #def _getElementById(self, document, element, idName):
-  #  return document.find(element, {"id" : idName})
-  #
-  #def _getElementByName(self, document, element, name):
-  #  return document.findAll(element, {"name" : name})
-  #
-  #def _getElement(self, document, element):
-  #  return document.findAll(element)
-
   def _getLocation(self, doc):
     locationDOM = doc(".locality")
     return locationDOM.text()
@@ -92,23 +68,4 @@ class Linkedin:
     skillsDOM = doc(".skills .competency")
     skills = [skillsDOM.eq(i).text() for i in range(0, len(skillsDOM))]
     return skills
-
-
-
-#print li._getElementByClass(doc, "div", "summary")
-#q = li._getElementById(doc, "code", "")
-
-#print li._getElementByName(doc, "div", "education")
-# education
-
-
-
-
-
-
-
-
-
-
-
 

@@ -6,10 +6,12 @@ URLS = [
   "http://uk.linkedin.com/pub/simon-ridgwell/77/9b4/197"
 ]
 
-
-
-lc = Linkedin()           # this guys is the linkedin crawler
-
-profile = lc.getProfile(URLS[0])
-print profile["fullName"]
-
+#user comes as URL
+def getUserEducation(user):
+	lc = Linkedin()           # this guys is the linkedin crawler
+	educations = []
+	profile = lc.getProfile(user)
+	pr1 = profile["education"]
+	for ed in pr1:
+		educations.append(ed["school"])
+	return educations

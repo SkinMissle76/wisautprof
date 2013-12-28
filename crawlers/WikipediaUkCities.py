@@ -67,7 +67,6 @@ class WikipediaUKCities:
     }
 
 
-wc = WikipediaUKCities()
 
 
 

@@ -26,4 +26,13 @@ class CountiesDB:
     else:
       raise ValueError("countyId " + countyId + " has not been found, sorry")
 
+  def getAllCounties(self):
+    return map(self.get, self._db.keys())
+
+  def getAllCities(self):
+    cities = []
+    for c in self.getAllCounties():
+      cities.extend(c["cities"])
+    return cities
+
 

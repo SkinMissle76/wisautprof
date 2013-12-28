@@ -21,7 +21,7 @@ def AGE_SYS_TO_REAL(realAge):
     raise NameError("yo watch out dude, realAge must be between 0 and 100, yours is " + realAge)
   return -1 + realAge*2/100
 
-
+# id -> county
 LOCATIONS_TABLE = {
     1  : "Bedfordshire",
     2  : "Berkshire",
@@ -71,6 +71,8 @@ LOCATIONS_TABLE = {
     46 : "Wiltshire",
     47 : "Worcestershire"
 }
+# country -> id
+LOCATIONS_TABLE_INVERTED = {v:k for k, v in LOCATIONS_TABLE.items()}
 
 
 EDUCATION_TABLE = {

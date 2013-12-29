@@ -1,21 +1,30 @@
 from crawlers.Bing import Bing
 from models.BingResultsDB import BingResultsDB
+from models.CitiesCountiesDB import CountiesDB
 from models.tables import LOCATIONS_TABLE
 from urlparse import urlparse
 
 STORAGE_FILE = "Bing_results_db.shelve"
 db = BingResultsDB(filename=STORAGE_FILE)
 
-apiKeys = ['2KbKV5Y0n6oItW2wVgbvmeI4C2uCDNrZnyCgYkg5Kvo']
+apiKeys = [
+  'y4OkQbeZWhhWu7nV6A2bAZi9DuS0I1WskS4VHlivbK0',
+  'zv/DMQadTbSp+MGKRzdnGBnwvZjIj0RWdOiRaQzl/G4',
+  '2KbKV5Y0n6oItW2wVgbvmeI4C2uCDNrZnyCgYkg5Kvo']
 bc = Bing(apiKeys)
 
+def getLocationsToSearch():
+  c_db = CountiesDB()
+  cities = c_db.getAllCities()
+  sortedCities = sorted(cities, key = lambda c : c["city"])
+  return sortedCities
 
 def getUsernameFromLink(url):
   path = urlparse(url).path
   username = path[1:]
   return username
 
-def getLink(linkObject, locationID):
+def getLink(linkObject, location):
   title = linkObject["Title"]
   url = linkObject["Url"]
   username =  getUsernameFromLink(url)
@@ -24,7 +33,7 @@ def getLink(linkObject, locationID):
     "title"    : title,
     "username" : username,
     "url"      : url,
-    "location" : locationID,
+    "location" : location,
     "raw"      : linkObject
   }
 
@@ -41,19 +50,35 @@ def searchLocation(location, startPage, numberOfPages):
 
 def searchAllLocation():
   allResults = {}
-  for i, l in LOCATIONS_TABLE.iteritems():
-    print "now searching for profiles from", l
-    results = searchLocation(l, 0, 10)
-    formattedResults = map(lambda r : getLink(r, i), results)
-    for r in formattedResults:
-      username = r["username"]
-      allResults[username] = r
-      db.add(str(username), r)
-  return results
+  #for i, l in LOCATIONS_TABLE.iteritems():
+  #  print "now searching for profiles from", l
+  #  results = searchLocation(l, 0, 15)
+  #  formattedResults = map(lambda r : getLink(r, i), results)
+  #  for r in formattedResults:
+  #    username = r["username"]
+  #    allResults[username] = r
+  #    db.add(str(username), r)
+  #return results
+
+  start = 502
+  locations = getLocationsToSearch()
+  nbOfLocations = len(locations)
+  for i, c in enumerate(locations):
+    if i > start:
+      print "now searching for profiles from", c["city"], str(i) + "/" + str(nbOfLocations)
+      results = searchLocation(c["city"], 0, 10)
+      formattedResults = map(lambda r : getLink(r, c), results)
+      for r in formattedResults:
+        username = r["username"]
+        allResults[username] = r
+        db.add(str(username), r)
+
+  return allResults
 
 
 
 results = searchAllLocation()
+
 
 
 

@@ -27,7 +27,7 @@ class CountiesDB:
       raise ValueError("countyId " + countyId + " has not been found, sorry")
 
   def getAllCounties(self):
-    return map(self.get, self._db.keys())
+    return [self.get(c) for c in self._db.keys()]
 
   def getAllCities(self):
     cities = []

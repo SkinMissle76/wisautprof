@@ -28,5 +28,12 @@ class BingResultsDB:
     assert type(username) == str
     return self._db[username]
 
+  def getAll(self):
+    profiles = {}
+    for username in self._db.keys():
+      profiles[username] = self.get(username)
+    return profiles
+
+
 
 

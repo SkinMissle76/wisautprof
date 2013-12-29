@@ -3,7 +3,7 @@ from crawlers.WikipediaUkCities import WikipediaUKCities
 
 
 
-db = CountiesDB("counties_db.shelves")
+db = CountiesDB()
 wc = WikipediaUKCities()
 
 counties = wc.getCounties()

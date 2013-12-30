@@ -16,8 +16,30 @@ bc = Bing(apiKeys)
 def getLocationsToSearch():
   c_db = CountiesDB()
   cities = c_db.getAllCities()
+
+  #sortedCities = sorted(cities, key = lambda c : c["city"])
+  #return sortedCities
+  counties = map(lambda c : c["county"], c_db.getAllCounties())
+  print counties
+
+def getAllCitiesToSearch()
+  c_db = CountiesDB()
+  cities = c_db.getAllCities()
+  
   sortedCities = sorted(cities, key = lambda c : c["city"])
   return sortedCities
+
+def getAllCountiesToSearch():
+  c_db = CountiesDB()
+  counties = map(lambda c : c["county"], c_db.getAllCounties())
+  print counties
+
+def getOtherLocationKeywordsToSearch():
+  return ["United Kingdom", "Great Britain", "UK", "GB"]
+
+
+
+
 
 def getUsernameFromLink(url):
   path = urlparse(url).path
@@ -77,7 +99,8 @@ def searchAllLocation():
 
 
 
-results = searchAllLocation()
+#results = searchAllLocation()
+getLocationsToSearch()
 
 
 

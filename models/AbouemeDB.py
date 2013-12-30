@@ -33,7 +33,11 @@ class AboutmeDB:
 
   def hasSocialProfile(self, username, website):
     socialProfile = self.getSocialProfile(username, website)
-    return len(socialProfile) > 0
+    if len(socialProfile) > 0:
+      url = socialProfile[0]["url"]
+      return len(url) > 0
+    else:
+      return False
 
   def hasTwitterProfile(self, username):
     return self.hasSocialProfile(username, "twitter")

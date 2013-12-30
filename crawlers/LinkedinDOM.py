@@ -28,8 +28,10 @@ class Linkedin:
 
     periodStartsDOM = doc(".position.education").find(".dtstart")
     periodEndsDOM =  doc(".position.education").find(".dtend")
-    periodStarts = [periodStartsDOM.eq(i).attr("title") for i in range(0, len(periodStartsDOM))]
-    periodEnds = [periodEndsDOM.eq(i).attr("title") for i in range(0, len(periodEndsDOM))]
+    periodStarts = [periodStartsDOM.eq(i).attr("title")
+                    for i in range(0, len(schoolNamesDOM))]
+    periodEnds = [periodEndsDOM.eq(i).attr("title")
+                  for i in range(0, len(schoolNamesDOM))]
 
     education = []
     for i in range(0, len(schoolNames)):

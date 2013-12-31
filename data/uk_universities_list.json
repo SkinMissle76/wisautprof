@@ -1,4 +1,4 @@
-[ 
+[
  {"name" : "University of Aberdeen", "acronyms" : []}, 
  {"name" : "University of Abertay Dundee", "acronyms" : []}, 
  {"name" : "Aberystwyth University", "acronyms" : []}, 
@@ -228,6 +228,5 @@
  {"name" : "University of Wales College of Medicine", "acronyms" : []},
  {"name" : "University of Wales Institute of Science and Technology", "acronyms" : []},
  {"name" : "Westfield College", "acronyms" : []},
- {"name" : "Wye College", "acronyms" : []}, 
+ {"name" : "Wye College", "acronyms" : []}
 ]
-

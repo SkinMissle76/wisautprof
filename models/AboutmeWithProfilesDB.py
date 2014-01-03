@@ -31,7 +31,10 @@ class AboutmeWithProfilesDB:
 
   def addTwitter(self, username, twitterObject):
     assert type(username) == str
-    raise NotImplemented
+    self._initKey(username)
+    obj = self.get(username)
+    obj["twitter"] = twitterObject
+    self._db[username] = obj
 
   def has(self, username):
     assert type(username) == str
@@ -55,9 +58,18 @@ class AboutmeWithProfilesDB:
     assert type(username) == str
     return self._db[username]
 
+  def _contains(self, string, substring):
+    return substring in string
+
   def isLocatedInUK(self, username):
-    locality = self.getLocation(username)
-    return True
+    location = self.getLocation(username)
+
+    formattedLocation = location.lower()
+    subs = ["united kingdom", "england", "scotland", "irland", "wales"]
+
+    matches = [self._contains(formattedLocation, str.lower(s))
+               for s in subs]
+    return any(matches)
 
   def getLocation(self, username):
     profile = self.get(username)

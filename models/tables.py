@@ -81,6 +81,12 @@ EDUCATION_TABLE = {
     3 : "High"
 }
 
+EDUCATION_TABLE_INVERTED = {
+    "Low" : 1,
+    "Mid" : 2, 
+    "High" : 3
+}
+
 EMOTIONS_TABLE = {
     1 : "Joy", 
     2 : "Trust", 

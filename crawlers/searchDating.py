@@ -8,20 +8,23 @@ import time
 import random
 import collections
 
+cities = ["Bath", "Birmingham", "Bradford", "Brighton & Hove", "Bristol", "Cambridge", "Canterbury", "Carlisle", "Chelmsford", "Chester", "Chichester", "Coventry", "Derby", "Durham", "Ely", "Exeter", "Gloucester", "Hereford", "Kingston upon Hull", "Lancaster", "Leeds", "Leicester", "Lichfield", "Lincoln", "Liverpool", "City of London", "Manchester", "Newcastle upon Tyne", "Norwich", "Nottingham", "Oxford", "Peterborough", "Plymouth", "Portsmouth", "Preston", "Ripon", "Salford", "Salisbury", "Sheffield", "Southampton", "St Albans", "Stoke-on-Trent", "Sunderland", "Truro", "Wakefield", "Wells", "City of Westminster", "Winchester", "Wolverhampton", "Worcester", "York", "Aberdeen", "Dundee", "Edinburgh", "Glasgow", "Inverness", "Perth", "Stirling", "Bangor", "Cardiff", "Newport", "St Asaph", "St David's", "Swansea", "Armagh", "Belfast", "Derry", "Lisburn", "Newry"]
+
+
 #Uses google to retrieve profiles from OkCupid.com
 
 # Step 1: Retrieve city lists from Wikipedia for areas in England
-fp = urllib2.urlopen("http://en.wikipedia.org/wiki/List_of_towns_in_England")
-wiki_data = fp.read()
-fp.close()
-
-wiki_soup = BeautifulSoup(wiki_data)
-wiki_dict = {}
-for table in wiki_soup.find_all("table", attrs={"class": "wikitable"}):
-	for tr in table.find_all("tr"):
-		wiki_dict[tr.contents[1].string] = tr.contents[3].string
-
-sorted_dict = collections.OrderedDict(sorted(wiki_dict.items()))
+##fp = urllib2.urlopen("http://en.wikipedia.org/wiki/List_of_towns_in_England")
+##wiki_data = fp.read()
+##fp.close()
+##
+##wiki_soup = BeautifulSoup(wiki_data)
+##wiki_dict = {}
+##for table in wiki_soup.find_all("table", attrs={"class": "wikitable"}):
+##	for tr in table.find_all("tr"):
+##		wiki_dict[tr.contents[1].string] = tr.contents[3].string
+##
+##sorted_dict = collections.OrderedDict(sorted(wiki_dict.items()))
 
 # site%3Aokcupid.com+%22f+%2F+Aldershot, United Kingdom%22
 # Step 2: Query google using the wikipedia dict
@@ -42,7 +45,7 @@ search_engine_id = "016584094713900655717:rb8kgl4eucs"
 #
 ###################################################################
 
-for city in wiki_dict.keys()[offset:]:
+for city in cities:
 	start = 1
 	next = True
 	while next:
@@ -52,9 +55,9 @@ for city in wiki_dict.keys()[offset:]:
 			google_url = url % (key, search_engine_id, city, start)
 			google_url = re.sub(" ", "%20", google_url)
 
-			print wiki_dict.keys().index(city)
+			print city
 			print google_url
-
+			print "Fetching %s on offset: %s" % (city, start)
 			fp = urllib2.urlopen(google_url)
 			google_data = fp.read()
 			fp.close()
@@ -71,8 +74,7 @@ for city in wiki_dict.keys()[offset:]:
 			for profile in google_results:
 				print profile['link']
 				print profile['title']
-				print sorted_dict[city]
-				output.write("%s | %s | %s\n" % (profile['link'], profile['title'], sorted_dict[city]))
+				output.write("%s | %s | %s\n" % (profile['link'], profile['title'], city))
 				print "============================="
 		except:
 			time.sleep(30)

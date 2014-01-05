@@ -1,4 +1,5 @@
 from models.tables import EDUCATION_TABLE_INVERTED
+from models.tables import LOCATIONS_TABLE_INVERTED
 from crawlers.LinkedinDOM import Linkedin
 import json
 
@@ -11,6 +12,9 @@ with open('data/uk_universities_list.json', 'r') as f:
 		data_uni = json.load(f)
 with open('data/uk_secschools_list.json', 'r') as g:
 		data_sch = json.load(g)
+with open('data/Cities.json', 'r') as h:
+		data_city = json.load(h)
+		
 
 #user comes as lc.getProfile(URL)
 def _getUserEducation(profile):
@@ -69,3 +73,12 @@ def getEducation(user):
 	else:
 		return EDUCATION_TABLE_INVERTED["Low"]
 
+def getLocation(user):
+	lc = Linkedin()           # this guys is the linkedin crawler
+	profile = lc.getProfile(user)
+	if not _isUserFromUK(profile):
+		return NONE
+	else:
+		pr1 = profile["locality"]
+		list = pr1.split(",", 1)
+		return LOCATIONS_TABLE_INVERTED[data_city[list[0]]]

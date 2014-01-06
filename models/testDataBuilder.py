@@ -1,7 +1,7 @@
 import shelve, json, os
 
 SOURCE_DIRECTORY = "data/"  # where the shelve files are stores
-TARGET_DIRECTORY = "data/test_data/Demographics"
+TARGET_DIRECTORY = "data/test_data/Demographics/"
 
 class testDataBuilder:
   _db = None

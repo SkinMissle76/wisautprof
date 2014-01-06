@@ -1,5 +1,15 @@
-
+import sys, os
 from models.testDataBuilder import testDataBuilder
 
-btd = testDataBuilder(shelveFilename="female_merge.shelve")
+
+if len(sys.argv) > 1:
+  path = sys.argv[1]
+  print "generating in", path
+  btd = testDataBuilder(shelveFilename="female_merge.shelve", targetPath=str(path))
+else:
+  btd = testDataBuilder(shelveFilename="female_merge.shelve")
+
 btd.run()
+
+
+

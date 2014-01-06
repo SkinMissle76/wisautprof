@@ -6,8 +6,10 @@ TARGET_DIRECTORY = "data/test_data/Demographics"
 class testDataBuilder:
   _db = None
 
-  def __init__(self, shelveFilename):
+
+  def __init__(self, shelveFilename, targetPath = TARGET_DIRECTORY):
     self._db = shelve.open(SOURCE_DIRECTORY + shelveFilename)
+    self._targetPath = targetPath
 
   def run(self):
    for k, v in self._db.iteritems():
@@ -50,7 +52,7 @@ class testDataBuilder:
     self._writeIntoFile(content, path)
 
   def _getUserPath(self, uid):
-    return TARGET_DIRECTORY + str(uid) + "/"
+    return self._targetPath + str(uid) + "/"
 
   def _makeDataPath(self, uid, dataName):
     return self._getUserPath(uid) + "libshorttext_"+ dataName + ".txt"

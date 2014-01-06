@@ -11,15 +11,15 @@ GENDER_TABLE_INVERTED = {
   "F" :  1
 }
 
-def AGE_REAL_TO_SYS(sysAge):
+def AGE_SYS_TO_REAL(sysAge):
   if (sysAge > 1 or sysAge < -1):
     raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is " + sysAge)
-  return (sysAge + 1)*2/100
+  return 50*sysAge + 50.0
 
-def AGE_SYS_TO_REAL(realAge):
+def AGE_REAL_TO_SYS(realAge):
   if (realAge > 100 or realAge < 0):
     raise NameError("yo watch out dude, realAge must be between 0 and 100, yours is " + realAge)
-  return -1 + realAge*2/100
+  return (realAge - 50)/50.0
 
 # id -> county
 LOCATIONS_TABLE = {

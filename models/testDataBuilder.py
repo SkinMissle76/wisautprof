@@ -65,7 +65,7 @@ class testDataBuilder:
     f.close()
 
   def _buildDataLine(self, dataValue, tweetText):
-    return str(dataValue) + "  " + tweetText + "\n"
+    return str(dataValue) + "\tt s" + tweetText + "\n"
 
 
 

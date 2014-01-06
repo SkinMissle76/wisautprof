@@ -14,12 +14,12 @@ GENDER_TABLE_INVERTED = {
 def AGE_SYS_TO_REAL(sysAge):
   if (sysAge > 1 or sysAge < -1):
     raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is " + sysAge)
-  return 50*sysAge + 50.0
+  return ((sysAge*50)+50)
 
 def AGE_REAL_TO_SYS(realAge):
   if (realAge > 100 or realAge < 0):
-    raise NameError("yo watch out dude, realAge must be between 0 and 100, yours is " + realAge)
-  return (realAge - 50)/50.0
+    raise NameError("yo watch out dude, realAge must be between 0 and 100, yours is %s" % realAge)
+  return ((realAge-50)/50)
 
 # id -> county
 LOCATIONS_TABLE = {

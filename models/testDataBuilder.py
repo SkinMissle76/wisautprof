@@ -1,4 +1,7 @@
 import shelve, json, os
+from classifiers.Education import OkcupidEducation, EDUCATION_TABLE_INVERTED
+
+EC = OkcupidEducation()
 
 SOURCE_DIRECTORY = "data/"  # where the shelve files are stores
 TARGET_DIRECTORY = "data/test_data/Demographics/"
@@ -16,11 +19,17 @@ class testDataBuilder:
      u = json.loads(self._db[k])
      uid = u["userid"]
      tweets = u["tweets"]
+
+     if u["education"] is not None:
+       edu = EC.getEducationLevelFromString(u["education"])
+     else:
+       edu = EDUCATION_TABLE_INVERTED["Low"]
+
      if len(tweets) > 0:
        self._declareUser(uid)
        self._buildAgeData(uid, u["age"], tweets)
        self._buildGenderData(uid, u["gender"], tweets)
-       self._buildEducationData(uid, u["education"], tweets)
+       self._buildEducationData(uid, edu, tweets)
        self._buildLocationData(uid, u["location"], tweets)
      print uid
 

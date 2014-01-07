@@ -16,8 +16,8 @@ with open('data/uk_secschools_list.json', 'r') as g:
 with open('data/Cities.json', 'r') as h:
 		data_city = json.load(h)
 		
-lc = Linkedin()           # this guys is the linkedin crawler
-profile = lc.getProfile(URLS[0])
+#lc = Linkedin()           # this guys is the linkedin crawler
+#profile = lc.getProfile(URLS[1])
 
 		
 #user comes as lc.getProfile(URL)
@@ -93,9 +93,10 @@ def getLocation(profile):
 
 #returns the age of the user
 def getAge(profile):
-	
 	edu = profile["education"]
 	edu1 = _getUserEducation(profile)
+	if edu == {}:
+		return null
 	if _isUserFromSch(edu1):
 		age = 1000
 		for un in edu:
@@ -112,3 +113,5 @@ def getAge(profile):
 				if buff > age:
 					age=buff
 		return age
+
+#print getAge(profile)

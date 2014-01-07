@@ -16,12 +16,12 @@ class testDataBuilder:
      u = json.loads(self._db[k])
      uid = u["userid"]
      tweets = u["tweets"]
-     self._declareUser(uid)
-     self._buildAgeData(uid, u["age"], tweets)
-     self._buildGenderData(uid, u["gender"], tweets)
-     self._buildEducationData(uid, u["education"], tweets)
-     self._buildLocationData(uid, u["location"], tweets)
-
+     if len(tweets) > 0:
+       self._declareUser(uid)
+       self._buildAgeData(uid, u["age"], tweets)
+       self._buildGenderData(uid, u["gender"], tweets)
+       self._buildEducationData(uid, u["education"], tweets)
+       self._buildLocationData(uid, u["location"], tweets)
      print uid
 
   def _declareUser(self, uid):
@@ -65,7 +65,7 @@ class testDataBuilder:
     f.close()
 
   def _buildDataLine(self, dataValue, tweetText):
-    return str(dataValue) + "\tt s" + tweetText + "\n"
+    return str(dataValue) + "\t" + tweetText + "\n"
 
 
 

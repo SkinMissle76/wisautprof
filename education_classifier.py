@@ -1,6 +1,7 @@
 from models.tables import EDUCATION_TABLE_INVERTED
 from models.tables import LOCATIONS_TABLE_INVERTED
 from crawlers.LinkedinDOM import Linkedin
+from decimal import *
 import json
 
 URLS = [
@@ -15,7 +16,10 @@ with open('data/uk_secschools_list.json', 'r') as g:
 with open('data/Cities.json', 'r') as h:
 		data_city = json.load(h)
 		
+lc = Linkedin()           # this guys is the linkedin crawler
+profile = lc.getProfile(URLS[0])
 
+		
 #user comes as lc.getProfile(URL)
 def _getUserEducation(profile):
 	educations = []
@@ -32,37 +36,43 @@ def _isUserFromUK(profile):
 		return True
 	else:
 		return False
-		
+
+def _isUniversity(uni):
+	words = uni.split()
+	for word in words:
+		if word == "University" or word == "university":
+			return True
+	for da in data_uni:
+		if uni == da[u'name'] or uni == da[u'acronyms']:
+			return True
+	return False
+	
 #edu is list of educations. Returns True if user has university education and False if not
 def _isUserFromUni(edu):
 	for un in edu:
-		words = un.split()
-		for word in words:
-			if word == "University" or word == "university":
-				return True
-	for un in edu:
-		for da in data_uni:
-			if un == da[u'name'] or un == da[u'acronyms']:
-				return True
+		if _isUniversity(un):
+			return True
+	return False
+
+def _isSchool(sch):
+	words = sch.split()
+	for word in words:
+		if word == "College" or word == "High" or word == "college" or word == "high":
+			return True
+	for da in data_sch:
+		if sch == da[u'name']:
+			return True
 	return False
 	
 #edu is list of educations. Returns True if user has university education and False if not
 def _isUserFromSch(edu):
 	for un in edu:
-		words = un.split()
-		for word in words:
-			if word == "College" or word == "High" or word == "college" or word == "high":
-				return True
-	for un in edu:
-		for da in data_uni:
-			if un == da[u'name']:
-				return True
+		if _isSchool(un):
+			return True
 	return False
 
-## User comes as URL
-def getEducation(user):
-	lc = Linkedin()           # this guys is the linkedin crawler
-	profile = lc.getProfile(user)
+## User comes as profile
+def getEducation(profile):	
 	if not _isUserFromUK(profile):
 		return NONE
 	edu = _getUserEducation(profile)
@@ -73,12 +83,32 @@ def getEducation(user):
 	else:
 		return EDUCATION_TABLE_INVERTED["Low"]
 
-def getLocation(user):
-	lc = Linkedin()           # this guys is the linkedin crawler
-	profile = lc.getProfile(user)
+def getLocation(profile):
 	if not _isUserFromUK(profile):
 		return NONE
 	else:
 		pr1 = profile["locality"]
 		list = pr1.split(",", 1)
 		return LOCATIONS_TABLE_INVERTED[data_city[list[0]]]
+
+#returns the age of the user
+def getAge(profile):
+	
+	edu = profile["education"]
+	edu1 = _getUserEducation(profile)
+	if _isUserFromSch(edu1):
+		age = 1000
+		for un in edu:
+			if _isSchool(un["school"]):
+				buff = 2013 - Decimal(un["period"]["end"].split("-", 1)[0]) + 18
+				if buff < age:
+					age=buff
+		return age
+	if _isUserFromUni(edu1):
+		age = 0
+		for un in edu:
+			if _isUniversity(un["school"]):
+				buff = 2013 - Decimal(un["period"]["start"].split("-", 1)[0]) + 19
+				if buff > age:
+					age=buff
+		return age

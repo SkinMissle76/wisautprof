@@ -1,4 +1,4 @@
-import shelve, json, os
+import shelve, json, os, string
 from classifiers.Education import OkcupidEducation, EDUCATION_TABLE_INVERTED
 
 EC = OkcupidEducation()
@@ -14,11 +14,24 @@ class testDataBuilder:
     self._db = shelve.open(SOURCE_DIRECTORY + shelveFilename)
     self._targetPath = targetPath
 
+
+  def _processPunctuation(self, text):
+    t = text.encode("ascii", "ignore")\
+      .replace("\n", "").replace("'", "")
+
+    for p in string.punctuation:
+      t = t.replace(p, " "+p+" ")
+
+    return t
+
+
   def run(self):
    for k, v in self._db.iteritems():
      u = json.loads(self._db[k])
      uid = u["userid"]
      tweets = u["tweets"]
+     tweets = [self._processPunctuation(t)
+               for t in tweets]
 
      if u["education"] is not None:
        edu = EC.getEducationLevelFromString(u["education"])

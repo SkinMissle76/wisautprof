@@ -1,8 +1,8 @@
 [
   {
     "coderwallUsername": "pawelkrupinski", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "29", 
     "socialLinks": [
       {
         "website": "github", 
@@ -17,157 +17,13 @@
         "link": "https://twitter.com/pawel_krupinski"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "davegardnerisme", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/davegardnerisme"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/davegardnerisme"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/davegardnerisme"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://www.davegardner.me.uk/"
-      }, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "jameslutley", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/jameslutley"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/jameslutley"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/jameslutley"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://jameslutley.com/"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "jimgolfgti", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/jimgolfgti"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/james-hopper/11/280/912"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/jimgolfgti"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "ascanio", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/ascanio"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/jaimeascanio"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/de_ascanio"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://www.jaimeascanio.com"
-      }, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "wildtangent", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/wildtangent"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/authomedia"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/wildtangent"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "danbarber", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/danbee"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/pixelhum"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/danbee"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://pixelhum.com"
-      }
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "mezis", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "36", 
     "socialLinks": [
       {
         "website": "github", 
@@ -186,62 +42,13 @@
         "link": "http://dec0de.me/"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "dwhenry", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/dwhenry"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/david-henry/3/b60/0"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/dw_henry"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "craigmarvelley", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/craigmarvelley"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/craigmarvelley"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/craigmarvelley"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://marvelley.com"
-      }, 
-      null, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "ncantor", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "34", 
     "socialLinks": [
       {
         "website": "github", 
@@ -260,13 +67,13 @@
         "link": "http://nrcantor.blogspot.com"
       }
     ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "michaellavelle", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "38", 
     "socialLinks": [
       {
         "website": "github", 
@@ -285,34 +92,13 @@
         "link": "http://michaellavelle.tumblr.com/tagged/java"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "mattwillsh", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/mattwillsh"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/matthewwillsher"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/mattwillsh"
-      }
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "detro", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "31", 
     "socialLinks": [
       {
         "website": "github", 
@@ -329,83 +115,15 @@
       {
         "website": "blog", 
         "link": "http://blog.ivandemarino.me"
-      }, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "mrjoshmiller", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/joshmiller83"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/josh3"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/MrJoshMiller"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "mniec", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/mniec"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/michal-niec/40/614/490"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/skamander"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "jenkoian", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/jenkoian"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/jenqo"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/jenko"
-      }, 
-      null, 
-      null, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "johannac", 
-    "gender": null, 
-    "age": null, 
+    "gender": "1", 
+    "age": "28", 
     "socialLinks": [
       {
         "website": "github", 
@@ -424,34 +142,13 @@
         "link": "http://johannacherry.com"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "tommg", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/tommg"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/tom-garbutt/54/2aa/a22"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/tomgarbutt"
-      }
-    ], 
-    "location": null, 
-    "education": null
+    "location": "16", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "lukecarrier", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "21", 
     "socialLinks": [
       {
         "website": "github", 
@@ -468,16 +165,15 @@
       {
         "website": "blog", 
         "link": "http://lukecarrier.me/"
-      }, 
-      null
+      }
     ], 
-    "location": null, 
-    "education": null
+    "location": 43, 
+    "education": "2"
   }, 
   {
     "coderwallUsername": "anthonylevings", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "33", 
     "socialLinks": [
       {
         "website": "github", 
@@ -496,13 +192,13 @@
         "link": "http://sketchytech.blogspot.com"
       }
     ], 
-    "location": null, 
-    "education": null
+    "location": "23", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "cloud8421", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "28", 
     "socialLinks": [
       {
         "website": "github", 
@@ -517,38 +213,13 @@
         "link": "https://twitter.com/cloud8421"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "andyferra", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/andyferra"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/andyferra"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/andyferra"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://andyferra.com"
-      }
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "irpap", 
-    "gender": null, 
-    "age": null, 
+    "gender": "1", 
+    "age": "26", 
     "socialLinks": [
       {
         "website": "github", 
@@ -563,223 +234,13 @@
         "link": "https://twitter.com/irene_papak"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "shodan_uk", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/shodanuk"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/terry-morgan/14/24b/2b0"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/shodan_uk"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://terrymorgan.me"
-      }, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "sshingler", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/sshingler"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/sshingler"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/sshingler"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://devmull.net"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "iamfledge", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/IAmFledge"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/ecawoodcock"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/IAmFledge"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://www.edwardwoodcock.com"
-      }, 
-      null, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "perigrin", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/perigrin"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/perigrin"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/perigrin"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://chris.prather.org"
-      }, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "robustdj", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/robustdj"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/derrick-camerino"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/robustdj"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://www.programifications.com"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "garfbradaz", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/garfbradaz"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/gareth-bradley/23/483/965"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/garfbradaz"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://garfbradazweb.wordpress.com/"
-      }, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "jerel", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/jerel"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/jerel-unruh/27/873/b99"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/jerelunruh"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://unruhdesigns.com"
-      }
-    ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "OiNutter", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/OiNutter"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/pub/will-mckenzie/48/940/77"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/Enechorion"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://www.oinutter.co.uk"
-      }, 
-      null, 
-      null
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "alishutc", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "31", 
     "socialLinks": [
       {
         "website": "github", 
@@ -798,38 +259,13 @@
         "link": "http://www.alistairh.co.uk"
       }
     ], 
-    "location": null, 
-    "education": null
-  }, 
-  {
-    "coderwallUsername": "dannycroft", 
-    "gender": null, 
-    "age": null, 
-    "socialLinks": [
-      {
-        "website": "github", 
-        "link": "https://github.com/dannycroft"
-      }, 
-      {
-        "website": "linkedin", 
-        "link": "http://www.linkedin.com/in/dannycroft"
-      }, 
-      {
-        "website": "twitter", 
-        "link": "https://twitter.com/dannycroft"
-      }, 
-      {
-        "website": "blog", 
-        "link": "http://dannycroft.co.uk"
-      }
-    ], 
-    "location": null, 
-    "education": null
+    "location": "17", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "c24w", 
-    "gender": null, 
-    "age": null, 
+    "gender": "-1", 
+    "age": "23", 
     "socialLinks": [
       {
         "website": "github", 
@@ -848,8 +284,8 @@
         "link": "http://c24w.github.com"
       }
     ], 
-    "location": null, 
-    "education": null
+    "location": "21", 
+    "education": "3"
   }, 
   {
     "coderwallUsername": "tomgco", 

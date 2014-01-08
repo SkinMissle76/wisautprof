@@ -19,6 +19,16 @@ class testDataBuilder:
   def __init__(self, shelveFilename):
     self._db = shelve.open(SOURCE_DIRECTORY + shelveFilename)
     self._targetPath = TARGET_DIRECTORY
+    self._emptyFolder(TARGET_DIRECTORY_TESTING)
+    self._emptyFolder(TARGET_DIRECTORY_TRAINING)
+    x = 2
+
+  def _emptyFolder(self, path):
+    for root, dirs, files in os.walk(path):
+      for f in files:
+        os.unlink(os.path.join(root, f))
+      for d in dirs:
+        shutil.rmtree(os.path.join(root, d))
 
   def _processPunctuation(self, text):
     t = text.encode("ascii", "ignore")\
@@ -50,7 +60,7 @@ class testDataBuilder:
        edu = EDUCATION_TABLE_INVERTED["Mid"]
 
      print uid, len(tweets), self._nbOfValidUsers
-     if len(tweets) > 0:
+     if len(tweets) > 10:
        self._nbOfValidUsers+=1
        self._declareUser(uid, tweets)
        self._buildAgeData(uid, u["age"], tweets)

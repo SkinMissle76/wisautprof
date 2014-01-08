@@ -26,6 +26,15 @@ class CountiesDB:
     else:
       raise ValueError("countyId " + countyId + " has not been found, sorry")
 
+  def getCountyByName(self, countyName):
+    counties = self.getAllCounties()
+    matches = filter(lambda c : str.lower(c["county"]) == str.lower(countyName),
+                     counties)
+    if len(matches) > 0:
+      return matches[0]["countyId"]
+    else:
+      return None
+
   def getAllCounties(self):
     return [self.get(c) for c in self._db.keys()]
 
@@ -34,5 +43,36 @@ class CountiesDB:
     for c in self.getAllCounties():
       cities.extend(c["cities"])
     return cities
+
+  def getCity(self, cityName):
+    cities = self.getAllCities()
+    matches = filter(lambda c : str.lower(str(c["city"]))
+                             == str.lower(str(cityName)), cities)
+    if len(matches) > 0:
+      return matches[0]
+    else:
+      return None
+
+  def getCityCounty(self, cityName):
+    city = self.getCity(cityName)
+    if city != None:
+      return city["countyId"]
+    else:
+      return None
+
+
+
+  def addCityToCounty(self, countyId, cityName):
+    county = self.get(countyId)
+    county["cities"].append({
+      'city': cityName,
+      'county': county["county"],
+      'countyId': county["countyId"]
+    })
+    self._db[str(county["countyId"])] = county.copy()
+
+
+
+
 
 

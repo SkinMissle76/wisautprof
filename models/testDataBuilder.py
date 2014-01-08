@@ -1,4 +1,4 @@
-import shelve, json, os, string
+import shelve, json, os, string, shutil
 from classifiers.Education import OkcupidEducation, EDUCATION_TABLE_INVERTED
 
 EC = OkcupidEducation()
@@ -67,10 +67,15 @@ class testDataBuilder:
       self._nbOfTestingTweets += len(tweets)
 
     self._currentUserPath = path
-    try:
-      os.stat(path)
-    except:
-      os.mkdir(path)
+    folderExists = os.path.exists(path)
+
+    if folderExists:
+      shutil.rmtree(path)
+
+    os.mkdir(path)
+
+
+
 
   def _buildAgeData(self, uid, age, tweets):
     self._buildData(uid, "age", age, tweets)

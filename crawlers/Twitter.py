@@ -79,6 +79,20 @@ class TwitterCrawler:
     #return json.dumps(map(lambda x : x.getJSON(), tweets))
     return searchResults
 
+  def widesearch(self, term, loops=2):
+    res = []
+
+    for i in range(loops):
+      if len(res) > 0:
+        maxId = res[-1].id
+        sr = self.searchTweets(term, max_id=maxId)
+      else:
+        sr = self.searchTweets(term)
+
+      res.extend(sr)
+
+    return res
+
   def getUser(self, userId = None, userName = None):
     if userId != None:
       user = self.apis1[0].GetUser(userId)

@@ -75,6 +75,55 @@ class AboutmeWithProfilesDB:
     profile = self.get(username)
     return profile["linkedin"]["locality"]
 
+  def getEducation(self, username):
+    profile = self.get(username)
+    return profile["linkedin"]["education"]
+
+  def getFirstName(self, username):
+    profile = self.get(username)
+    return profile["linkedin"]["firstName"]
+
+  def getTwitterId(self, aboutmeUsername):
+    profile = self.get(aboutmeUsername)
+    if self.hasTwitter(aboutmeUsername):
+      return profile["twitter"]["profile"]["id"]
+    else:
+      return None
+
+  def getTweets(self, aboutmeUsername):
+    profile = self.get(aboutmeUsername)
+    if self.hasTweets(aboutmeUsername):
+      return profile["twitter"]["tweets"]
+    else:
+      return None
+
+
+
+  def addTweets(self, aboumeUsername, tweets):
+    profile = self.get(aboumeUsername)
+    if self.hasTwitter(aboumeUsername):
+      if not self.hasTweets(aboumeUsername):
+        profile["twitter"]["tweets"] = {}
+
+      profile["twitter"]["tweets"].update(tweets)
+      self._db[aboumeUsername] = profile.copy()
+    else:
+      raise ValueError("No twitter profile found")
+
+  def hasTweets(self, aboutmeUsername ):
+    profile = self.get(aboutmeUsername)
+    if self.hasTwitter(aboutmeUsername):
+      return profile["twitter"].has_key("tweets")
+    else:
+      return False
+
+
+
+
+
+
+
+
 
 
 

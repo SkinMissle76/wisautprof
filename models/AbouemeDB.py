@@ -49,6 +49,21 @@ class AboutmeDB:
     f = lambda u : self.hasLinkedinProfile(u) and self.hasTwitterProfile(u)
     return filter(f, self._db.keys())
 
+  def getBlogs(self, username):
+    blogs = ["wordpress", "blogger", "tumblr"]
+    for b in blogs:
+      if self.hasSocialProfile(username, b):
+        return self.getSocialProfile(username, b)
+
+  def getBlogUrl(self, username):
+    blogs = self.getBlogs(username)
+    if blogs is not None and len(blogs) > 0:
+      return blogs[0]["url"]
+    else:
+      return None
+
+
+
 
 
 

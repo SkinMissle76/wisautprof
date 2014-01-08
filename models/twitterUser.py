@@ -98,4 +98,47 @@ class Tweet:
       return POLARITY_TABLE[self.polarity]
 
 
+class oTwitterUser:
 
+  userId = None
+
+  def __init__(self, userId, gender, age, education, location, tweets):
+    self.userId = userId
+    self.name = gender
+    self.location = age
+    self.gender = education
+    self.tweets = tweets
+
+
+  gender = None        # -1, 1
+  age = None           # -1..1
+  education = None     # 1, 2, 3
+  location = None      # 1..47
+
+  tweets = None
+
+  def readGender(self):
+    if self.gender != None:
+      return GENDER_TABLE[self.gender]
+
+  def readAge(self):
+    if self.age != None:
+      return AGE_SYS_TO_REAL(self.age)
+
+  def readEducation(self):
+    if self.education != None:
+      return EDUCATION_TABLE[self.education]
+
+  def readLocation(self):
+    if self.location != None:
+      return LOCATIONS_TABLE[self.location]
+
+  def jsonify(self):
+    return json.dumps({
+      "userid"    : self.userid,
+      "gender"    : self.gender,
+      "age"       : self.age,
+      "education" : self.education,
+      "location"  : self.location,
+      "tweets"    : self.tweets
+    })

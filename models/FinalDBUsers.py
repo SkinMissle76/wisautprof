@@ -20,3 +20,5 @@ class FinalDBUsers:
       "location" : location,
       "tweets" : tweets
     }
+  def get(self, twitterId):
+    return self._db[twitterId]

@@ -8,7 +8,6 @@ import urllib2
 import time
 import string
 
-from bs4 import BeautifulSoup
 db_twitter_female = shelve.open("data/Twitter_results_db_dump_FEMALE.shelve")
 db_twitter_male = shelve.open("data/Twitter_results_db_dump_MALE.shelve")
 

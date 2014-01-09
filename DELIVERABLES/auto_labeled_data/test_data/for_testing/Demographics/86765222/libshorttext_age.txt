@@ -1,0 +1,165 @@
+-0.4	Netflix isnt working .   :  -  (  . 
+-0.4	 @ TalkTalkCare Seems to have stabilized for now .  Connection has been up for 30 minutes without issue .  Still cant access line test though . 
+-0.4	New blog post :  Initial impressions of the Surface Windows 8 Pro 
+-0.4	New Blog Post  -  Microsoft Tech . Days 2012 :  Windows Server … 
+-0.4	 @ ashalaw LOL ,  cant update my  # office365 password on  # ipad on  # chrome either .  Save button does nothing .   # fail
+-0.4	
+-0.4	 @ TalkTalkCare Only have one phone socket and no phone connected to it .  DSL light green and stable .  Do you have an ETA on the linetest fix ? 
+-0.4	My dude .   # Dalmatian 
+-0.4	Move VHDs between on premise and the cloud ?  Easy with azure and  # WS2012
+-0.4	 # Electricity is down in  # Hampshire . 
+-0.4	sign in issues on Office 365 Outlook right now .  MS are working on the fix .  Fix should be ready 2pm PST 
+-0.4	 # Windows  # Azure  # WordPress HTTP error 500  -  just turn on diagnostics in the portal and will start working again .  Cost us  + 500 visitors  :  -  ( 
+-0.4	Microsoft betas System Center service pack for unified control 
+-0.4	Best of Microsoft Management Summit  ( MMS )  UK 2013 
+-0.4	3 FREE  # Facebook Timeline Covers  |   # Phostohop  |   
+-0.4	Nasal and in my office that echos .  How anyone can understand me on the phone is a mystery .  Need some stuff on the walls . 
+-0.4	Damn ,   puppies are expensive 
+-0.4	 @ ashalaw something to do with the session and authentication .  .  .  Kemp Load Balancer rules out at the cause .  TMG not liking session changes . 
+-0.4	Eine bier bitte 
+-0.4	If  # London were a person ,  what organ would the tubes be ?  Hot ,  smelly .  .  .  Dont have to think too hard . 
+-0.4	 @ TalkTalkCare that would be great .  Do you need my mobile number ? 
+-0.4	 @ tokiloshe Seen searching for sugar man ? 
+-0.4	 @ southernelecPD Thanks . 
+-0.4	New blog post :  Create Search Server Express 2010 slipstream installation media 
+-0.4	New Blog Post  -  When cliconfg . exe didnt work for changing the SharePoint DB 
+-0.4	Just posted a photo 
+-0.4	Well ,   thats 15 min that I will never get back .  Thanks network cross over cable .  I hate you .  From me . 
+-0.4	Power Map for Excel earns new name with significant updates to 3D visualizations and storytelling 
+-0.4	 @ AndrewWoody after setup would just be a couple of shortcuts with descriptive names .  Workstation needs to be on same or trusted domain . 
+-0.4	OK ,  so  # WindowsRT is poor but the  # Windows8Pro  # Surface has just arrived and Im stoked .  All my apps ,  great form factor .   # Happy  # Techie . 
+-0.4	 @ jlagrue seems that way .  Even small changes to topology or config seem to consume way more than necessary .  .  . dont even mention custom code .  . 
+-0.4	Totally untrue facts about Andrew Wakefield  |  Dean Burnett 
+-0.4	 " Failed to save event "  Looks like I only use twitter to report problems these days .   # Google  # Calendar  # gcal
+-0.4	OneNote for iPhone and iPad update ,  new notebooks and sections on iPad ,  and additional improvements on iPhone 
+-0.4	 @ 123regHelp can you help out with ticket 130312 - 000727 .  Web site down and its urgent .  Thanks . 
+-0.4	Part of the desert process tomorrow .  If you aint had it ,  I cant explain what its like .  
+-0.4	Patience and technology seldom mix .  Its SQL servers all the way down today ,  rather than turtles . 
+-0.4	 @ karlheyden nice ,  you enjoying it ? 
+-0.4	Oh dear ,   # Lync  # Down  # Office365 .  Didnt last long though ,  30 seconds at most .  
+-0.4	Anyone looking to monitor public facing web sites and services ,  these guys rock 
+-0.4	 @ AndrewWoody simplest I could suggest is rdp onto vm / rds host which is on that untrusted domain and launch shortcuts to runas from there . 
+-0.4	Small project for the weekend  ( as if I need more )  Install linux mint on that old netbook . 
+-0.4	 @ ashalaw  @ 123regHelp Not to worry .  We ended up fixing it ourselves . 
+-0.4	These are the devices that will kill off Windows RT 
+-0.4	I survived my flight in a glider .   
+-0.4	 @ Jon _ Maunder wasnt aware of that but no ,  too many projects in the go .  Had our own azure meltdown yesterday .  .  .  Watch out for trial !  Danger
+-0.4	 @ reubencook 850 / 900 / 775  -  average would have been nice .  Hard luck on the 641 section . 
+-0.4	 @ TalkTalkCare The line test doesnt start .  Just says  " Check your TalkTalk service "  ,  try entering my phone number then just loops back . 
+-0.4	Off for some  # training in London today for  @ NimbleStorage with  @ reubencook . 
+-0.4	Microsoft  # SharePoint Server 2013 is Now Available 
+-0.4	Hope Loki Bear will have enough stimulation .  
+-0.4	 @ reubencook  @ joe _ elway still be running windows phone ,  great camera or not .  Dont like the OS and most of my required apps arent on it . 
+-0.4	At the Windows Server 2012 Technical Launch event  # WS2012  # Geektastic day .  
+-0.4	 @ southernelec Power in Four Marks ,  Hampshire flickering for the last two hours .  I hear there is a tree on a line .  Eta on a fix ?  Thanks . 
+-0.4	Nothing worse than commenting on a tweet ,  then releasing its a fake account and being followed by loads of their bot friends . 
+-0.4	Im using StatusCake Uptime monitoring to ensure I know if my sites go down  -  its free !  
+-0.4	Just posted a photo 
+-0.4	 @ tokiloshe Just trying to get some interaction going with anyone who knows something about the subject .  Sadly ,  no one responded . 
+-0.4	Finally ,  sky +  HD .  Wonderful .   
+-0.4	Progress ,  I find ,  usually comes in sharp bursts ,  preceded by inspiration and insight ,  preceded by contemplation and distractions .   # WFH
+-0.4	 @ msclairblog what a load of rubbish .  Really ?  Cancer patience getting better quicker ?  If that were true ,  it would be news .   # fraud  # bs  # WTF
+-0.4	Thanks Karl ,  first one open .  Tastes great .  
+-0.4	Nothing worse than inspiration striking requiring a big surface area and nothing more than a smartphone to hand .  My Kingdom for even a pen ! 
+-0.4	Late night work slot for a customer .  Spotify playing in the ears and Pulp Fiction playing on the second screen while I rebuild servers . 
+-0.4	New Blog Post  -  The mysterious case of missing blog post images after migration .   # wordpress  # migration  # azure 
+-0.4	 @ Jon _ Maunder ticket open with MS .  When we find out will blog and tweet about it  @ reubencook is on the case from our side . 
+-0.4	Nothing like a  # SharePoint User Profile Service issue to start the day . 
+-0.4	My Samsung Galaxy SIII has arrived .  Needed to chop the SIM into a micro SIM ,  managed to get that right and can now say goodbye to my iPhone
+-0.4	Really enjoyed my  ( free )   # SQL Server 2012 first look clinic yesterday with  # Pearson and Joan Sheffield .  Looking forward to finding out more . 
+-0.4	To execute or pivot .  That is the question . 
+-0.4	 @ Jon _ Maunder keen an eye on your compute hours during the trial .  Your vms might vanish even after you start paying .  .  Wordpress site didnt
+-0.4	SharePoint Online improves limits and makes it easier to restore documents 
+-0.4	 # Office365 SharePoint  " You are not a member of this site .  "  Intermittently today .  Windows 8 .  IE10 .  Havent figured out why yet .  .  . 
+-0.4	Go forth my 500 lines of  # Powershell and be merry ,  error ye not and fulfill your  # SharePoint purpose . 
+-0.4	New blog post :  Hide SharePoint calculated columns from display form with PowerShell 
+-0.4	 @ KarlHeyden Looks great out there .  Pretty miserable out here .  .  .  raining and grey  :  -  ( 
+-0.4	 @ TalkTalkCare wired .  I am connected to my router and am watching the disconnect .  If I manually redial ppoa sometimes it reconnects . 
+-0.4	Waddaya mean I cant handle a whole bottle ?  
+-0.4	 @ Squarespace Hi guys .  Cant login and my squarespace site is down .  Nothings changed in weeks on the site .  Problems ? 
+-0.4	 # Office365  # SharePointOnline feature matrix Spreadsheet download 
+-0.4	 # SharePoint evangelism starts young in our household .  
+-0.4	New blog post :  QR Codes in a SharePoint List 
+-0.4	Lovely day down at the Arlesford sports festival .   
+-0.4	Mail Protection Reports for Office 365 
+-0.4	Recursive ,  meta and useful all in one .  
+-0.4	Screw you  # SharePoint2010 ,  being patient ,  methodical ,  willing to work late and skilled at voodoo will always triumph over your evil ,  hahaha ! 
+-0.4	Cant figure out what Im going to use this  # WindowsRT laptop for .  .  . 
+-0.4	 @ Tokiloshe  @ ClaytonReabow My Dalmatian wouldnt think that .  .  . Ive been in the same room with him for nearly a week . 
+-0.4	Try the Onetastic add - in to bring tons of new features to OneNote 
+-0.4	It’s Time to Break Up the SharePoint Brand 
+-0.4	Just posted our first project to  # freelancer .  Will be interesting to see how it works out .  May become a regular occurrence if goes well . 
+-0.4	 @ HmmConfused  @ reubencook true but no offline access .  Other apps missing for me like sp designer ,  ms project and 3rd party ones like chrome . 
+-0.4	Thought it was cooler today in London until I got on this train . 
+-0.4	This Incredible Full Scale Lego X - Wing Is the Largest Model In History 
+-0.4	Yesterday :  18 hour day ,  3 hours travelling ,  two SharePoint projects and partridge in a pear tree .   :  -  ) 
+-0.4	Twitter for dogs .   # Dalmatians 
+-0.4	First few hours at his new home ,  all run out of action now .  Met the family ,   settling in well .  
+-0.4	 " SharePoint is a Mess !  Lets Upgrade ,  That Will Fix It "  
+-0.4	Now thats pretty cool .  Netflix just emailed me about a series that I watched ,  that the next season is available .   # netflix
+-0.4	Just passed my 70 - 417 server 2012 exam .  A couple more and Ill get mcse . 
+-0.4	Connecting the digital world and physical world for a customer with QR codes ,  very cool .  Cant wait to complete the proof of concept . 
+-0.4	New blog post :   [ Solved ]  HTTP error 500 on Azure hosted wordpress blog 
+-0.4	New blog post :  Do you really want to update your software during the working day… ?  
+-0.4	New blog post :   [ Quickfix ]  Lync window title “Lync Basic  ( Non - Commercial Use ) ” 
+-0.4	 @ msclairblog show me the evidence .  .  . oh wait .  .  . there is none . 
+-0.4	 @ ShaunByres  @ google Youre right ,  thanks .  Looks like the issue is resolved now too . 
+-0.4	 @ TalkTalkCare My connection is flapping today RX  & amp ;  TX stop for a few sec / min then start again .  Line Test on the support site doesnt work . 
+-0.4	Serious advertising for Winchester Christmas market in Waterloo station .  
+-0.4	Microsoft secure Azure Storage goes down WORLDWIDE 
+-0.4	SharePoint success inforgraphic :  
+-0.4	If youre looking for motivation for throwing a computer against a wall ,  look no further than the touch keyboard on a Microsoft surface . 
+-0.4	Seven Productivity Myths ,  Debunked by Science  ( and Common Sense )  
+-0.4	Just uninstalled the  # Windows8 Skype App and installed the full desktop version .  App version only good for RT .  
+-0.4	Loving the camera on the Samsung 
+-0.4	 @ reubencook Malware riddled site ,  even my browser warned me when I started clicking around . 
+-0.4	 @ andrewwoody  .  I have a DSADD script for wacking 100 dummy users into a test domain and just use a  . cmd file with IE  " run as "  command line . 
+-0.4	New blog post :  Free SharePoint 2010 Foundation add - ons everyone should have 
+-0.4	Script to create a SharePoint group with permissions and add an AD group to it .  
+-0.4	 # SharePoint  # SP2010 help .   " Sign in as Different User "  TMG error 403  ( 12202 )  .  NTLM auth .  Web  & gt ;  TMG  & gt ;  Kemp load balancer  & gt ;  SharePoint .  Thanks ! 
+-0.4	Cuddling up together 
+-0.4	A little late in the year to open my fly suicide booth for business I will admit but business is looking goo 
+-0.4	 @ ashalaw wow .  That is a big area to have go dark .  
+-0.4	New blog post :  Office 365 SharePoint Online feature matrix spreadsheet 
+-0.4	Sadly ,  they are only for show and not functional .  
+-0.4	Final push on a big  # activedirectory project today and over the weekend .  Hold fast ,  dig in ,  nearly there . 
+-0.4	Cyberheist :  The Invisible Enemy  
+-0.4	New Blog Post :  Edition downgrade for SharePoint Search Server Express 2010 from SQL 2008 R2 Ent to SQL 2012 Express 
+-0.4	 @ eshupps it is the coffee table to my shin . 
+-0.4	 # Office365 ads on the train .  
+-0.4	 @ ashalaw I see the Service Status got updated an hour ago with reports of the issue  -  
+-0.4	Thoroughly enjoyable  # Mimecast partner event .  Learnt a lot and got inspirated to make email better for our customers .   # mcped
+-0.4	This is how we roll in my house .   # sceptic  # logic 
+-0.4	Anyone else having issues today with  # Outlook2013 and  # Office365 ?  All my clients and EAS devices showing disconnected .  Only OWA works . 
+-0.4	 @ jlagrue No problem .  Initial investigation into that custom nav solution on codeplex isnt promising .  Will look for others . 
+-0.4	At the UK Tech Days for windows server 2012 ,  Cardinal Place  # uktechdays  
+-0.4	anyone wanting to demo  # Office365 to a client with dummy data ,  it takes a long time to commission .  18h so far .  .  .  
+-0.4	New blog post :  Tips and steps for creating a SQL Alias for SharePoint to a new SQL server .  
+-0.4	 @ TalkTalkCare my socket doesnt have a test socket . 
+-0.4	Back on  # Windows8 for my new laptop .  Why am I liking more 6 months later ?  Guess it does grow on you .   # NotMetro  # Windows8Style
+-0.4	New blog post :  TechEd Europe 2013 – Getting ready… 
+-0.4	The six types of atheist 
+-0.4	IIS 8 centralised ssl certificate store  # WS2012 gonna save me a bunch of time . 
+-0.4	Argh !  only one PPTP VPN outgoing connection at a time through my router !   # multitasking  # fail
+-0.4	 @ TalkTalkCare will my details stay private if you dont follow me ? 
+-0.4	Gathering entropy for  # encryption is like giving to charity .  It makes you a better person .   # Truecrypt
+-0.4	Goodbye Windows phone ,  hello HTC one .   # HappyDays  # LifeisGood  # NormalityRestored
+-0.4	Little rough around the edges still but have written a script for auto login and stored credentials for  # SharePoint on  # Office365 . 
+-0.4	 @ ConorB1 Youre right ,  thanks .  Looks like the issue is resolved now too . 
+-0.4	 @ taylortsides same here .  In the last 24 hours Ive gotten about 30 loan spam emails .  They just keep coming even if marked as spam .   # gmail . 
+-0.4	 @ Tokiloshe One of the most amazing ,  bizarre and heart warming true stories that I know . 
+-0.4	 @ reubencook Indeed ,  two of my favorite things .  Good find .  Not as good as the new baby though ,  that would be hyperbole and you know I never .  . 
+-0.4	 @ Jon _ Maunder I didnt go but we should touch base again .  Have some learnings from Azure and more tails from IT biz owner trenches . 
+-0.4	Finished my  # PowerShell script for helping migrate  # SharePoint from sites to site collections .  1000s of excel and word files with wrong URL
+-0.4	Why cant  # MSWord be as enjoyable to use as  # LiveWriter ? 
+-0.4	 @ TalkTalkCare dsl light now flashing when disconnected ,  stable when connected .  If I force connection stays up for a few seconds then drops . 
+-0.4	New Blog Post :  Adding a second WordPress site to Windows Azure
+-0.4	In the  # IT world we have to beware of logical fallacies just like everyone else ,  more so when implementing change .  
+-0.4	Run Rudolf !  
+-0.4	Cant seem to change my  # Office365 password on  # windowsRT  # InternetExplorer .   # Fail
+-0.4	 @ reubencook this new generation chip might be different .  Could be using some of the haswell tech . 
+-0.4	 # Lync 2013 preview ,  please stop asking for my password .  It is quite annoying . 
+-0.4	Step - by - Step :  Tired of Tapes ?  Backup your SQL Databases to the Cloud !   
+-0.4	 @ reubencook Dont worry ,  its responsive ,  not mobile .  One site URL ,  content just collapses down for screen sizes is all .  Were in the clear . 
+-0.4	View and download reports about service usage in Office 365 
+-0.4	New blog post :  How I have my mail view configured in Outlook 2013 

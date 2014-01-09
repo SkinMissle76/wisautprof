@@ -1,0 +1,144 @@
+23	Project Siena :  Enabling Business Users to Create Mobile Apps for the Enterprise 
+23	4 World - Changing Products Dreamed Up by Bill Gates 
+23	Clash of the Titans !  Inside Microsoft’s Battle to Foil the NSA 
+23	ZDNet :  Microsoft Azure :  Any way and anywhere you want it 
+23	Announcing Build 2014 
+23	Official Microsoft Blog :  Service Providers light up the Cloud OS 
+23	The top 10 business apps you need for Windows Phone 8 
+23	Windows Azure Storage Release  -  Introducing CORS ,  JSON ,  Minute Metrics ,  and More 
+23	LeWeb’13 and ‘The Next 10 Years’ :  The      digitization of nearly everything 
+23	Official Microsoft Blog :  Computer Science Education Week begins Monday – Join us in an ‘Hour of Code’ 
+23	 @ HuffPostChicago I think you want this guy  @ grahamelliot instead
+23	Engadget :  Xbox One self - publishing begins in early 2014 with a big list of devs onboard 
+23	Engadget :  Microsoft begins sign - ups for its Project Spark open beta 
+23	I Programmer :  Node . js Tools for Visual Studio 
+23	The Next Web :  Best practices for building cross platform mobile apps 
+23	Mr4 draws batman .  A star is born  :  -  )  
+23	 @ drmcghee  .  .  .  And that my OS skills dont go that far  :  -  ) 
+23	 @ drmcghee I started down that track ,  but after a frustratingly unsuccessful day  -  realized that patience is a virtue  :  -  ) 
+23	 @ SimonHolman Yes  -  the download is specific to your current OS version  ( e . g .  Windows8 - RT - arm )   -  you need to go to the page from your surface
+23	 @ SimonHolman Hit the  " Get it Now "  button  ( sounds like something Willy Wonka would say )  . 
+23	 @ SimonHolman Same process as previous  -  but now it works for non - US English versions
+23	 @ SimonHolman 
+23	Windows 8 . 1 for Aussie English release  !  YAY !  Surface updated ! 
+23	I am deploying an Ubuntu image in VirtualBox to do some Ruby development  -  the world feels very upside down . 
+23	 @ TomTaylorMade Read INJUSTICE  # 6 last night .  Wow !  Nice Job .  Says a lot that out of 20ish books I got yesterday I went for this one first  :  -  ) 
+23	Visual Studio 2013 install  -  Check .  Windows 8 . 1 install  -   Interwebs say No  :  -  ( 
+23	We are using the term “Humans” more at work .  eg  #  of Humans attending .  Wondering what else we are expecting – I hope its robots ,  not zombies
+23	I ? ve been awarded a trophy in the Global Corporate Challenge 
+23	Pretty ,  and useful .  Windows Azure Mobile Gaming Infographic :    
+23	I just backed AGENT :  The Worlds Smartest Watch on  @ Kickstarter 
+23	Windows Azure expands Downunder  :  
+23	 @ TomTaylorMade a nice mini - series at the moment is Plume  # BestComics
+23	 @ TomTaylorMade Oh  .  .  and Polarity  ( although probably doesnt count as Independent ) 
+23	 @ TomTaylorMade Besides The Deep  :  -  )  .  .  .  Kranburn  ( FEC )  ,  and pretty much every Image title coming out at the moment
+23	Mr4 loved his first FCBD ,  thanks  @ ascmelbourne  # allstarfcbd 
+23	 @ ascmelbourne Thats the plan  :  -  )  Will also try to swing back later to meet  @ TomTaylorMade as Miss7  ( and me  :  -  )  loves The Deep  # allstarfcbd
+23	 @ ascmelbourne He is also taking great enjoyment in annoying Miss7 ,  because she has dance and cant come  :  -  (   # allstarfcbd
+23	Taking Mr4 to  @ ascmelbourne on Sat for fcbd .  He doesnt understand time ,  so asks every 30 mins if we can get his comics now  :  -  )   # allstarfcbd
+23	 @ LewisBenge  :  -  ) 
+23	Who wants an awesome job at Microsoft in Sydney with the Azure Incubation team ?  Apply within :  
+23	 @ ryancrawcour Says the man sitting next to me chatting away  :  -  ) 
+23	Dear  @ interflora  .  .  .  Most pathetic bunch of flowers ever delivered via Society Flowers in Brighton  # completeripoff
+23	Dear Foxit  -  your PDF reader is awesome .  .  .  
+23	ROFL  -  
+23	 @ ryancrawcour Lucky You  -  it was painful  :  -  ) 
+23	 @ ryancrawcour Cant be as bad as TopGear Australia was
+23	How is  " La Vie en rose "  by Édith Piaf  ( circa 1945 )  the Top Song on Zune  today ? 
+23	 @ philgoldie Sorry ,  retweet mishap  :  -  ) 
+23	 @ philgoldie
+23	Just updated my iinet broadband plan to go from 70GB to 100GB  .  .  .  and it will cost me  $ 10 less a month .  Confused but happy  =  Ignorant Bliss . 
+23	On my way back from Sydney  .  .  .  Ill miss the nice weather  .  .  .  Melbourne is C . o . l . d . 
+23	Dear  @ officeworks ,  please learn the meaning of Same Day  ( which was yesterday )  and morning  ( which is generally thought to be before 12 : 00 )  . 
+23	 @ ryancrawcour looks fake  :  -  ) 
+23	Off to NZ tomorrow to meet up with our new Azure Evangelist  @ ryancrawcour .  6am flight  =  3am wake up .   # SleepyInAuckland . 
+23	Although ,  if you have a time machine  .  .  .  this is how you make money Biff  ( sell 3 TB HDDs in 1990 )  .  .  .  forget about betting on the horses . 
+23	1 . 5 TB USB HDD bought for  $ 72  .  .  .  Wow ,  I feel old .  I still remember my first 30MB HDD that cost nearly  $ 1 , 000 . 
+23	A must  ( although not very exciting  :  -  )  read :  Windows Azure Support White paper :  
+23	Off to the US for a week of Azure goodness . 
+23	Trying to catchup on 2 weeks of email after APC and TechEd .  .  .  not having much luck  :  -  ) 
+23	 @ johnazariah yep  .  .  .  Ill meet you outside the session
+23	 @ johnazariah matt is breaking lapel mic rule  # 1  .  .  .  Dont move you head in and out of mic range  :  -  ) 
+23	 @ Healsjnr Azure Compute
+23	 # auteched  .  .  .  In the Windows Azure Acid test session  .  .  .  Good turn out . 
+23	 @ Dave _ Fellows at Koi
+23	 @ Dave _ Fellows cant get into moomoo
+23	 @ Dave _ Fellows just heading to the hotel  .  .  .  See you in 15
+23	 @ Dave _ Fellows when you find somewhere  .  .  .  Let me know ,  I am sure I owe you a drink
+23	On the train from brissy to  # auteched
+23	 @ drmcghee of course  :  -  ) 
+23	 @ sorenstein  :  -  ) 
+23	 @ sorenstein Ahhhhh  .  .  .  .  .  I was wondering why  :  -  ) 
+23	 @ sorenstein Its awesome  :  -  ) 
+23	At  # myobpc11
+23	In Brisbane to present at the MYOB conference ,  then off to Gold Coast for teched  ( not sure how yet ) 
+23	 @ glav Hey Glav  !   .  .  .  Im coming up Wed afternoon and Thurs  .  .  .  lets catchup for a drink ! 
+23	Nice Azure video on  @ openwindowsau blog  .  .  
+23	Im in  !  !  !  RT  @ drmcghee :  Windows  # Azure at  # auteched .   Meetup on Wednesday night 7pm Satin Restaurant Lounge Bar 
+23	New blog about Open Source and Device Development in Windows Azure :   
+23	Changed my IE home page from ninemsn to Bing as the ninemsn  " ad - breaks "  were getting really annoying .  .  .  .  and Bing has pretty pictures . 
+23	 @ whoulden Good Luck ! 
+23	Arrived home last night to find my new Kindle DX waiting for me .  .  .  Credit where credits due  -  its nice . 
+23	At Gold Coast airport heading back to Melbourne  -  bye bye  # APC2011
+23	 @ markperth73 Thanks  !  !  !  !  !   :  -  ) 
+23	Sitting in  @ mikehea session at  # APC2011  .  .  .  partially to rest my weary feet ,  but mostly because Mike rocks ! 
+23	Be nice if the Gold Coast weather lived up to expectations . 
+23	Just finished my APC session  .  .  .  Now watching Nigel Watson spin his magic . 
+23	I just spent 20 mins tweaking my Xbox avatar to include in my APC presentation  .  .  .  good use of time ?  I think so  !  !   
+23	Must Have !  RT  @ WindowsAzure :  Windows  # Azure Team Blog :  Now Available  -  Windows  # Azure Accelerator for Web Roles v1 . 1 
+23	Favorite thing about working with ISVs  :  Cool offices in obscure parts of the city .  .  .   Least favorite thing…  ( cont )  
+23	 @ LewisBenge Maybe you should build a better CMS  :  -  ) 
+23	 @ LewisBenge  Maybe you need a better CMS  :  -  ) 
+23	Come hear more about this at TechEd Au :   Westpac bursts risk analysis to Azure .  .  .  
+23	2 hours of Live Meetings  /  Lync calls over 3G in the Qantas Club .  .  .  Kudos Telstra .  .  .  works better than in the MS office network ! 
+23	We are looking for an Azure evangelist in New Zealand if you know anyone
+23	In Sydney for DPE group hug  :  -  ) 
+23	A frantic search  on the  internet in the  Qantas Club  confirms that it is :  WPC here we come !  !  ! 
+23	A tip to avoid a heart attack at the air port :  check that your visa waiver for the US  is still valid before the lady at the desk asks you
+23	On my way to Sydney  .  .  .  although have nearly lost my voice ,  so not sure how productive the meetings will be  :  -  ) 
+23	My flight to NZ has been canceled  -  Damn you Ash cloud  [ shakes fist at sky ] 
+23	At home with 2 sick kiddies  :  ( 
+23	Dear Qantas  .  .  .  Please use a CDN which supports SSL  -  The secure / non - secure warnings are really annoying
+23	Initial thoughts on Asus Slate :  Very Very heavy .  .  .  .  but good . 
+23	 @ ClintonRock Not getting it until Friday . 
+23	 @ ClintonRock not sure I trust your opinion  .  .  .  Last time I checked you had an android one .   :  -  ) 
+23	 @ drmcghee Too heavy for that .  I am sure I will love it  .  .  .  I am easily pleased .  I love my 5 yr old eeepc so it has to be a step up
+23	 @ drmcghee  :  -  ) 
+23	My new Asus slate is waiting for me back in Melb  .  .  .  Very excited ,  but have a feeling I will be disappointed  :  ( 
+23	 @ drmcghee Will do  .  .  .  Although I tend to avoid the MS office when in town  :  ) 
+23	On my way to Sydney Airport after a day with some awesome ISVs
+23	Ya  -  productive day .  .  .  Now I am only 2 weeks behind in my email instead of 3  :  -  ) 
+23	 @ whoulden Congrats on the Egov award  -  Brilliant Stuff  ! 
+23	RT  @ whoulden :  Just picked up the national award for applications development with our DET NSW partners  !  !  !  
+23	6 flights last week  =  physio this week  :  -  ( 
+23	Cars ready  -   " free "  coffee and tissue box !  Bonus ! 
+23	Getting car cleaned between ISV mtgs  .  .  .  thought I should  get rid of kiddie food in back to chauffeur Azure Director around next week  :  ) 
+23	In the  ( renovated )  Sydney MS office  .  .  .  .  Its pretty . 
+23	A sign of the times ?    
+23	 @ dglover Just called me to tell me he had a package downstairs that he wanted me to pickup .  I of course laughed at the innuendo . 
+23	Im Back from leave  ( in body anyhow  .  .  .  mind will be back on Wednesday after Easter ) 
+23	Off to see Rick Stein tonight ! 
+23	 @ RockyH Thankfully no  :  -  ) 
+23	 @ RockyH Im ok  .  .  .  I ran into the back of someone so the front of the car is a bit of a mess
+23	C *  * p ,  C *  * p ,  C *  * p  .  .  .  Crashed my car this morning
+23	 @ DavidBurela  @ LewisBenge The more cloud ,  the more screens  :  -  ) 
+23	My 5 screens  
+23	I am currently using 5 screens  .  .  .  but one is showing the F1 practice via Media Center  so that doesnt count  :  -  ) 
+23	 @ frankarr Yay ! 
+23	At Top Gear Live  .  .  . 
+23	 @ frankarr Welcome back Frank  !  !  ! 
+23	BTW ,  it means :   " a frill or ruffle on the breast or throat of a garment ,  originally to hide the closure of a shirt "   .  .  I am indeed learning . 
+23	Should I feel bad that I played the word  " JABOT "  in  # alphajax and I dont actually know what it means ?   -  Only 15 points ,  so I think not . 
+23	Free oysters for dinner  ( Vivace left overs from Bright n Sandy Food  &  Wine Festival )   -  So if I am MIA tomorrow ,  you will know why  :  -  ) 
+23	 @ AlphaJax Perhaps you should let Charlie Sheen know  :  -  ) 
+23	I am hooked on AlphaJax  ( scrabble )  for  # WP7  -  Times to find me a retirement home !  ! 
+23	Its a little slow  .  .  .  will do until Samsung Slider PC7 is released  .  .  .  which will do until Win 8 is released  .  .  .  then hopefully !  Finally !   :  ) 
+23	Resurrecting  my old EeePc as I need something portable and an iPad would be a bad look in MS meetings  :  -  ) 
+23	Mr2 is very into cars at the moment  .  .  .  Which leads to the age old question  -  MatchBox or Hot Wheels ? 
+23	I should clarify  .  .  .  .  I am not chuffed that Miss5 is sick  .  .  .  I am chuffed that I get to eat Pizza and catchup on email  :  -  ) 
+23	 @ whoulden How did the IDC preso go ? 
+23	Home alone  ( Miss5 sick so couldnt go to school drinks )  waiting for pizza  +  doing email  -  May seem sad ,  but actually I am quite chuffed . 
+23	I just noticed they changed the smiley emoticon in the new version of Live Messenger  .  .  .  That seems wrong .  Very Very Wrong . 
+23	Whoever decided to use Soft Touch Keys for back / home / search on the  # WP7 HTC Mozart instead of buttons :  WORST DECISION EVER  ! 
+23	 @ shanemo Now Now  .  .  .  Dont knock it till you try it .  Mr Buble is a master . 
+23	I am seeing Michael Buble tonight and then I have a 3am  -  4am conference call .  Tomorrow is going to hurt  :  -  ( 

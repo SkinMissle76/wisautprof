@@ -1,7 +1,9 @@
 from models.tables import GENDER_TABLE_INVERTED
+import string
 ## TODO 
 # this expects a soft link to data in . by it may make windows 
 # freak out so it needs to change
+import random
 
 
 DATA_DIR = "./data/"
@@ -27,7 +29,18 @@ class Gender:
     # the name needs to be be title cased,
     # and the extra spaces are removed
     formatedName = name.title().strip()
-    return formatedName
+    for p in string.punctuation:
+      formatedName = formatedName.replace(p, "")
+    words = formatedName.split()
+
+    return self._getBiggerWord(words)
+
+  def _getBiggerWord(self, words):
+    lengths = [len(w) for w in words]
+    maxlength = max(lengths)
+    indexBiggerWord = lengths.index(maxlength)
+    return words[indexBiggerWord]
+
 
 
 
@@ -41,7 +54,11 @@ class Gender:
 
       return GENDER_TABLE_INVERTED[gender]
     else:
-      return None
+      r = random.randint(0,100)
+      if r < 50:
+        return -1
+      else:
+        return 1
 
 
     

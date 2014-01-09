@@ -1,0 +1,152 @@
+-1	 @ tomaspetricek yes ,  because you own them all
+-1	 @ djc1982 thap email
+-1	 @ byrichardpowell Company logod slippers should be after that ,  then you can code like a king
+-1	F #  record types can implement an interface  -  Useful for Tagging types   # FSharp
+-1	 @ byrichardpowell The blog
+-1	 @ djc1982 Lovely
+-1	Main reason why I use 4 monitors :   Ive ran out of desk
+-1	 @ tskynet youll have to carry on where I failed . 
+-1	 @ justjonlevett 4 .  .  .  .  . 
+-1	 @ justjonlevett  @ tskynet E = mc² Energy  =  Me x Cake²
+-1	We now have F #  running on production in Azure
+-1	 ( V )  ( ° ,  ,  ,  , ° )  ( V )  woop woop woop  # rftees  # 20
+-1	When it comes to cake I have no will power
+-1	 @ tskynet enjoy
+-1	Watched  @ daraobriain Craic Dealer last night on iplayer  -  loved it  # SomethingForTheDads
+-1	 @ tskynet Looks like were just casual coders .  .  .  .  .  .  .  .  .  .  .  . 
+-1	 @ 7sharp9 Nothing special ,  my first attempt at one but it allows me  to a chain a set of successful steps intermixed with either case handlin
+-1	Cheers for the coffee  @ justjonlevett
+-1	 @ AnishPatelUK  @ justjonlevett interested ?  
+-1	 @ tskynet all good ,  you ? 
+-1	 @ IVSoftware well you have another customer now . 
+-1	 @ tskynet happy birthday Rick ! 
+-1	Your mother is so classless ,  she could be a marxist utopia
+-1	Did a presentation on F #   -  Seemed to go quite well  # NoOneFellAsleep
+-1	The benefits of being old  -  Cheaper care insurance  -  Got my down to £270
+-1	Im seeing more and more misunderstanding of c #  async / await in various blog posts . 
+-1	 @ byrichardpowell not so little ,  shes 1 / 2 the height of Gemma now  :  |   ,  How Sara ( h )  ? 
+-1	If all you do is  " return await "  then you can just return the task directly  -  The await in this case is redundant . 
+-1	 @ tskynet I see youve already eaten for this 4 sandwiches . 
+-1	My work footstool is getting rather tatty  # FirstWorldDevProblems
+-1	 @ mavnn Yeah ,  Im also happy about DU implementing it as well .  Cant believe how little code I need to write these days . 
+-1	 @ jonharrop yeah . 
+-1	Efficient tweet  # rftees  # searchcamp  # august
+-1	 @ 7sharp9 no worries ,  cheers anyway
+-1	 @ tskynet  " well done ,  who are you ?  What is this ?  What am I doing here ?  " 
+-1	Lets see if I can win this .   # rftrees  # wine
+-1	 @ CherryNobyl local library ? 
+-1	 @ byrichardpowell How are things anyway ? 
+-1	Well ,  it turns out I cant paint  # FreshPaint 
+-1	Cheers  @ tskynet for the Cake  # diabetus
+-1	 .  @ 24studio has bad password security ,  reset my password and it was emailed in plain text and truncated from when I created it .   # PasswordFail
+-1	 @ tskynet  @ jonspark what is that stuff on the bottom right ? 
+-1	According to  @ npowerhq next month Ill be using  ~ 100 , 000kWh of gas .  Which is about £3 , 500 worth  :  \  
+-1	 @  _ OllieBarker Then all youd need to do is a small validation check when you first install it . 
+-1	 @ oliverfoggin Hastings Direct ,  Was with Hastings Essentials
+-1	Before  :  -  )   @ tskynet 
+-1	Well ,  this is genius :  
+-1	 @ thapbot jury service today chaps
+-1	 @ byrichardpowell make one ? 
+-1	Go  # rftees  # searchcamp
+-1	 @ djc1982  " Various " 
+-1	I think  @ LiamRussell125 has converted to the one true language  # fsharp  # dddnorth
+-1	 @ tskynet  @ jonspark must be ,  doesnt look edible . 
+-1	 @ 7sharp9 What do your 3 type providers do ? 
+-1	 @ jamesmills you mean the guy doing actual work ?   ;  -  ) 
+-1	 @ NiallBest  @ gcmorley  @ clicksco Magic that cup ,  also love the  " works on my machine "  sticker
+-1	Down to 3 monitors now ,  feel like some sort of peasant
+-1	 @ NiallBest haha
+-1	 @ Dinnerbone WTF ?  Divide by 0 error ?  How ?  What ?  Huh ? 
+-1	 @ jonspark  @ tskynet those homemade flame throwers dont fuel them selves . 
+-1	 @ tskynet in the tin goose .  .  .  . 
+-1	Lets try out this steam family sharing beta ! 
+-1	I flew my Amazon Drone for 23 miles and dodged £17 , 199 , 635 of tax !  Can you beat me ?  
+-1	MONKEY !  
+-1	Too many tweets make a twat
+-1	I now own Prison Architect  /  @ IVSoftware
+-1	“There are 2 hard problems in computer science :  caching ,  naming ,  and off - by - 1 errors”
+-1	 .  @ alexhorre we now have Starbucks Ethiopian coffee beans and a grinder for the office . 
+-1	 @ djc1982 No worries
+-1	 @ tskynet  # 5MorePlates
+-1	That was a good pausing moment  @ jimmycar 
+-1	 @ 7sharp9 Same with myself and a computation expression Im tinkering with
+-1	With a multi monitor set - up windowed gaming has been pleasant
+-1	 @ alexhorre Ive gone off TED for similar reasons
+-1	 @ TomHowsam  @ tskynet Its your trade mark pose these days ? 
+-1	 @ tskynet glad youre not hurt mate
+-1	Using F #  TypeProviders to dev against WorldPay ,  Blown away by how awesome they are .  Immensely reduced the amount of dev time needed .   # FSharp
+-1	 @ oliverfoggin as far as Im aware there are about 36 genders . 
+-1	 @ jonspark CHEESECAKE ?  !  ?  !  ?  !  WHERE
+-1	After  :  (   @ tskynet  # fail 
+-1	This is how I code :  
+-1	 @ justjonlevett just hope ! 
+-1	Ps4 vs Xbox One  -  Console Wars The Musical :  
+-1	 @ Gemmza _ 688  @ tskynet  *  * AH HEM *  *  
+-1	 @ tskynet  @ xocs builds character ,  thats my excuse anyway . 
+-1	 .  @ tskynet enjoy 
+-1	 @ 7sharp9 Im rather partial to the poppy candy variety
+-1	 @ 7sharp9 success  { let !  x  =  f mlet !  y  =  f xeither sf fflet !  z  =  f y  } that kind of thing . 
+-1	 @ byrichardpowell footstools are where its at
+-1	 @ justjonlevett let his gabeness shine over you
+-1	 @ gcmorley  .  .  . 
+-1	Amarulla time ! 
+-1	Building computation expressions in F #   ,  love it !   # fsharp
+-1	 @ tskynet 
+-1	Now watching the hobbit with  @ justjonlevett on Netflix on a train  # choochoo 
+-1	Meet is Murder ,  Vegetarianism is Genocide 
+-1	 @ 7sharp9 Publicly available ?  My biggest problem is the documentation on custom operators isnt clear .  Not 100 %  sure what all properties do . 
+-1	 @ garrynewman How does the steam sale ( s )  compare to the whole year ? 
+-1	 @ kevinmann  @ TomHowsam  @ gcmorley cheers Kev ,   / cc  @ Gemmza _ 688
+-1	 @ tskynet ooo details ? 
+-1	 @ djc1982 are they the old mine craft worlds ? 
+-1	I got a stitch whilst laying down the other night  # Unfit
+-1	 @ JohnHodkinson in up for that
+-1	 @ djc1982 not the first time youve said that .  .  .  . 
+-1	 @ tskynet  @ justjonlevett I am but 1 man fighting a cake war ;  and losing D -  : 
+-1	 @ djc1982 nice one .  Ill let the lads know . 
+-1	 @ gimpyblog yes
+-1	 @ djc1982 MineCraft Reminder  # 3
+-1	 @ alaric I plan to this week ! 
+-1	2nd entry ?   # rftees  # searchcamp  # august
+-1	
+-1	 @ 7sharp9 New TypeProvider ? 
+-1	 @ djc1982 Just another reminder  :  ) 
+-1	 @ gimpyblog some airlines  " change "  the price if youve visited before ,  try looking at it in  " privacy "  mode and see if it change again . 
+-1	 @ jonspark bumblebird
+-1	You call it armed robbery .  I call it people giving me gifts to celebrate my new gun . 
+-1	Temporary gaming station on the train with  @ johnhodkinson 
+-1	 @ tskynet  @ justjonlevett The  " Figs - Boson "  fruit cake Theory
+-1	Looking forward to  @ refreshteesside tonight
+-1	 @ tskynet thats how everyday should begin . 
+-1	 @ tskynet  @ jonspark heretics ! 
+-1	 @ jonspark Well .  .  .  .  they are ! 
+-1	 @ jonharrop its our 2nd bit of F #  soon to be in production .  Been loving it so far ! 
+-1	 @ dddnorth do you have any parking information for the venue ? 
+-1	 @ justjonlevett  .  .  .  .  terrible
+-1	My geek rating is 91 %  !  How geeky are you ?  
+-1	Really enjoying F *  dependant types .  Hope it makes its way in to F # 
+-1	I wish c #  had Discriminated Unions  .  .  .  .  .  .   # Fsharp
+-1	Time to watch  " The Science of Dr Who "   # bbc2
+-1	New coffee machine  @ thapltd Cheers  @ gcmorley
+-1	 @ notch Cluttered Desk  =  Cluttered MindEmpty Desk  =   .  .  .  .  .  . 
+-1	Too much cake
+-1	Tf2 with  @ johnhodkinson  # railwaygaming 
+-1	 @ tskynet  @ Gemmza _ 688 We do live down the road from a cemetery .  .  .  .  .  .  .  .  .  .  .   # ZombieApocalypse
+-1	 @ jamesmills better to do 1 job perfectly than 2 jobs half arsed  : D
+-1	 @ addywalter I see a distinct lack of a second bottle .  .  . 
+-1	 @ katy _ archer cheers
+-1	Well .  .  .  .  I didnt expect to be presenting an award tonight . 
+-1	 @ byrichardpowell all good as well ! 
+-1	F #  bdd computation workflow : bdd  {  given x when y then z } thoughts ? 
+-1	 @ djc1982 Do you have a link to help me read proofs ?  I remember talking to you about it at the BBQ a while ago
+-1	 @  _ OllieBarker The way I see it discs should be nothing but a alternative delivery mechanism instead of the internet for people with poor net
+-1	 @ byrichardpowell I get warnings about it loaded content from non - secure locations .  .  .  . 
+-1	The Night Rail Before Christmas :  A Nightmare Before ChristmasMinecraft R .  .  .  :  
+-1	 @ djc1982 Were getting the minecraft itch again
+-1	 @ justjonlevett Steam 10 year Anniversary 12 / 9 / 2013 :  
+-1	Found a use for F #  Enumeration Type Constraint to create type safe restricted string lengths  # FSharp
+-1	 @ FreshPaintTeam Ill need a large Surface Tablet to practice on  : D
+-1	 @ tskynet i am disappoint
+-1	 @  _ OllieBarker I mean you can active windows via phone / txt / internet  /  why not xbox games as well ?  Covers every one . 
+-1	 @ DDDNorth I should pay attention more  : D
+-1	 @ tskynet You mean  " AND "  right ? 

@@ -1,0 +1,165 @@
+17	I just bought 50 Quick Ideas to Improve your User Stories 
+17	 @ ShambalaFest hi guys ,  is your contact us form working ?  I Tried to report some lost property but got a blank page . 
+17	 @ ben _ hall how low U wanna go ?   full whack :  host in IIS expr ,  map test vm obj  -  & gt ;  HTTP req via reflection
+17	is it unhealthy to piss yourself laughing at your own commit messages ? 
+17	1100  # qconlondon bags ,  feel sorry for the guys that had to pack these 
+17	oh ,  hello  # xna .  youre quite sexy aintcha ? 
+17	Imported Russian vodka  : D tomorrow is gonna be ugley :  ) 
+17	 @ soke _  most commonly debugged files looks like an easy one ,  maybe most commonly edited files too  ( VCS churn is probably more relevant tho ) 
+17	 @ rslawrence selenium / webdriver .  I personally prefer the watin API tho . 
+17	wcf + msmq win  :  ) 
+17	hey  @ dziemid ,  you might like this .  
+17	defrag ftw ,  happy pc now  : D
+17	a watched box never defrags  # GeekIdiom
+17	 @ benjofrank build the simplest thing that could possibly work ,  make sure it works ,  then evolve the design using your tests as a safetynet .  .  . 
+17	 @ skirk godlike object factories are bad thing . 
+17	Cheap bulgarian beer : D
+17	Warming up for first workday of twentyelleven with a little bit of ruby  :  ) 
+17	Fucking Tuples ,  why the fuck i seeing tuples ?  what does it mean !  !  ! 
+17	palpable misery in the office today ,  maybe just the post xmas spirit .  .  . 
+17	Unit tests to enforce architecture by checking assemblys referenced by domain model  # gotocon  # ioccontainersdontbelonginyourdomain
+17	 @ marick yes !  ,  suspect many under 30 wont tho
+17	somewhat excited about tomorrows ddd immmersion workshop at  @ skillsmatter  :  ) 
+17	poking through the code for Rock ,  Paper ,  Azure  :  )  
+17	heheh  # touchpad ordered  :  ) 
+17	passionate about Css  ( the bad kinda passion ) 
+17	well that was a great big fucking waste of time .  .  .  ready to smash something now  & gt ;  [ 
+17	Headed for  # qconlondon  : D
+17	 @ ijrussell me too ,  hoping the session on knockout . js will be more interesting  # guathon
+17	 @ portedegrange no ,  but John does  ( for 2more weeks )  Steves agreed to let us abuse him till then  :  -  ) 
+17	My schedule at  # gotocon 
+17	nice comic on being human 
+17	 @ Glurken sorry mate  : P
+17	 @ ArgosHelpers Hi ,  I placed an order on your website last night but have yet to recieve cofirmation .  can you help ? 
+17	 @ continuoustests Bullwinkle J .  Moose ! 
+17	 @ shanselman are you insultin my girlfriend ? 
+17	On the train to Bletchley for a tiny bit of geekery  :  )   # sc2011
+17	Beautifull day for geeking  :  )   # qcon
+17	rediscovering my long lost love of bash
+17	 @ dziemid yup ,  I chose the same ones ,  great minds eh .  .  . 
+17	 @ jasongorman 
+17	 @ dziemid hey gregz ,  you registered for  # qcon tuts yet ? 
+17	poking around wcf metadata classes .  ouch  :  ( 
+17	Making up for recent geek / social ratio with a weekend of epic beer drinking up North  & lt ; 3
+17	embarrassing moment where your workmates give you a leaving present just as you are about to tell them youre staying for an extra month  & gt ;  .  & lt ; 
+17	Tired ,  hungover and heading to  # coderetreat  :  ) 
+17	 @ cupcake381 its the numbers starting with 3 that you wanna watch out for ,  sneaky bastards them .  .  . 
+17	geeks ,  thaasands of em !   # siliconmilkroundabout 
+17	using up the last remnants of my brain capacity by moonlighting some fugly legacy code
+17	CQRS impl  # 6 ,  this time with added rx . net and nservice bus  : D . 
+17	writing documentation for the first time in 3 years ,  feels like Im back at university  :  ( 
+17	 # gotocon  : D 
+17	Delicious being sold ,  not shut down .  .  .  5 yearsworth of my bookmarks all just sighed in relief at once  :  ) 
+17	 @ cupcake381  @ Piperami85 if we continue to deny  @ bibzilla1987 access to any tittybars ,  I think you might be right
+17	 @ bibzilla1987 you great big girl  :  ) 
+17	 @ ben _ hall 
+17	muwahahah ,  simple twitter client for  # wp7 in 10  ( debatable )  LOC  : D
+17	I signed up for early access to Codealike .  If you are a  . Net developer like me ,  join us .  
+17	fiddler ftw  -  screw you IE ,  umgunna debug y
+17	 @ zukunftsalick  @ pe4cey  @ dlbock  @ cleberdantas just put something cryptic in the school field .  .  .  No one really cares tbh . 
+17	 :  )  the  # github 404 page is frickin awesome  -  
+17	sleepy  =  & gt ;  sleeping  :  ) 
+17	Great day at  # sc2011 ,  saved world from alien invasion ,  built supermarket checkout system and got confused about FP  : D
+17	 @ DitsyDot89 you have rough arse ?  George finally got his way then ! 
+17	loving the  @ github windows client ,  esp as it comes with posh - git too  :  ) 
+17	Sweet ,  ordered 8GB ram for work b4 going on hols for a week ,  supplier delivered 82GB !  .  expecting to find a very happy team on Mon  :  ) 
+17	ick ,  why is my java update asking if i wanna install an Ask toolbar  :  ( 
+17	pex for fun on  # wp7 goo . gl / 6GsE8 .  not sure why ,  but my geekside thinks this is awesome .  .  . 
+17	should probably have another go at getting comfortable with GIT .  so I can put some more of this crap on  # github
+17	woot ,   # qcon is on bitches  : D
+17	RT  @ erenemre :  Steve Jobs In Carbonite iPhone Case :   
+17	procrastination :  using google maps API to plot travel route rather than actually booking it . 
+17	Bored @ work  :  ( 
+17	holycrap ,  energy drink overdose !  should have left work hours ago  :  ( 
+17	 @ pe4cey cant see any cameras here .  .  . 
+17	might go visit Bridget today 
+17	jquery has no reduce function !  ?  .  oh well ,  underscore to the rescue  :  ) 
+17	woot !  
+17	 @ skirk maybe ive been smoking a bit too much of the MS crack ,  but iTunes runs like warm turd on my machine
+17	digging into gloabalization for an mvc3 site .  cant be that hard ,  right ?  .  . 
+17	something about ms implementation of events in  . net seems fishy  :  ( 
+17	 " Model represents data ,  validation and business rules for app "   # Guathon  # aspmvc
+17	 @ Piperami85  @ bibzilla1987  @ NotScottCoote  @ waters525 oh hells yeah !  im in val disere the week before .  You guys better get practicing ! 
+17	 @ coreyhaines mercuryapp . com ?  Works fine from my HTC hd7
+17	hey  # monodevelop on ubuntu is kinda nice  :  )  .  still slightly frustrating after 5 years of VS usage tho
+17	 @ DitsyDot89 
+17	 @ portedegrange am now  :  -  )   cheers dude . 
+17	lol ,   " Whats important is Ive got what your function needs and Im going to point my penis at you to give it .  "  
+17	 @ pe4cey haha ,  yep would have been  ( i live just round the corner ) 
+17	 @ TheBreakdowns no - one cool at any rate  ;  )   ( I take it Adam no longer has one ) 
+17	Woot ,   # gource finally works on svn repos easily .  Must find productive way to use it  :  } 
+17	 @ bertcharm you set fire to a grit holder thing Bert ? 
+17	 @ Glurken why in buggerys name would you do that to yourself ? 
+17	 " ef code first will soon have migrations "   # guathon
+17	Garbage In ,  Garbage Out  :  ( 
+17	fact of the day  :  the capital of Burkina Faso is Ouagadougou . 
+17	rspec + cucumber + ubuntu = nightmare .  maybe its time to start trying another distro  :  ( 
+17	 @ skillsmatter GHERKIN ACCEPTANCE CRITERIA ,  TDD IN JAVASCRIPT  and AUTOMATING GHERKIN ACCEPTANCE CRITERIA  : D
+17	Sooo much easier to complain about others code than it is to help improve it  :  (  .  Less enjoyable too .  .  . 
+17	gots an RSpec book  : D
+17	 @ Glurken que ? 
+17	 # WCF FaultException & lt ; TDetail & gt ;   -  I hate you ,  that is all . 
+17	Happy noo year tweeples !  Its beering time  :  ) 
+17	ugh ,  using regions in my tests .  kill . me . now  :  ( 
+17	 @ Piperami85  @ cupcake381 bitch fits ?  Think most of us are too knackered for a thing that energetic .  .  . 
+17	Feel like making trouble today ,  just a matter of how .  .  . 
+17	 @ pe4cey  @ zukunftsalick yep ,  great set of photos . 
+17	 @ pe4cey  @ zukunftsalick  :  (  unlucky mate ,  looks like it will be a good one too .  Hope things at TW are going well  :  ) 
+17	 @ soke _  so far ,  yes  :  )  trying to think of experiments that the metrics would be useful for
+17	 @ bibzilla1987 yeah ,  still on mate  :  ) 
+17	 @ bibzilla1987 Im good ta .  Defo be interested in some surfing .  .  . 
+17	Oh ,  hellow  @ resharper .  well ,  this is a bit awkward isnt it .  I do love you too ,  honest .  .  . 
+17	GOTO Arrhus sorted  :  )  
+17	 @ TheBreakdowns only ones with ponytails .  .  . 
+17	Nice to see familiar faces at  # xtc tonight ,  really need to do this mire often
+17	 @ cupcake381 happy birthday btw  :  ) 
+17	Damn you google !  Stealing my  +  search operator for your direct connect muck  & gt ;  { 
+17	nice ,  finally a junit maxalike for  . net  :  )  
+17	 @ pe4cey congrats dude ,  that mean youll be leaving brum then ? 
+17	 @ pe4cey definately ,  would be good to catch up . 
+17	Ouch .  .  .  Digging deep into how dynamic types are implemented in  . net   # gotocon
+17	At the Odeon West end for  # guathon .  Badly in need of caffination ,  same as most of the audience it seems  :  ( 
+17	 @ zukunftsalick  @ pe4cey  @ dlbock  @ cleberdantas there are people whove been volunteering for 10 years in a row .  .  . 
+17	a good practice in the morning makes me feel positive about the day ahead  :  ) 
+17	Bah ,   # wp7 twitter app is pants .  More crap for my todo list  :  ) 
+17	feels a bit sick writing this code  :  ( 
+17	Snowboarding in shefield  :  ) 
+17	Beer ,  NASA and scifi !  Things are looking up  : D  # qconlondon
+17	 @ antony _ turner looks a bit like you actually  : P
+17	 @ skirk the epiphany wasnt so much the god object ,  just the view it was obscuring . 
+17	EF integrated into vs2010 mvc tooling ,  ms aiming to make asp more like RoR ?   # guathon
+17	do i realy need a new screen ?  
+17	 @ skirk sorry dude ,  Ill refrain from mentioning the 3 foot deep powder and glorious sunshine then  : P
+17	3 hours of geek masochism resolved by 2 mins on  # stackoverflow and 1 hour of killing zombies  : D
+17	 @ Benjamingodfrey  @ bertcharm you mean you guys actually watch tv still ?   # Crazyfools
+17	 @ cupcake381  @ tannerman1uk  @ bibzilla1987  @ justgeorge89  @ piperami85  @ thesaint90210 I read this as Released ,  brought a tear to my eye  :  ) 
+17	 @ lunivore yes ,  reading slides makes me curious enough to want to attend a tutorial .  .  . 
+17	I just ousted Paul M .  as the mayor of Pinesoft on  @ foursquare !  
+17	my stack runneth over  :  ) 
+17	skidooing rocks . 
+17	 @ johnthornborrow  @ benjofrank damn good plan ,  Im really liking the idea of doing one on an existing feature tho  # mvcbabyyeah
+17	Enjoying a frosty beer after  # qconlondon  :  ) 
+17	Einstein vs Stephen Hawking  - Epic Rap Battles of History  # 7 
+17	woot ,   # qcon registration confirmed  : D
+17	Wondering why some people find it so hard to do the simplest possible thing .  .  . 
+17	 @ bibzilla1987 you big girl
+17	sadly ,  I dont think I will ever understand the appeal of OS X  :  ( 
+17	Up at 6am and heading to Westminster to go give out badges to  # qconlondon attendees . 
+17	 @ johnsnolan theres enough buttons on the bloody thing !  surely you could combine the two ? 
+17	Just generated a  # TweetCloud ,  my top words are :  nice ,  beer ,  finally  -  
+17	Trying and failing to get to  # qcon on time . 
+17	a few somewhat low quality pics from  # sc2011 
+17	This Sunday 30 October is the Silicon Milkroundabout jobs fair  -  -  for developers interested in joining start - ups !  
+17	 @ johnthornborrow not yet ,  they dont seem to have the schedule set up . 
+17	 @ benjofrank i was in a bit of a mard because it doesnt feel like we do that very much  :  ( 
+17	holy crap  # resharper even renames my views for me  : D I love you  @ jetbrains
+17	Mmmm ,  metrilicious  -  
+17	DTOs are silly ,  that is all  :  ) 
+17	epiphany at 3am  :  (  why god ,  why ? 
+17	Checking out  " CodeRetreat London "  on CodeRetreat :  
+17	damn ,   # AppHarbor rocks  :  )  
+17	damn ,   # ubuntu is is lot sexier than it used to be .  still runs pretty nice on this inherited poobomb laptop too  : D
+17	 @ dziemid damnit ,  seems that  @ tastapods tutorial session at  # Qcon is sold out  :  (  Ive gone for Continuous Delivery instead . 
+17	 @ johnsnolan cant imagine it sounding particularly melodic tho  :  ) 
+17	I love mocks ,  they make my tests hurt so much that I know something is wrong .  how to fix it is another matter  :  ( 
+17	 @ skirk a spike into removing ours gave me an ugly view of project architecture . 

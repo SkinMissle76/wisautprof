@@ -45,7 +45,6 @@ class testDataBuilder:
 
   def run(self):
    print "contains", len(self._db), "profiles"
-   print "contains", len(self._db), "profiles"
    for k, v in self._db.iteritems():
      u = json.loads(self._db[k])
      uid = u["userid"]

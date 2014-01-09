@@ -1,0 +1,174 @@
+-0.6	Pixel from Osprey :  Innovative Backpack Made For The Urban Commute 
+-0.6	Cyber from Osprey :  Innovative Backpack Made For The Urban Commute 
+-0.6	It Turns Out That There IS A Demographic That Likes QR Codes  -  Business Insider  -  
+-0.6	 @ gdtalampas I dont because spiders shouldnt follow the links to the experiment pages ,  they only see the control . 
+-0.6	 @ hathawayp Im only seeing  ( not set )  on a few of my sites but  ( not provided )  on all ,  so its not consistent ,  very odd
+-0.6	I gave  @ chrisabraham  + K about Public Relations on  @ klout 
+-0.6	 @ HathawayP  @ joechristopher  @ wilreynolds  @ dr _ pete confirmed on my sites ,  all using urchin . js .  Now I can sleep  ;  -  ) 
+-0.6	 @ MattAlanWalker brilliant
+-0.6	 @ analyticspros Thank Caleb Ill give them a whirl next week . 
+-0.6	Why Facebook Ditched the Mobile Web  & amp ;  Went Native With its New iOS App  -  
+-0.6	 @ kalvinlyle I would recommend using an advanced segment coupled with user flow visualisation . 
+-0.6	Stress Is Not Your Enemy  -  Tony Schwartz  -  Harvard Business Review  -  
+-0.6	 @ c _ pappas use the  @ yoast seo plugin instead ,  no coding required . 
+-0.6	 @ rosiebox123 cool ,  Ill have to check out the blog .  Where you living now ? 
+-0.6	 @ NateSchubert happy to help ,  I have knocked up a quick guide on it here :  
+-0.6	 @ mhawksey I saw someone else report the same problem on your blog .  It will get my friends ok ,  its just when I ask for someone elses
+-0.6	 @ irving82 have you blocked your own IP ?   :  -  ) 
+-0.6	I liked a  @ YouTube video 
+-0.6	The world is an imperfect place .  But occasionally ,  something gives us small hope for a better future .  
+-0.6	 @ soffiek you dont need to put the code in posts ,  just enter it in settings ,  heres a guide :  
+-0.6	Whos heading to the  # igniteBiz seminar in Southampton tonight ? 
+-0.6	 @ joejayanth thanks ,  appreciated
+-0.6	 @ bellebride116 are you looking for something free or paid for ? 
+-0.6	 @ HathawayP here it is in case you want to subscribe 
+-0.6	 @ rachaelgerson My vote goes to  @ lunametrics for great analytics information
+-0.6	Smartphones and tablets influence consumer purchasing decisions on mobile ,  online and in store 
+-0.6	RT  @ engadget :  Dropbox Chooser lets web apps attach files from the cloud  -   
+-0.6	
+-0.6	A 10 - Point Best Practice Privacy Guide for Working With Google Analytics 
+-0.6	Infographic :  Making Sense of Marketing Attribution 
+-0.6	Brilliant :  MFA Superhero Typographic Classifications on the Behance Network 
+-0.6	How to identify and fix Google Panda in 2012 
+-0.6	Im at El Roque De Los Pescadores  ( Cotillo ,  Fuerteventura )  
+-0.6	 @ jm3twink can u let me know when its open again please ?   :  -  ) 
+-0.6	 @ HathawayP yeah my diagnosis is drawing a blank so far ,  are they all ecommerce sites ? 
+-0.6	 @ gregpower if all the rhetoric about SPYW is true then the URL wont matter
+-0.6	 @ mhawksey thats great ,  I have to leave now but Ill give it a shot tomorrow .  Thanks for letting me know . 
+-0.6	 @ dan _ shure gotta be  # 1 for me ,  always looking for good analysis tips
+-0.6	Cyber from Osprey :  Innovative Backpack Made For The Urban Commute 
+-0.6	Google Analytics Tutorial :  8 Valuable Tips To Hustle With Data !  
+-0.6	 @ AswadCharles flash git  ;  -  ) 
+-0.6	Track outbound links for Google Analytics automatically 
+-0.6	 @ michaelmccamish hootsuite can do that
+-0.6	 @ hathawayp I only see it on ecommerce sites .  .  ahhh .  .  . maybe its Google product search  & gt ;  will investigate after a quick visit to Subway
+-0.6	 @ soffiek ah yes ,  GA only shows data from the day you added the code to your site .  Sorry didnt read your question properly
+-0.6	Increased ROI  -  A Statistical Examination of Ad Optimization 
+-0.6	What a brilliant service .  Ill be using this ,  but I doubt if anyone in the  " real "  world cares about TOS 
+-0.6	 @ eda49 I think it was 1 / 100 before .  A bit low for some of my clients . 
+-0.6	Tracking Social Media with Google Spreadsheets – Part 1 
+-0.6	I dont eat pizza at home ,  but I still want one of these .  .  .  
+-0.6	 @ ppcni I think you can do that with a custom report
+-0.6	Im broadcasting  @ fleuriefm live on  # Ustream .  Come watch and chat !  15 : 37 
+-0.6	 @ michaelmccamish click advanced  & gt ;  
+-0.6	 @ egoant they will probably hog the data greedily like twitter and facebook
+-0.6	Stop Working More Than 40 Hours a Week 
+-0.6	 @ AswadCharles  @ willcustard I think your choices are now limited to Tesco ,  BK or the Harvester  -  Poole high street doesnt seem so bad .  .  . 
+-0.6	 @ accav google hides the keyword for users who are logged in for  " privacy "  
+-0.6	Sunset behind brownsea island 
+-0.6	This Internet map is beautiful .  And a great example of HTML5 
+-0.6	 @ egoant I think youd have to track the links via bit . ly or similar to get that data  ( if the pins go to other ppls sites ) 
+-0.6	 @ SDO _ greg its genuinely free if you get fewer than 5 million page views per month
+-0.6	 @ TomAnthonySEO have you checked that your GA Social Network monitoring isnt against any of the TOS ?  I like to use it for client sites
+-0.6	 @ SweetSuite10 the official definition of a bounce is a visitor who looked at only one page .  So th bounce rate is th  %  of single page visits . 
+-0.6	 @ AdeleMRichards Thanks Adele
+-0.6	 @ soffiek yeah no problem
+-0.6	I liked a  @ YouTube video 
+-0.6	 @ abouchard55 Advanced Segments  & gt ;  Mobile Traffic -  this gives you all the usual reports but just for mobile visitors
+-0.6	 @ rosiebox123 hey Rosie Box hows the road trip going ? 
+-0.6	 @ eda49 thats a bonus ,  do you know if they have changed the sampling rate ? 
+-0.6	 @ arstechnica bitcoin is too far ahead of its time .  The world needs 100 years to adjust to the concept of a de - centralised digital currency
+-0.6	 @ techfacil if you think Googles database is scary imagine what Visa knows about you . 
+-0.6	 @ hughespjh yeah I always do
+-0.6	 @ larrywright bit . ly does QR codes with analtycs 
+-0.6	Lord Wedgwood ,  your fourth name is Weymouth ,  but have you ever visited the town and what are your thoughts on it ?   # AskLordWedgwood
+-0.6	Learn how cloud collaboration is driving innovative teams from vision to action at Mindjet’s Get Connected Week .  
+-0.6	 @ kieronhughes take a look at muzu . tv
+-0.6	Responsibility  &  Accountability for Online Analytics 
+-0.6	 @ simonlilly I still use my Animal keying from circa 1994 .  Think my original watch strap died though . 
+-0.6	I liked a  @ YouTube video 
+-0.6	 @ ZetaAgency as long as browsers have an address bar there is no need for antitrust involvement
+-0.6	 @ StephanieWarthe URL builder is the best way . 
+-0.6	Thank you  @ Squarespace for amazing customer support .  Old - world brands could learn a lot from you
+-0.6	 @ Irving82 if you use chrome u could be inflating your stats .  Chrome is 24 %  ATM 
+-0.6	 @ haitham _ elbana some analytics blog ( ger ) s to follow :   @ lunametrics  @ justincutroni  @ googleanalytics  @ johnlovett  @ adamgreco  @ erictpeterson
+-0.6	The Biggest Mistake Web Analysts Make… And How To Avoid It !  
+-0.6	 @ alcarlton any interesting trends in the browser / os / screen res figures for the direct traffic ? 
+-0.6	 @ StephanieWarthe yes they do .  But dont use them for internal links or youll inflate visitor numbers . 
+-0.6	I just unlocked the  " Adventurer "  badge on  @ foursquare !  
+-0.6	Universal translator hacked together with a few rasperry pis by a UK developer 
+-0.6	 @ aswadcharles I think you might appreciate this :  
+-0.6	 @ hathawayp yeah agreed the SSL change seems the most likely culpret ,  the date is too close for comfort ,  just thinking of other possabilities
+-0.6	Its true  @ SamuelWise  @ 011100110110010  @ chrisgrimes After :  
+-0.6	I liked a  @ YouTube video 
+-0.6	The last photo is priceless .  
+-0.6	Awesome !   .  .  .  Kogan Hates IE7 So Much It’s Imposing A Tax On All Shoppers That Use The Browser  |  TechCrunch  -  
+-0.6	 @ michaelmccamish sorry didnt think of that ,  yes I have the paid version . 
+-0.6	 @ ipullrank the worst thing about being in the service sector is having clients ,  cant live with em .  .  . 
+-0.6	 @ JoelGaeddert what happened to Wufoogle ? 
+-0.6	 @ ryanjohnnelson at least there is a correlation .  Give it another week and then make a judgement . 
+-0.6	 @ HathawayP sounds like a concession more than a conclusion  ;  -  )  I think its a bug in GA but I cannot see exactly how .  Ill raise an issue . 
+-0.6	Microsoft has a brand new logo ,  its first since 1987 
+-0.6	 @ bigalboyo the  @ yoast seo plugin handles that 
+-0.6	 @ mhawksey Hi Martin ,  none of these accounts are protected .  Thanks for looking I guess I will have to find another solution . 
+-0.6	 @ litmusapp all good now .  Thanks . 
+-0.6	 @ FleurieFM who is your friend that climbed Kili ?  Ive forgotten already .  .  . 
+-0.6	Exporting Data By Day In Google Analytics v5 Interface 
+-0.6	15 alerts with my American Express balance so far tonight .  Give it a rest  @ amex !   # amex
+-0.6	 @ tomanthonyseo Thanks Tom ,  looking forward to giving this a go . 
+-0.6	 @ ameliafsimmons  @ sarahbettystyle you can generate a PDF by using the  " old verision "  link .  Soon you will be able to in the new verison
+-0.6	 @ jacobschulman Go to Home  & gt ;  Real - Time  ( Beta ) 
+-0.6	 @ Will _ Hoe heres the proof 
+-0.6	In - store WiFi coming to UK supermarkets this year ?   -  Recombu 
+-0.6	This is huge :  Facebook Exchange :  A New Way For Advertisers To Target Specific Users With Real - Time Bid Ads  -  
+-0.6	 @ mhawksey Hi Martin ,  Ive tried the script with different accounts and machines but still the same error .  Can you help ? 
+-0.6	Facebook Chases Search Ads in Quest for Revenue 
+-0.6	Googles Hidden Author Search  ( plus Bookmarklet and Video )   |  John Doherty 
+-0.6	 @ sggottlieb I think you can set the secondary dimension to browser in the content report .  Or use an advanced segment . 
+-0.6	Shameless profiteering on  # iTunes :  Whitney Houston album price goes up from £3 . 95 to £7 . 99 
+-0.6	The Online Persuasion Quiz ,  Part III 
+-0.6	 @ stuartgh can you link me to a source for this ? 
+-0.6	Im at Codestone Head Office 
+-0.6	Facebook Advertisers Find Better Payoff with Sponsored Stories  -  eMarketer  -  
+-0.6	 @ aswadcharles RT  @ UberFacts At one point ,  the British equivalent of  " Thats what she said "  was  " Said the actress to the bishop .  " 
+-0.6	 @ kieronhughes it should all be canonicalised . 
+-0.6	Track Which Social Networks Your Visitors are Logged Into With Google Analytics 
+-0.6	 @ iPullRank use safari for gmail .  Saves a lot of swearing . 
+-0.6	 @ simonaldo just in case they sell sticky toffee pudding
+-0.6	 @ HubSpot rejoining fixed it for me
+-0.6	Thanks  @ aswadcharles :  Congrats to my colleague  @ BradFry for being mentioned in  @ ABC article 
+-0.6	Day of the Week report in Google Analytics  -  Setting up the custom report and what is day 0 ?  
+-0.6	 @ stephaniewarthe happy to help ,  if you get time please  + K my influence in Analytics on  @ klout 
+-0.6	 @ eda49 do you still need to add the sitespeed function to your tracking script ? 
+-0.6	Data Visualization Principles :  Lessons from Tufte 
+-0.6	 @ mhawksey no Ive tried several unprotected acocunts .  Maybe I should just grab a new copy of the sheet if its just me ? 
+-0.6	The impact of Google Shopping on retail could be bigger than you think 
+-0.6	 @ soffiek let me know the URL and Ill have a look for you tomorrow . 
+-0.6	 @ derektchristie 15 for me so far tonight .  Call centre said its going to everyone . 
+-0.6	 @ MindjetCEO interesting article ,  explains why runners get a pleasant brain  " shutdown "  after a few miles that does wonders for stress
+-0.6	 @ ppcbz isnt this against Googles TOS ?  the unique clicks will be PII cc  @ Emarky
+-0.6	 @ emmaglazier most of my twitter relationships are founded on a familiar profile photo ,  dont rock my boat .  .  . 
+-0.6	Post - Email Summit Workshop :  4 key ways small businesses can optimize their campaigns 
+-0.6	 @ kalvinlyle Ive never seen any generic tutorials .  What are you trying to report on ? 
+-0.6	I liked a  @ YouTube video 
+-0.6	RT  @ FastCompany :  Meetings Are A Skill You Can Master ,  And Steve Jobs Taught Me How 
+-0.6	 @ jacobschulman Im the analytics fairy  ( in a manly way of course ) 
+-0.6	 @ zachweiner there is a weighted sort function ,  but no way to do what you want without excel
+-0.6	 @ litmusapp I cant access my tests ,  is there a general problem or is it just my account ? 
+-0.6	 @ gdtalampas I use them ,  they just replaced GWO which I used for years .  Its basically the same interface . 
+-0.6	How to Find People to Circle on Google +  
+-0.6	 @ MichaelMcCamish no I cant see it on the iPhone .  Dont have my iPad to hand . 
+-0.6	 @ timgaunt I use Google Shopping .  Nice to tick something off thats been on there for 3 years . 
+-0.6	 @ StephanieWarthe by internal I meant within the site ,  i . e .  a banner on the homepage that goes to a special offer
+-0.6	 @ lauraleighblogs are you trying to track a mailto :  link ? 
+-0.6	 @ nateschubert  @ avinash 0  =  sunday  |  1  =  monday  |  etc
+-0.6	 @ mhawksey its th same which ever account I try .  I was using  @ bradfry  &  my colleague  tried  @ mattalanwalker .  We are authing using  @ ZetaTest1
+-0.6	 @ dannywhitehouse This should do it but I haven ; t tested it  & gt ;  RedirectMatch  /  (  .  +  )  
+-0.6	One less thing to talk to your developers about ,  now tag management is in your hands  ( for free )  
+-0.6	Greeces Social Media Users on the Euro :  We Want Out  -  
+-0.6	 @ digitalalias google drawings are crap .  you can use  @ mindjet connect for free .  It makes lovely sitemaps 
+-0.6	 @ marc _ meyer Chicken Tika Vindaloo  -  guaranteed to unblock everything
+-0.6	 @ simonlilly are you going to set this up for Animal ?  You guys must have some cool archive designs and photos
+-0.6	 @ mhawksey Hi Martin ,  Im getting this error using Get other persons followers on ur amazing Twitter sheet .  Can you help ?  
+-0.6	 @ ryanjohnnelson did you see a similar increase in referral traffic from Facebook in your web analytics ? 
+-0.6	 @ stuartgh Thanks
+-0.6	Ive just been served some wisdom by the  @ WorkFu 404 
+-0.6	 @ derektchristie yeah .  Ive got 23 now ! 
+-0.6	 @ soffiek did u get it sorted ? 
+-0.6	 @ soffiek the code is installed correct and sending data to Google .  Can you click on the Cog icon in GA and tell me your property ID ? 
+-0.6	 @ hypergogue we use  @ mindjet mind manager  -  works a treat
+-0.6	I got quoted in an  @ ABC News article  :  -  )  
+-0.6	I liked a  @ YouTube video 
+-0.6	 @ mhawksey yeah .  I tried several with fewer than 100 followers
+-0.6	 @ JoeJayanth Happy to help ,  if you have time Please  + K my influence in Analytics on  @ klout 
+-0.6	 @ ryandiscord u have to use the  " old version "  link for now ,  the pdf is in works  ( it better be amazing cos its taken ages ) 

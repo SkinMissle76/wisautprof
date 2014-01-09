@@ -1,0 +1,17 @@
+24	 @ tomwarren Enterprise edition isnt available on Technet Standard ,  regular SKUs only .  
+24	 @ tomwarren ultimately this may result in front line job losses as the need to debug app compat issues decreases but to the benefit of users . 
+24	 @ tomwarren some suppliers still develop these crappy apps and dont see the problem but we have stick with them as they corner the market . 
+24	Love the  @ teamevga PD02 Zero Client form factor and price ,  but worried itll burn a hole through my desk before the week is out !   # vmwareview
+24	 @ AndyRHeath Ive rated it 1 star on iTunes !  Software from public bodies such as Councils should always be platform agnostic .   # localgovweb . 
+24	 @ joshcoen but not for download yet  :  ( 
+24	Going to give twitter another go .  .  . 
+24	 @ BozzOrig Shhhhhhh !  ! 
+24	 @ tomwarren these apps need to be delivered as a service with front ends delivered via the appropriate app stores for the devices . 
+24	From investigating storage solutions to ducking through the cellars this afternoon tracing mystery cables with  @ AndyRHeath ! 
+24	Using Twitter
+24	Upgraded server environment to  # vmware vSphere 5 from ESX 4 . 1 ,  almost too easy !  Now if only  # vmwareview 5 was out .  . 
+24	Working in a deployment of VMware View 4 . 6 ,  Windows 7 and SharePoint 2010 . 
+24	Working on a deployment of VMware View 4 . 5 . 
+24	 @ tomwarren its the future but itll take time for suppliers to adapt .  We want to move forward but battle against Win95 era apps  /  suppliers
+24	Christmas comes early ,   # vmwareview 5 GA and a  # Windows8 Preview build all on one day ! 
+24	 # vmwareview and vSphere 5 updates from 4 . 6 and 4 . 1 completed over the weekend ,  all looking good for the full  # VDI roll out to begin ! 

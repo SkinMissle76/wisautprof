@@ -3,6 +3,7 @@ import shelve
 import sys
 import json
 import re
+import urllib
 import urllib2
 import time
 from bs4 import BeautifulSoup
@@ -20,7 +21,9 @@ def checkData(profileAttribute):
 
 re_username_find = re.compile(" OkCupid \| (.*?) / ([0-9]+) .*? \| (.*)$")
 profile_url = "http://www.okcupid.com/profile/%s"
+topic_url = "http://textalytics.com/core/topics-1.1"
 for user in db_merge.items():
+	time.sleep(2)
 	username = user[0]
 	userdata = user[1]
 	try:
@@ -32,9 +35,39 @@ for user in db_merge.items():
 		if len(userdata['tweets']) == 0:
 			print "Skipping %s, no tweets" % username
 			continue
-		if userdata.has_key('educationString'):
-			print "Skipping %s, already visisted" % username
+		if userdata.has_key('topicList'):
+			print "Skipping %s, already processed description" % username
 			continue
+		if userdata.has_key('educationString') and userdata.has_key('Description'):
+			print len(userdata['Description'])
+			if len(userdata['Description']) > 0:
+				print "Starting topic mining for %s" % username
+				postData = {
+					'txt': userdata['Description'],
+					'txtf': 'plain',
+					'key': '3cdabc92eb210b7b56cfe31d4c5ca249',
+					'lang': 'en',
+					'src': 'unknown',
+					'of': 'json',
+					'tt': 'ec',
+				}
+				time.sleep(1)
+				fp = urllib2.urlopen(topic_url, urllib.urlencode(postData))
+				topicData = fp.read()
+				fp.close()
+				topicData = json.loads(topicData)
+				topicList = []
+				for entity in topicData['entity_list']:
+					topicList.append( entity['form'] )
+				for concept in topicData['concept_list']:
+					topicList.append( concept['form'] )
+				userdata['topicList'] = topicList
+				db_merge[username] = userdata
+				print "stored %s topics for %s" % (len(topicList), username)
+				continue
+			else:
+				print "No description found for %s" % username
+				continue
 
 		time.sleep(1)
 		url = profile_url % username
@@ -42,7 +75,8 @@ for user in db_merge.items():
 		profileData = fp.read()
 		fp.close()
 		profileSoup = BeautifulSoup(profileData)
-	except:
+	except Exception, e:
+		print e
 		continue
 
 	profileEducationTag = profileSoup.find("dd", attrs={'id': 'ajax_education'})
@@ -59,6 +93,14 @@ for user in db_merge.items():
 	profileChildrenTag = profileSoup.find("dd", attrs={'id': 'ajax_children'})
 	profilePetsTag = profileSoup.find("dd", attrs={'id': 'ajax_pets'})
 	profileLanguagesTag = profileSoup.find("dd", attrs={'id': 'ajax_languages'})
+	summary0 = profileSoup.find("div", attrs={'id': 'essay_text_0'})
+	summary1 = profileSoup.find("div", attrs={'id': 'essay_text_1'})
+	summary2 = profileSoup.find("div", attrs={'id': 'essay_text_2'})
+	summary3 = profileSoup.find("div", attrs={'id': 'essay_text_3'})
+	summary4 = profileSoup.find("div", attrs={'id': 'essay_text_4'})
+	summary5 = profileSoup.find("div", attrs={'id': 'essay_text_5'})
+	summary6 = profileSoup.find("div", attrs={'id': 'essay_text_6'})
+	summary7 = profileSoup.find("div", attrs={'id': 'essay_text_7'})
 	
 	userdata['educationString'] = checkData(profileEducationTag)
 	userdata['Ethnicities'] = checkData(profileEthnicitiesTag) 
@@ -74,9 +116,27 @@ for user in db_merge.items():
 	userdata['Children'] = checkData(profileChildrenTag)
 	userdata['Pets'] = checkData(profilePetsTag)
 	userdata['Languages'] = checkData(profileLanguagesTag)
+	profile_description = ""
 	
-
+	if checkData(summary0):
+		profile_description += checkData(summary0)
+	if checkData(summary1):
+		profile_description += checkData(summary1)
+	if checkData(summary2):
+		profile_description += checkData(summary2)
+	if checkData(summary3):
+		profile_description += checkData(summary3)
+	if checkData(summary4):
+		profile_description += checkData(summary4)
+	if checkData(summary5):
+		profile_description += checkData(summary5)
+	if checkData(summary6):
+		profile_description += checkData(summary6)
+	if checkData(summary7):
+		profile_description += checkData(summary7)
+	
+	userdata['Description'] = profile_description
 	storeData = json.dumps( userdata )
 	db_merge[username] = storeData
-	print "Stored %s, with education: %s" % (username, userdata['educationString'])
+	print "Stored %s" % (username)
 db_merge.close()

@@ -8,7 +8,7 @@ import time
 import random
 import collections
 
-cities = ["Bath", "Birmingham", "Bradford", "Brighton & Hove", "Bristol", "Cambridge", "Canterbury", "Carlisle", "Chelmsford", "Chester", "Chichester", "Coventry", "Derby", "Durham", "Ely", "Exeter", "Gloucester", "Hereford", "Kingston upon Hull", "Lancaster", "Leeds", "Leicester", "Lichfield", "Lincoln", "Liverpool", "City of London", "Manchester", "Newcastle upon Tyne", "Norwich", "Nottingham", "Oxford", "Peterborough", "Plymouth", "Portsmouth", "Preston", "Ripon", "Salford", "Salisbury", "Sheffield", "Southampton", "St Albans", "Stoke-on-Trent", "Sunderland", "Truro", "Wakefield", "Wells", "City of Westminster", "Winchester", "Wolverhampton", "Worcester", "York", "Aberdeen", "Dundee", "Edinburgh", "Glasgow", "Inverness", "Perth", "Stirling", "Bangor", "Cardiff", "Newport", "St Asaph", "St David's", "Swansea", "Armagh", "Belfast", "Derry", "Lisburn", "Newry"]
+cities = ["Birmingham", "Bradford", "Brighton & Hove", "Bristol", "Cambridge", "Canterbury", "Carlisle", "Chelmsford", "Chester", "Chichester", "Coventry", "Derby", "Durham", "Ely", "Exeter", "Gloucester", "Hereford", "Kingston upon Hull", "Lancaster", "Leeds", "Leicester", "Lichfield", "Lincoln", "Liverpool", "City of London", "Manchester", "Newcastle upon Tyne", "Norwich", "Nottingham", "Oxford", "Peterborough", "Plymouth", "Portsmouth", "Preston", "Ripon", "Salford", "Salisbury", "Sheffield", "Southampton", "St Albans", "Stoke-on-Trent", "Sunderland", "Truro", "Wakefield", "Wells", "City of Westminster", "Winchester", "Wolverhampton", "Worcester", "York", "Aberdeen", "Dundee", "Edinburgh", "Glasgow", "Inverness", "Perth", "Stirling", "Bangor", "Cardiff", "Newport", "St Asaph", "St David's", "Swansea", "Armagh", "Belfast", "Derry", "Lisburn", "Newry"]
 citiesCount = {"Bath" : "Somerset", "Birmingham" : "West Midlands", "Bradford" : "West Yorkshire", "Brighton & Hove" : "East Sussex", "Bristol" : "Gloucestershire", "Cambridge" : "Cambridgeshire", "Canterbury" : "Kent", "Carlisle" : "Cumbria", "Chelmsford" : "Essex", "Chester" : "Cheshire", "Chichester" : "West Sussex", "Coventry" : "West Midlands", "Derby" : "Derbyshire", "Durham" : "Durham", "Ely" : "Cambridgeshire", "Exeter" : "Devon", "Gloucester" : "Gloucestershire", "Hereford" : "Herefordshire", "Kingston upon Hull" : "East Riding of Yorkshire", "Lancaster" : "Lancashire", "Leeds" : "West Yorkshire", "Leicester" : "Leicestershire", "Lichfield" : "Staffordshire", "Lincoln" : "Lincolnshire", "Liverpool" : "Merseyside", "City of London" : "Greater London", "Manchester" : "Greater Manchester", "Newcastle upon Tyne" : "Tyne and Wear", "Norwich" : "Norfolk", "Nottingham" : "Nottinghamshire", "Oxford" : "Oxfordshire", "Peterborough" : "Cambridgeshire", "Plymouth" : "Devon", "Portsmouth" : "Hampshire", "Preston" : "Lancashire", "Ripon" : "North Yorkshire", "Salford" : "Greater Manchester", "Salisbury" : "Wiltshire", "Sheffield" : "South Yorkshire", "Southampton" : "Hampshire", "St Albans" : "Hertfordshire", "Stoke-on-Trent" : "Staffordshire", "Sunderland" : "Tyne and Wear", "Truro" : "Cornwall", "Wakefield" : "West Yorkshire", "Wells" : "Somerset", "City of Westminster" : "Greater London", "Winchester" : "Hampshire", "Wolverhampton" : "West Midlands", "Worcester" : "West Midlands", "York" : "North Yorkshire"}
 
 
@@ -48,6 +48,9 @@ search_engine_id = "016584094713900655717:rb8kgl4eucs"
 
 for city in cities:
 	start = 1
+	errorCount = 0
+	if city == "Birmingham":
+		start = 101
 	next = True
 	while next:
 		try:
@@ -79,4 +82,7 @@ for city in cities:
 				print "============================="
 		except:
 			time.sleep(30)
+			errorCount += 1
+			if errorCount > 3:
+				next = False
 			continue

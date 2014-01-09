@@ -20,12 +20,13 @@ class TwitterUser:
     self.name = self._getNameFromData()
     self.location = self._getLocationFromData()
     self.gender = self._getGenderFromData()
-
+    self.tweets = []
 
   gender = None        # -1, 1
   age = None           # -1..1
   education = None     # 1, 2, 3
   location = None      # 1..47
+  tweets = []
 
   def readGender(self):
     if self.gender != None:
@@ -45,13 +46,14 @@ class TwitterUser:
 
   def jsonify(self):
     return json.dumps({
-        "userid"    : self.userid,
+        "userid"    : self.userId,
         "name"      : self.name,
         "gender"    : self.gender,
         "age"       : self.age,
         "education" : self.education,
         "location"  : self.location,
-        "rawStr"    : self.rawStr
+        "rawStr"    : self.rawStr,
+	"tweets"    : self.tweets
     })
 
   ## data getters
@@ -68,7 +70,7 @@ class TwitterUser:
 
   def _getLocationFromData(self):
     separator = ", "
-    city, country = self.raw._location.split(separator)
+    #city, country = self.raw._location.split(separator)
     return None # TODO this still returns None all the time, com'on!
 
 

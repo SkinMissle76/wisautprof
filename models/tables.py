@@ -13,7 +13,7 @@ GENDER_TABLE_INVERTED = {
 
 def AGE_SYS_TO_REAL(sysAge):
   if (sysAge > 1 or sysAge < -1):
-    raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is " + sysAge)
+    raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is %s " % sysAge)
   return ((sysAge*50)+50)
 
 def AGE_REAL_TO_SYS(realAge):

@@ -1,0 +1,145 @@
+-0.34	Creating an NSAttributedString from HTML  ( or RTF )  in iOS 7  ( Xcode )  
+-0.34	UIWebView pagination in iOS 7  -  
+-0.34	Latest upload to Dreamstime  -  
+-0.34	No personal tweeting during the working day ,  tick .  Read a greater diversity of books ,  tick .   # newyear
+-0.34	 @ jrkasstan  @ heidi _ colthup thanks for the info
+-0.34	Nothing causes me greater frustration than FB notification settings . 
+-0.34	Enable your iOS app to share files via iTunes and to open files sent from other apps  ( Open In )  
+-0.34	Expletives dont strengthen an argument ,  they just put people off discussing things any further
+-0.34	 @ amarie  .  .  .  and guess who had all his InDesign style names in lower case before the latest Pages came out  :  (   # eprdctn
+-0.34	Looking forward to  @ Heidi _ Colthup’s presentation on hypertext fiction at  # digibury this week
+-0.34	My digital shelves are well stocked going into 2014 ,  I’m beginning the year with Doris Lessing’s The Grass is Singing
+-0.34	When you export a Word doc ( x )  from Pages all style names begin with a capital letter even if they don’t in Pages  # InDesign  # eprdctn
+-0.34	Plugging the twitter time sink  ( with a text editor )  
+-0.34	Making the Most of UITextView in iOS 7 :  NSTextStorage ,  NSLayoutManager ,  NSTextContainer and NSAttributedString 
+-0.34	JSON and Xcode  ( iOS )  :  The Basics 
+-0.34	Moto g is a decent PAYG phone ,  OH has one  -  finally back in stock at Amazon UK 
+-0.34	I spent the majority of my Christmas iTunes voucher on :  Oceanhorn ,  Elvis Perkins in Dearland and Oh no its… The Wonder Stuff
+-0.34	Im 11 %  of the way through this book 
+-0.34	Artists are neither supernatural beings nor charlatans ,  they have simply developed their skills and talents beyond the rest of us
+-0.34	Being able to project an image onto a wall does not equal being able to paint it 
+-0.34	 " …it would challenge the view that the artist had an incredible innate ability to paint with…accurate and precise detail .  "   |  No it wouldnt
+-0.34	 @ annetreasure agreed ,  the digital flows like blood through my veins
+-0.34	 @ annetreasure well I dont own a television and I dont eat MacDonalds … sorry but you wont convince me to do otherwise
+-0.34	NSMutableArray ,  indexOfObject :  ,  NSNull and NSNotFound  ( Xcode for iOS )   # protip 
+-0.34	How to get elasticsearch to work after latest OSX java upgrade  # protip 
+-0.34	I cannot praise Oceanhorn on  # iOS enough ,  its an amazing game
+-0.34	 @ fakebaldur the tech savvy are still the minority ,  it takes people a long time to learn the finer elements ,  even if they seem comfortable
+-0.34	 @ fakebaldur simple enough compared to the complexity of creating ebooks ,  but ask a random sample of users if they know how to do this…
+-0.34	 @ fakebaldur problem is that all this stuff gets turned on automatically and not everyone has the patience to figure out how to disable it
+-0.34	 @ fakebaldur distraction doesnt make them inferior ,  but distraction is a factor when you have notifications and so on popping up
+-0.34	 @ fakebaldur in that case we agree ,  I dont think reading in one way is inferior to another ,  each method has proven its worth in some way
+-0.34	typo … delete  ? 
+-0.34	 @ fakebaldur I dont see why any of us should be in a position to criticise or generalise about these preferences ?   @ michelvrana
+-0.34	 @ fakebaldur different people respond in different ways to the same things ,  hence they should be allowed their own preferences .  .   @ michelvrana
+-0.34	 @ fakebaldur  @ michelvrana are we going to pretend social media doesnt have the ability to distract and in extreme cases lead to addiction ? 
+-0.34	 @ emmahagr in addition to Apples asset guide for the iBookstore it has to  @ lizcastros fixed layout guide 
+-0.34	 @ michelvrana absolutely ,  for those of us not blessed with  @ fakebaldurs level of self control the paper book and eink reader are godsends
+-0.34	neither has reason to feel superior over the other
+-0.34	Some people avoid eating snack foods by not stocking their cupboards with them ,  others resist temptation even when it is in front of them .  .  . 
+-0.34	A sketchy New Year to all the world . 
+-0.34	Searching strings in Xcode using NSScanner and NSRegularExpression 
+-0.34	Import EPUBs into InDesign without ickmull  ( or the Terminal )  
+-0.34	Making the Most of UITextView in iOS 7 :  NSTextStorage ,  NSLayoutManager ,  NSTextContainer and NSAttributedString 
+-0.34	BBC News  -  Internet Archive puts classic 70s and 80s games online 
+-0.34	Welcome to new followers :   @ AManSinking  # film and  @ primitiverace  # music
+-0.34	 @ nickruffilo  @ crash _  _  thats true but ,  if you slip stuff past them ,  later updates might break the functionality anyway  # eprdctn
+-0.34	RT  @ sachaheck :  Think my  # Kindle is dead  :  /  anybody seen that screen error ?   # ebooks  # eprdctn 
+-0.34	 @ cocoanetics true ,  no one would complain at having the same draw
+-0.34	 @ cocoanetics … and are all slots always filled ?  Currently not ,  it would seem  -  
+-0.34	 @ cocoanetics does he never do deals like most ?  Reduced costs for regulars and to attract new business . 
+-0.34	 @ cocoanetics  @ gruber  @ martinwinter where did you learn about these amounts ?  Have they been published by  @ gruber ? 
+-0.34	Morpurgo has published so many books that theres an entire Amazon chart devoted to him 
+-0.34	 @ crash _  _   @ NickRuffilo because it takes hours of trial and error and is fragile ,  providing a proof of concept rather than a working solution
+-0.34	 @ crash _  _   @ NickRuffilo you might well be right I tried out a lot of this stuff in first versions of iBooks and havent touched since  .  .  . 
+-0.34	 @ andreasmeininge  .  .  .  you might want to look into remote access of Mac rather than router hard drive
+-0.34	 @ andreasmeininge things are hit and miss with the router .  In theory all these things should be possible but it can be troublesome . 
+-0.34	 @ NickRuffilo  @ crash _  _  see also this thread on local storage  -  
+-0.34	 @ shoesmith81 no
+-0.34	As is traditional at this time of year  -  
+-0.34	Angry Birds Go ?  Really ?  
+-0.34	How far have ebooks progressed since this article  -  
+-0.34	Watched Mr Nobody
+-0.34	 @ bbirdiman  @ jochmann  @ fakebaldur my observation was that Apple in iOS 7 has extended the ways to get from various formats into core text
+-0.34	 @ bbirdiman  @ jochmann  @ fakebaldur RTF is not the future of ebooks for Apple and this was never my intention to declare ,  my intention was…
+-0.34	 @ fakebaldur  @ bbirdiman but iBooks is an app ,  and like any other must have the ground prepared by the OS
+-0.34	 @ fakebaldur  @ bbirdiman I can see the frustration but iOS7 is a clear signal that text and layouts are a priority for Apple from here forward
+-0.34	 @ jochmann  @ fakebaldur  @ bbirdiman if the project is a success the  ebooks will be able to mix and match all sorts of data types and content . 
+-0.34	 @ jochmann  @ fakebaldur  @ bbirdiman in so doing is moving away from the structure of simply rendering web pages in ebooks
+-0.34	 @ jochmann  @ fakebaldur  @ bbirdiman indeed ,  iOS 7 makes huge leaps in extending the depths at which HTML ,  JS and RTF can be used in apps and .  .  . 
+-0.34	 @ fakebaldur  @ bbirdiman this is Apple and they are unlikely to change ,  because missing out on small rewards they shoot for the big ones
+-0.34	 @ fakebaldur  @ bbirdiman this is unlikely to happen ,  so they focus on developing their exclusive edge ,  but neglect to wholly serve the present
+-0.34	 @ fakebaldur  @ bbirdiman for iBooks to compete in regular ebooks ,  Apple would need to make eink readers and release iBooks on every platform .  . 
+-0.34	 @ fakebaldur  @ bbirdiman there are areas like these along with EPUB3 and JS where they blow others out of the water ,  nothing is perfect
+-0.34	 @ fakebaldur  @ bbirdiman I agree with every one of your statements ,  but compare how column layouts and lists paginate across multiple pages .  .  . 
+-0.34	 @ fakebaldur  @ bbirdiman they are chasing bigger game because Amazon is shooting everything else and they need to play to their strengths
+-0.34	 @ fakebaldur  @ bbirdiman Apple is an also ran in the area of regular ebooks ,  but no company has yet nailed complex ebooks .  .  . 
+-0.34	 @ bbirdiman  @ fakebaldur exactly right ,  Apple is preparing for future issues ,  it makes them who they are ,  which I agree is in part frustrating
+-0.34	 @ penllawen  @ craiggrannell in which case Id advise against holding your breath ,  it would be a health hazard
+-0.34	 " but couldn’t be looked to as a cure - all for the challenges of multi - platformdevelopment .  "  
+-0.34	 " Most respondents were neutral on HTML5 ,  agreeing that it hadits place for certain kinds of apps …  " 
+-0.34	 @ penllawen  @ craiggrannell no it doesnt ,  not as long as those people would actually buy such a thing and are not projecting a need on others
+-0.34	 @ PenLlawen  @ CraigGrannell I dont know how often that scenario occurs ,  but it would seem not enough for Apple to worry about at the moment
+-0.34	 @ fakebaldur CSS and HTML are not the code nirvana you think they are ,  get over it
+-0.34	 @ mcelhearn  @ CraigGrannell in the end ,  few people need a Mac Pro ,  and those who do will not be surprised by the prices Apple is charging
+-0.34	RT The entire 13 books of Lemony Snicket :  A Series of Unfortunate Events are 99p each today !  Grab them NOW :  
+-0.34	 @ fakebaldur its a tough position between knowing loading lag on big images is less than optimal and being flexible enough for real world
+-0.34	 @ fakebaldur my guess is that Apple is trying to parse as much as possible into core level objects to accelerate loading ,  hence the rules
+-0.34	Dear tech journalists the MacPro is not a consumer level computer ,  so get over the price and think about how much of that is VAT . 
+-0.34	Buy the whole Chemical Brothers album or just the Willy Mason track ? 
+-0.34	Drawing NSAttributedStrings with Superscripts and Subscripts  ( iOS / Xcode )  
+-0.34	Using InDesign ,  Illustrator ,  and Photoshop Together :  Moving Text Between the Programs 
+-0.34	This is my most popular blogpost ever by a third 
+-0.34	10 . 9 . 1 is released
+-0.34	I dont have the willpower to resist Tomb Raider at 69 pence ,  but I need to finish R - TYPE first
+-0.34	Ill provide you with a link to the app in the new year once it is available on the app store  # goodbyeuiwebview
+-0.34	Finishing work on a fixed - layout implementation of my json - book parser that is iOS 6 and 7 compatible and generates core text …
+-0.34	It looks like the price of Android tablets is being pulled forever downwards in the lead up to Christmas 
+-0.34	Microsoft CEO Search :  Stalemate 
+-0.34	Roll on 7 May 2015
+-0.34	Right ,  now thats off my chest I can get on with the day . 
+-0.34	and besides restricting the expansion of grammar schools only makes them more exclusive and harder to get into  # rantover
+-0.34	Im sorry but having a child who has worked hard to get into grammar  ( without tuition )  ,  it annoys me to hear Wilshaw spout this stuff …
+-0.34	If anything restrictions on grammar schools will protect those in the upper classes from the social mobility of the those lower than them
+-0.34	… you get into grammar school based on merit but private school based on money  -  wheres the greater inequality ? 
+-0.34	If grammar schools are deemed to be bad because they prevent social mobility then surely same could be said of private education as well
+-0.34	Kindle HDX has had a price chop 
+-0.34	Google Apps for Mac desktop 
+-0.34	Its crazy how good R - TYPE still is . 
+-0.34	Pixelmator vs Photoshop  ( in brief )  
+-0.34	 .  .  . how often am I going to be searching for the same thing across multiple apps ?  Sometimes of course yes but not always ,  not enough for this
+-0.34	 .  .  .  try typing a search term in Safari then doing a search in Textastic  .  .  .  same word appears  .  .  .  annoying in Xcode too
+-0.34	Is it useful or annoying that in OS X you type in the search box of one app and it appears in that of another ? 
+-0.34	 @ nickbarreto  @ gavreads backlist screen is that the next big thing for publishers ? 
+-0.34	Import EPUBs into InDesign without ickmull  ( or the Terminal )  
+-0.34	The modern reader talks in percentages . 
+-0.34	Finally upgrading from the Lite version of Music Studio now its on sale 
+-0.34	NSMutableArray ,  indexOfObject :  ,  NSNull and NSNotFound  ( Xcode for iOS )   # protip 
+-0.34	Wishing you a multilingual Christmas  # protip 
+-0.34	 @ hughmcguire is it still the case that ols also renumber when hyperlinked to ?  They are a bit of a disaster area for mobi  # eprdctn
+-0.34	NSMutableArray ,  indexOfObject :  ,  NSNull and NSNotFound  ( Xcode for iOS )  
+-0.34	The Waking Prince  -  Nice for older kids !  
+-0.34	Jenga ,  Star Wars and Angry Birds all in one ,  that covers a lot of bases 
+-0.34	iPad Animation :  Animation Creator HD vs Do Ink vs Animation Desk vs Animation Studio vs PhotoPuppet HD 
+-0.34	NSMutableArray ,  indexOfObject :  ,  NSNull and NSNotFound  ( Xcode for iOS )  
+-0.34	Thick mist in Canterbury tonight ,  crazy diffusion of lights
+-0.34	 .  .  .  is once again resisting placing any comments on Facebook
+-0.34	 @ ScoobyGce try and get something useful out of Acrobat saving as doc ,  XML ,  RTF ,  etc .   -  results depend on how well structured original was
+-0.34	Im halfway through Elephant Moon ,  which is a kind of update to The Purple Plain 
+-0.34	 @ eBookNoir only recently tried the iPad mini as a test device and I agree .  I prefer it to full size for most things esp .  reading  # eprdctn
+-0.34	 @ eBookNoir Kindle fits in a coat pocket for those unexpected reading opportunities ,  I read much more because of it  # eprdctn
+-0.34	 @ eBookNoir for me its Kindle for fiction ,  iPad for programming guides .  I rarely read a paper book unless its a gift  .  .  .   # eprdctn
+-0.34	Im not sure whether this Binatone is trying to hit the bling or the hipster market 
+-0.34	all of the benefits and none of the compromise ,  I think thats called having your cake and eating it
+-0.34	disagreeing with certain things on social media sites is like throwing yourself into a nest of vipers
+-0.34	 @ MacsandMoreDH But the auto is the only way out isnt it ?  Seems strange . 
+-0.34	 @ MacsandMoreDH its the online Apple Store for hardware and so on in a browser ,  Im really not seeing a log out or sign out option anywhere
+-0.34	Saturday challenge :  go to the Apple Store site ,  log into your account ,  now try to log out without clearing cookies or any funny business
+-0.34	 @ eBookNoir you might well be right but as a reader its Paperwhite all the way for me  # eprdctn
+-0.34	This might be a daft question ,  but how do you log out of your Apple Store account ? 
+-0.34	 @ Smutchings Im now thinking there should be a Christmas  # quizbury
+-0.34	 @ Smutchings well there was beer and a couple of questions ,  no prizes though
+-0.34	 @ Smutchings I went a couple of weeks ago and actually got a question right ,  still deciding about next week
+-0.34	 @ Smutchings Im impressed ,  a true Mac user ! 
+-0.34	 @ Smutchings always been an alt - 3 for  #  but Im guessing a certain social media site might have something to do with it being added to key
+-0.34	Mega Bloks Call of Duty  -  not a joke ,  this is real 

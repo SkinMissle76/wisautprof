@@ -431,11 +431,27 @@
     "education": "3"
   },
   {
+    "okcupidUsername": "heatherantoniaa", 
+    "gender": "1", 
+    "age": "24", 
+    "link": "http://www.okcupid.com/profile/heatherantoniaa",
+    "location": "14", 
+    "education": "2"
+  },
+  {
+    "okcupidUsername": "Charlalar", 
+    "gender": "1", 
+    "age": "20", 
+    "link": "http://www.okcupid.com/profile/Charlalar",
+    "location": "3", 
+    "education": "1"
+  },
+  {
     "okcupidUsername": "bluebenny", 
     "gender": "-1", 
     "age": "31", 
     "link": "http://www.okcupid.com/profile/bluebenny",
     "location": "18", 
     "education": "1"
-  },
+  }
 ]

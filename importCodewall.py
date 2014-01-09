@@ -11,7 +11,7 @@ import os
 
 db_codewall = shelve.open("data/coderwall_tweets.shelves")
 
-fp = open("data/manually_tagged/Users_CodeWall.json")
+fp = open("data/manually_tagged/users.json")
 tweetData = fp.read()
 fp.close()
 profileData = json.loads(tweetData)

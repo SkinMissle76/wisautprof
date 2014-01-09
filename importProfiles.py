@@ -56,6 +56,9 @@ for profile in profileData:
 	directory = "data/manually_tagged/generatedProfiles/%s/" % twitterData['userid']
 	if not os.path.exists(directory):
     		os.makedirs(directory)
+	else:
+		print "User already has generated data, skipping"
+		continue
 	
 	fp_age = open("%slibshorttext_age.txt" % directory, "a")
 	fp_education = open("%slibshorttext_education.txt" % directory, "a")

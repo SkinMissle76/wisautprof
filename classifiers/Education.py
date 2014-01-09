@@ -29,7 +29,7 @@ class OkcupidEducation:
       elif self._inLowEducation(s):
         return EDUCATION_TABLE_INVERTED["Low"]
       else:
-        return None
+        return EDUCATION_TABLE_INVERTED["Mid"]
     #elif self._hasGraduated(s) or self._isWorkingOn(s):
     else:
       if self._inHighEducation(s):
@@ -39,7 +39,7 @@ class OkcupidEducation:
       elif self._inLowEducation(s):
         return EDUCATION_TABLE_INVERTED["Low"]
       else:
-        return None
+        return EDUCATION_TABLE_INVERTED["Mid"]
 
   # private
   def _inHighEducation(self, s):

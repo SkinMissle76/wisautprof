@@ -1,10 +1,8 @@
 from models.FinalDBTweets import FinalDBTweets
 from models.FinalDBUsers import FinalDBUsers
-import re, string
+import re, string, pprint
 from lymbix import Lymbix
 
-def _preprocess(text):
-  return re.sub(r'^')id
 
 def _processPunctuation(text):
   t = re.sub("https?:\/\/.*(\s+|$)", '', text)
@@ -20,17 +18,25 @@ l = Lymbix(apikey)
 fdbu = FinalDBUsers()
 fdbt = FinalDBTweets()
 
-users = fdbu._db.values()
+users = fdbu._db.keys()
 done = 0
 total = len(users)
 
-for u in users[:3]:
-  for t in u["tweets"]:
 
-    _tid = t["id"]
-    _text = t["text"]
-    _sentiment = 0
-    _polarity = 0
-    print _tid, _text
-  r = l.tonalize_multiple(["I love you", "I hate you"])
+
+for i, uid in enumerate(users):
+  u = fdbu.get(uid)
+  texts = [_processPunctuation(t["text"]) for t in u["tweets"]]
+
+  if not fdbt.hasTweetsOfUser(uid) and len(texts) > 0:
+    r = l.tonalize_multiple(texts)
+    print uid, i, "/", total, "\t\t\t\t", r
+    for j, t in enumerate(u["tweets"]):
+      _tid = t["id"]
+      _text = t["text"]
+      _processedText = _processPunctuation(_text)
+      _polarity = 0
+      _emotion = 0
+      fdbt.add(tweetId=str(_tid), text=_text, processedText=_processedText, sent=r[j], userId=uid)
+
 

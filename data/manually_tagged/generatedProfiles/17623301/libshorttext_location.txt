@@ -1,0 +1,162 @@
+35	Got BETA access to Nosgoth ,  a fine example of Square Enix ruining a franchise .   :  ( 
+35	 @ nwrman Im just catching up on propulsion mechanisms ,  then it will be with you ! 
+35	 @ drunkzackkitz  @ kwibbles hmm ?   : o
+35	Want .  
+35	 @ taylorotwell  @ ericlbarnes has he switched ?  I thought he was the Backbone Boss ! 
+35	 @ hello _ infinety  @ laravelphp we may have something on the way !   :  ) 
+35	 @ bagwaa I dont really use anything Laravel specific .  I use Docblockr for comments ,  and Emmet for FE generation . 
+35	 @ bagwaa gitgutter plugin for ST  :  ) 
+35	 @ bagwaa it never hurts to experiment  :  )  I tried PHPstorm for a while ,  but all the underlining and background colours drove me nuts . 
+35	 @ kking724 haha ,  enjoy  :  ) 
+35	 @ bagwaa you can with plug ins ,  but I do most of that stuff in the CLI or with build scripts . 
+35	 @ seldaek its a sign of a community doing well .  Someone always has to have a dig when things are going swimmingly .   : P
+35	 @ bagwaa I dont get on with PHPstorm ,  my mood is changed by the design of things ,  and PHPstorm feels kinda ugly .  I miss the IDE features tho
+35	 @ kkga _  its very clean but also distraction free ,  thanks for sharing it with the world !   :  ) 
+35	 @ kkga _  sorry !  totally wrong link haha  :  
+35	 @ kkga _  hey buddy ,  I added a colour scheme to match space gray to my popular colorschemes package .  I hope you like :  
+35	 @ dancrodev thanks man ! 
+35	 @ bagwaa its on package control  :  )  Space Gray
+35	 @ dancrodev nope ,  sublime with the Space Gray theme .   :  ) 
+35	As promised ,  Ive added my Peacocks In Space theme to the colour schemes package :  
+35	I made a version of Peacock for myself to go with the Space Gray ST3 theme .  Anyone interested ?  
+35	Had a productive day .  Reward scheme .  .  Cinema !   :  ) 
+35	 @ arafays  @ twiebster  @ designerdon  @ jasonmortonnz Heres mine :  
+35	My Top 3  # lastfm Artists :  Jay - Z  ( 12 )  ,  Justice  ( 4 )   & amp ;  Jay - Z and Linkin Park  ( 4 )   # lastfm 
+35	 @ stefan _ doorn yep ,  download the update buddy  :  ) 
+35	 @ gypsyshovan I hope you mean Watson and not my GF ! 
+35	 @ ircmaxell haha !  awesome shot  :  ) 
+35	 @ ircmaxell Ive not been following ,  is that a macro on a couple of the pins ?  Awesome !   :  )  Some T - Cut will get those scratches right out mate . 
+35	 @ gr55sjr oh no that poor chap  :  ( 
+35	 @ gr55sjr luckily the mountain folk are ok ,  you hosting anyone ? 
+35	 @ gavD _ UK I still want to sell my 15 "  non retina ,  if youre interested .  16GB ram ,  320gb SSD .  i7 . 
+35	 @ jeffrey _ way  @ netmag good work !   :  ) 
+35	Foreign key constraint clashes in migrations :  
+35	 @ joshbrw  @ laravel might be worth recommending some changes if you have ideas on GH  :  ) 
+35	 @ craigmarvelley  @ benjamindavies 29 minute sandwich .  Cucumber ,  of course . 
+35	 @ blockeight  @ h00zf1sh theres a story in halo ?   : p  ( troll ) 
+35	 @ blockeight  @ h00zf1sh the modern stuff is the most interesting story for me !   * bring back desmond * 
+35	 @ blockeight  @ h00zf1sh you cant arrive at a series and want it to be another game .  I liked the cats in mario ,  i wish it was just Catz V
+35	 @ blockeight  @ h00zf1sh chavthread !   " I wish it was more like FIFA so I could mash buttonz " 
+35	 @ blockeight  @ h00zf1sh see youre only liking it for the pirate stuff ,  thats not what AC fans are in it for  : p
+35	 @ blockeight  @ h00zf1sh the modern day stuff is good too ,  but not as good as desmond .  JON DONT DO IT catch up first mate
+35	 @ blockeight you cant start now .  Go back and play 2 .  Freedom Cry is pretty good too btw . 
+35	 @ blockeight  @ jenko  @ Blockette bluray box set here ,  booya . 
+35	 @ philhinco have got one in my gaming rig .  Works well ! 
+35	 @ BenjaminDavies  @ craigmarvelley hack lunch :  write an app to find street view location based on reverse  angle of image .  You have 30 mins Ben
+35	 @ gavd _ uk  @ craigmarvelley  @ bendihossan  @ irregularshed dig out a square in the garden mate ,  free swimming pool council cant do shit about . 
+35	 @ philhinco  @ jeffrey _ way  @ machuga  @ philsturgeon it depends on experience level ,  newcomers swear by Head First :  Design Patterns  ( book ) 
+35	 @ gavd _ uk HI FRIEN ,  WUD YOU LIEK SPOILERZ ? 
+35	 @ drugcrazed  @ jeffrey _ way Digital Ocean are kinda cheap ,  also fortrabbit .   :  ) 
+35	BRB ,  Ill be writing Ruby code until the latest PHP drama blows over .   # optout
+35	 @ gavd _ uk  @ bendihossan  @ sianz  @ maxehmookau  @ heaper  @ oldmanmoore bad time to mention I got rid of mine ?   : x
+35	 @ ben _ corlett  @ tomschlick CRUISE CONTROL FOR AWESOME
+35	Chippie .  Wtf is a choppier iphone ? 
+35	Emma went to the choppier to buy me a ton of sausages .  Guy at till asked “party ? ” SAUSAGE PARTY WOOOO !  !  ! 
+35	 @ gr55sjr awesome  :  )  told you ! 
+35	 @ darrennolan _   @ philsturgeon yeah I was only joshing them all ,  Im on the fence ,  Laravel or PHP ,  its all useful material to me . 
+35	 @ zackkitzmiller its beautiful  : o
+35	 @ zackkitzmiller is your twitter background you and sturgeon on a unicorn ?   : o
+35	 @ gavd _ uk  @ oldmanmoore  @ bendihossan  @ sianz its iechyd  : p
+35	 @ oldmanmoore  @ bendihossan  @ sianz I was there for the last Tango in Aberystwyth .  We were given soda rations . 
+35	 @ machuga you’re my Hercules ! 
+35	 @ ianlandsman  @ philsturgeon  @ taylorotwell good news everyone !  I’ve refactored Code Bright .  It’s now 100 %  less Laravel and 100 %  more Kohana ! 
+35	 @ DesignerDon yup more or less  :  ) 
+35	 @ cthragyaska  @ h00zf1sh Wow !  such fruit !  so rude ,  3 rude 5 you wow
+35	 @ ipalaus haha Ive not seen that one ! 
+35	 @ h00zf1sh  @ CthragYaska I wish I had a fire .  Got more .  
+35	 @ nagy _ levente you too buddy  :  ) 
+35	 @ yegnold more difficult is choosing when to use a mock .  Sometimes hitting a test DB is fine ,  and needed .   :  ) 
+35	 @ yegnold  @ unifieddiff thanks buddy ! 
+35	 @ lmmenge maybe a long forgotten feature stub  : p
+35	 @ fbnlsr love that game ! 
+35	 @ gavd _ uk Ive had this with desktop clients ,  never the web client though ? 
+35	 @ joshbrw yep ,  its just another PHP ,  you will need to provision it though  :  ) 
+35	 @ joshbrw To simplify ,  its a virtual machine supporting an alternate version of PHP maintained by Facebook .  Fast too . 
+35	Pretty sure this has been broken since iOS7 launch .  Timer is active with over 20m remaining .  
+35	 @ driesvints  @ pborreli  @ nielsstampe nice ! 
+35	 @ gavd _ uk webring pls
+35	 @ Bendihossan  @ MaxehMooKau it’s how it should be ! 
+35	 @ h00zf1sh  :  ) 
+35	Did zero coding over the festive period .  Kinda pleased with myself ! 
+35	 @ h00zf1sh enjoy !  I might wait for the PS4 version  :  ) 
+35	OpenEMU mini review :  works really well . 
+35	 @ wifebear  @ ryantablada pizza for two  :  ) 
+35	🎧My Top 3  # lastfm Artists :  Dubmood  ( 2 )  ,  Phil Collins  ( 1 )   & amp ;  Something Corporate  ( 1 )   # lastfm 
+35	 @ RyanTablada aye front and surround with a matching center .  Front are bi amped .   :  ) 
+35	 @ RyanTablada 626 yep it’s great  :  )  got 4 monitor audio bx5s on it and a center / sub now  :  ) 
+35	 @ ASUS site appears to be broken :  
+35	 @ ASUS 
+35	iPad mini retina is the perfect size  :  ) 
+35	 @ bagwaa we have that one .  It is fantastic . 
+35	 @ steviephil it’s ok .  It’s short .  Do it over lunch break  : p
+35	 @ secnelis I’ll check with my translation manager  :  ) 
+35	 @ gavD _ UK no problem ! 
+35	 @ gavD _ UK  {  : lang = ”php” }  with no tab above the block  :  ) 
+35	M4 west around junc 19 is packed  :  ( 
+35	 @ HincoEU interesting !  Will fix .  Thanks  :  ) 
+35	 @ stuherbert if it’s like mine it will warm your lap nicely in the process too ! 
+35	 @ happysahota  @ taylorotwell  @ laravelphp  @ LaravelIO if you’re on L4 . 0 you need to fix ardent to a compatible version . 
+35	 @ gavD _ UK whatcha documentin’  ? 
+35	 @ mikewink ill take a look mate  :  )  enjoy ! 
+35	 @ studioromeo got the folks down mate  :  )  thanks for the tweet tho ! 
+35	 @ irregularshed  * shouts *   " SPOILERS ,  STEVE GOT EVERYONE SEX TOYS FOR XMAS " 
+35	 @ studioromeo  @ gavd _ uk  @ bendihossan  @ jenko UT instagib on Morpheus . 
+35	 @ gavD _ UK  @ Bendihossan  @ studioromeo  @ jenko hrrm I have an Ouya ,  so with the help of some emulators .  .  . 
+35	 @ Bendihossan  @ studioromeo Cardiff gents ,  I always have vast quantities of Vodka and a full range of consoles if Bristol friends are too far ! 
+35	Impressed with how Windows solved the problem of lack of accuracy in their time estimations .  
+35	 @ chadtomkiss  @ philsturgeon  @ Amazing _ Maps I’m free after the new year for some invading . 
+35	 @ ianlandsman Id balance it on top of the pile of other cool things I have no use for  :  ) 
+35	 @ gavd _ uk oh yeah !  they got more handsome . 
+35	 @ ianlandsman want
+35	Did google change the E in their logo ,  or am I losing my edge ? 
+35	 @ sloveniangooner  @ philsturgeon haha I dont mind them as long as they cover something new
+35	 @ philsturgeon FIRST
+35	 @ gravitano hi  :  )  great thanks !  You ? 
+35	Love that AlfredApp matches Sequel Pro by the keyword pancake .   :  ) 
+35	 @ michaeljcalkins  @ ShawnMcCool looks great on mobile .  Great work guys  :  ) 
+35	 @ blockeight bills turned them into tuna .  Hoooooo ! 
+35	 @ RyanTablada why do we all go straight for  $ x after  $ i  # mystery  # homework
+35	 @ Sianz featuring a Lady Grey . 
+35	 @ idiot I’m sold
+35	 @ bagwaa been tempted myself mate . 
+35	 @ JohnBishop100 did you manage it with 1 sheet though mate ,  or did you ‘man - patch’ it ? 
+35	 @ ianlandsman who messed up ?  I’ve been offline  : o
+35	 @ davzie  @ ShawnMcCool is my beautiful Yankee - Dutch homie  :  ) 
+35	Great hanging out with my fav Norwegian this weekend  :  )   @ svartemaya come back soon ! 
+35	 @ studioromeo  @ MaxehMooKau  @ Bendihossan  @ Sianz wonder what causes it .  I’m fine while travelling . 
+35	 @ theSteveHalford 
+35	My Top 2  # lastfm Artists :  Dunderpatrullen  ( 1 )   & amp ;  FantomenK  ( 1 )   # lastfm 
+35	Just finished Freedom Cry .  Well done  @ Ubisoft  :  ) 
+35	 @ RyanTablada I’d imagine it would look the same really  :  ) 
+35	 @ RyanTablada haha awesome  :  ) 
+35	 @ ssx good man  :  ) 
+35	 @ ssx saw the link to your site in my client .   :  
+35	 @ ssx At the missus parents I think matey  :  )  how about you ? 
+35	 @ ssx 
+35	 @ dancrodev I didnt make this one buddy ,  it was  @ iKreativ  :  )  I agree though ! 
+35	 @ eski009 No problem  :  ) 
+35	I was just writing something ,  and this came out  " Its time for the Windows folk to be executed .  "  Freudian slip maybe ?   : o
+35	 @ zaherg want to show me an example mate ? 
+35	 @ djekl  @ taylorotwell yep ,  pass the credentials that you need to match into the attempt (  )  method . 
+35	 @ studioromeo  @ Bendihossan  @ Sianz you’ve been in the pub since lunch ?  !   : o
+35	 @ Bendihossan  @ Sianz gone less than a month and no pub invite !   # forgotten
+35	A new chapter of Code Bright is being published right now .  Expect it in your inboxes soon .  Have a great night guys !  
+35	 @ cschorn well I guess that was me preaching myself ,  so its all a matter of opinion  :  ) 
+35	 @ michmich did you have a problem for it to solve ?   :  ) 
+35	Pay no attention to the preachers .  Only by finding solutions to your own problems ,  will you find value in a new technique or tool . 
+35	Vodka levels low .  Writing starting to approach sensible state .  Must purchase more vodka .   # writingfuel
+35	 @ stuherbert oh awesome ,  wanna submit it for the collection ?  
+35	 @ stuherbert  @ akrabat agreed !  I hope youre using one of my colour schemes for extra pimping ! 
+35	 @ stuherbert  @ akrabat I too found things too small and went back to the normal mode .   :  )  Love seeing non pixely code on the retina though . 
+35	 @ ericlbarnes Ill have to ship some more in the new year  :  ) 
+35	 @ stuherbert  @ akrabat I swapped out a 15 "  non retina pro for it .  Much prefer the smaller form factor .  Light too . 
+35	 @ stuherbert  @ akrabat Ive been working on a 13 "  retina for a good few months .  Its lovely !  Have you found the More Space option Stu ? 
+35	 @ sianz poor innocent Sian ! 
+35	 @ ericlbarnes how is that different from any other day ?   : D You gone through all those minstrels already ? 
+35	Ive got some serious Code Bright mojo tonight .  Writing a fun little chapter . 
+35	 @ jenko gonna have to amputate .  Sorry mate . 
+35	 @ sianz hey ,  who am I to judge you on your choice of personal massagers .   : o
+35	 @ RyanTablada  @ akuzemchak  @ laravelphp  @ taylorotwell why can’t we all get along  ;  )  
+35	 @ akuzemchak  @ laravelphp  @ taylorotwell I gave him the choice mate  :  ) 
+35	 @ ianlandsman  @ emartelai  @ laravelphp  @ taylorotwell pretty sure my old 386 is still in the attic  : o
+35	 @ emartelai  @ ianlandsman  @ laravelphp  @ taylorotwell oh and .  .  yknow… we both love Watchdogs  ;  )  haha

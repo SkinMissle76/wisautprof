@@ -1,0 +1,163 @@
+3	Honeymoon booked for the Algarve . 
+3	Managed to redo the thermal paste on my CPU and cooler as well as added another 4GB memory  ( now 8GB )  .  A day of tinkering with the computer
+3	So the TP - LINK Powerline line kit is magic .  Got my TV hooked up to my media server .  Plex on the TV and Plex server on computer .  Wow
+3	Book club night .  That time when being male means Im locked in my own bed room so the women can complain about things .  .  . 
+3	Finally updated a friends WordPress site to 3 . 8 .  I love using git for updates like that .  git merge  - X theirs wordpress / 3 . 8
+3	The Christmas work party begins .  Almost the end if my first year here and its been class
+3	Here we go !  We all get to enjoy the fun that is my daily Christmas break countdown !  Only 5 days to go ! 
+3	Thinking of doing some Firefox add - on development now that I have jumped ship to Firefox .   # jetpack for now
+3	Really need to start making more use of 1password . 
+3	 @ FlamingoForMac yeah .  It takes a long time when connecting and send to just give up and say offline
+3	 @ FlamingoForMac just purchased for hangouts but it is showing me as offline .  The login worked fine . 
+3	Finished reading  # Dune .  Pauls side of things was much better than the Harkonnens .  Moving onto The Gunslinger by Stephen King next . 
+3	Not my ideal way to end work but tomorrow now has no other option than be better . 
+3	Loving the new  @ docker ‘link’ and ‘name’ options .  Now I just need to figure out how to use rabbitmq and my basic infrastructure is ready ! 
+3	Booked the suits and ordered the rings .  This wedding is finally seeming to come together .  Now only 2 or 3 things left to book
+3	Turns out cross compiling a basic go application takes just a few lines of bash !  
+3	 @ xoxjordanaxox this is my life .  I havent even started on the sidekiqs and unicorns  ( not even kidding ) 
+3	Getting my terminal foo back up to par .  Why have I just discovered ack !  and switched to vim as my primary editor . 
+3	Just had a quick lesson on functional programming via clojure .  I was impressed and genuinely learnt something .   # lovelearningshit
+3	Been playing with  @ docker and WOW .  It just clicked .  I’ve already started trying to prepare it from my current and future projects .   + 1
+3	Start learning ruby !  This is the first in a series aimed at absolute beginners  -  
+3	Ruby  ` refine `  is rubbish .  Barely useful .  The documentation is mostly wrong and who thought  ` using `  shouldn’t be a keyword !  ?   # ruby
+3	 @ shroomling Ive seen .  Its gos testing that is putting me off .  Its just not nearly as easy as ruby with mocks and stubs
+3	 @ simbul Nope .  You managed to waste several minutes of my life after searching ‘exotic fruits’ in search of cats  @ shroomling  @ doryphores
+3	 @ simbul  @ shroomling  @ doryphores genuinely… how the f *  *  *  can that ever be helpful ? 
+3	Trying to learn to touch type… slowly
+3	We now have a hole in our ceiling which we needed to cut out because of yesterdays leak BUT the leak has been fixed .  Hurrah ! 
+3	Getting vim setup on my laptop .  Theres something about doing everything with keys that appeals to me . 
+3	Getting new immersion heater put in after we discovered the old 1 was leaking .  Looking forward to having water in the house again . 
+3	Hooked up my first project to Travis CI this morning .  Pretty damn quick . 
+3	This 7 - minute workout is actually more tiring than it sounds . 
+3	Going to give  # rust a go tonight on a quick command line tool .  Should be interesting . 
+3	 @ yourtradebase Noone ?  ? 
+3	 @ zerointernet don’t push your luck  : P
+3	Have I finally found the perfect size and location for all my apps on my work monitors ?  I think so ! 
+3	The day of reckoning is nearly upon us !   # sofaday tomorrow ! 
+3	Finally on sofa countdown .  Roll on thursday so I can have both my shiny new sofas delivered
+3	 @ PeterSouter NOOOOOOO Oh well back to only semi - fun Irelia  :  ( 
+3	 @ PeterSouter I haven’t played in ages and SUCK but I’ll send it over .  I don’t get a chance to play much these days but maybe on weekends
+3	 @ PeterSouter Akali is my fav but sucks with oracles  :  (  Sooo much fun
+3	Obligatory tweet about a sublime plugin for formatting gherkin tables by  @ shroomling  
+3	Sorted out the locks in the new house and bought some pictures for the wall . 
+3	Doing some old school problem solving today at work .  It’s nice to work on a pure ruby program without frameworks .   # nerd
+3	Sat on a sofa in the middle of the street waiting for a van .  True story
+3	At my new house .  After years of waiting for today I can finally call somewhere mine
+3	Added recurring billing accounts to my API and tons of upload improvements  # productive
+3	Started a new open source project .  Quick CV .  A simply sinatra app that can generate a PDF resume / cv using linkedin  -  
+3	Hacking around with sinatra and the linkedin api . 
+3	 @ zerointernet  @ bitbucket is awesome .  Just missing the community that github has .  I use it for all my private repos
+3	Hair cut and sun ,  great day already .  Now I also have a chance to work on some of my own projects and flesh out some ideas
+3	 @ PeterSouter good luck .  Hope you enjoy it . 
+3	REALLY !   $ 0 . 08 amazon !  ?  What a con !   / sarcasm
+3	CI queue  :  ( 
+3	 @ BrianHauerTSO Glad you liked the article .  Your benchmarks were a large factor in my choice of language so thank you for the work  : D
+3	 @ maver Oh and thanks for clarification of visibility
+3	 @ maver probably .  From what Ive read it looks like most are BUT as you say it’s tough to know .  I may update to mention the use of map
+3	New blog post :  Getting to know Go  ( 
+3	Whenever there are delays between Finsbury Park and Moorgate .  Never get Northern Line .  Always go Kings X and get the Hammersmith .  Civilised
+3	Wow go is genuinely super performant .  A test json response down to 5ms .  This is why I want to build an API in go  # golang
+3	Getting round to writing some Go  # golang Not too difficult but the documentation could do with some more examples . 
+3	Vegetable imitation .  Just another part of the job I suppose . 
+3	Watching the  # F1 highlights .  It’s been a while
+3	My train ticket this month should get me through till after next pay day !  That’s awesome .  1 month salary without train fare  : D
+3	Its been ages but I have the urge to play through SC1 & amp ; 2
+3	Having just bought 2 sofas ,  bed frame and mattress  -  to then discover my TV has broken was not a happy moment . 
+3	Productive day with loads of progress .  Looking forward to the weekend now  : D
+3	After about a month ,  I have finally been accepted into the Twitter Cards system . 
+3	I’m still really tempted to give Go a try .   # golang
+3	I like the look of Ruby 2 .  Looks like some nice changes although I don’t agree with the new named params addition
+3	Enjoying the Hunger Games books .  On the last one now .  Will have finished by the end of the week .   # sadtimes I need a suggestion for my next
+3	 @ emmaicbrown Why anyone would by sandals in winter ,  without a holiday coming ,  just baffles me is all
+3	 @ emmaicbrown Sandals ?  Why ? 
+3	The best thing about commuting is that I now get through books at a rapid pace .  I’ve been looking for a chance to start reading again . 
+3	 @ zerointernet Ask her about the elders of the internet !  And how is it wireless !  ?  I must know ! 
+3	A good day .  Getting the hang of this commuting thing .  Food ready for tomorrow and loving the new company . 
+3	Bastilles new album is epic .   / end
+3	Boxen is the new tool touted by GitHub .  Is it really that easy to use ?  Can it help you ?  
+3	God dammit vagrant .  My bundle is horrendously slow .  I have been waiting for it to complete for over an hour . 
+3	Easy trip into work today .  Got my new headphones here so I can get back to some rdio . 
+3	Looking forward to takeaway tonight  : D
+3	Boxen is the new tool touted by GitHub .  Is it really that easy to use ?  Can it help you ?  
+3	Payments Startups Stripe Launches Limited Beta For UK Payments ,  With Euros On The Way 
+3	How is this time of the day even remotely acceptable ? 
+3	Induction day .  Hopefully it’s good . 
+3	Really puppet ?  Variables ,  that aren’t variable… Genius ! 
+3	Going form the only developer to being surrounded by developers is awesome .  Great to find a company approaching development properly
+3	 @ Sacrilicious no .  Doing it outside of boxen works perfectly .  Ended up using curl instead
+3	 @ zachinglis It probably works out cheaper to just buy the music . 
+3	 @ freakyDaz  * boxen
+3	Why boxes !  WHYYY !  !  brew install wget  : D boxen equivalent fails  :  ( 
+3	 @ emmaicbrown No butterfield for you ! 
+3	Getting my old windows phone out .  Giving the fiancée my galaxy s2 as her phone is hideously slow . 
+3	And just like that my time  @ TheBetterWebCo comes to an end .  Been a brilliant time and I will miss the team .  Good luck to them in the future
+3	Right in the feels !  Best friend from years ago uploads pics of new baby .  It’s been so long since I spoke to him . 
+3	View and controller specs completed .  All green .  100 %  coverage .  Next ! 
+3	I wander if  @ rdio is also P2P ? 
+3	Awesome article about  @ stripe’s hiring process .  
+3	Lots of api work .  I think tomorrow night will be controller ,  integration and performance tests to support it . 
+3	 @ emmaicbrown It’s working !  SHUDDUP
+3	A helpful demonstration of arel with rails 
+3	My phones battery has been doing tons better since I switched back to  @ CyanogenMod .  Why did I even change in the first place !  ? 
+3	“ @ sazzy :  Taking calls is more disruptive than having your inbox open ,  in my opinion . ” So true ! 
+3	Why have I been so tired today !  ?  Considering just going to sleep now . 
+3	 @ LeaVerou Nooo it’s so small  : O But congrats ,  regardless on the size haha
+3	Running a SaaS ?  Here are some services you’ll find useful 
+3	Lots of spec tests written this morning .  DRYed up the specs loads too .  Sitting at just under 1 : 1 code to test
+3	My first use of rspec example groups to help keep my specs maintainable .  Lov
+3	 @ GoCardless I understand that but currently I couldn’t financial afford the ‘other options’  :  (  funding things personally currently . 
+3	Well this doesn’t look great for heroku .  Call me naive but it puts me off using them 
+3	I should really look into using AWS elastic beanstalk .  I think my next project might end up there . 
+3	Why does UK have such rubbish / expensive payment systems .  I like  @ GoCardless but until I can allow payments from the US it is hard to justify
+3	 @ idiot PLEASSSEEEE !  !  ! 
+3	 @ nimbushosting Do you know what caused the downtime earlier this morning ? 
+3	For instance can any doctor with enough practice become a surgeon or are you naturally drawn to the job and you skills build around that ? 
+3	Film was okay .  It did spawn an interesting conversation about people who are born to do a job . 
+3	Going to go see flight tonight .  Or thats the plan at least . 
+3	 @ nimbushosting All appears to be working so no downtime as of yet . 
+3	What is wrong with me ?  Why am I so productive today .  Well ahead of schedule .  AND I’ve been tweeting about code comments .  Awesome day ! 
+3	Possibly my current favourite place on the internet :  
+3	Okay finally have a very old rails app updated to patch the security issues .  Now I can relax . 
+3	 @ xoxjordanaxox Good luck  : D
+3	 @ xoxjordanaxox Yeah most churches have choirs .  It might not be as good but I bet it costs considerably less
+3	 @ xoxjordanaxox ouch a grand lol .  Have you been to surrounding churches and asked if they know any ? 
+3	 @ xoxjordanaxox have you not found one ?  or is it just the cost of them ? 
+3	Started moving my DNS records over to  @ nimbushosting .  Hopefully it all goes smoothly . 
+3	 @ samUK Cheers .  I hadn’t thought about that .  4x4 perfection right there . 
+3	 @ samUK you should really go with an actual insurance company as opposed to an African mammal… Just sayin’
+3	My mortgage has been accepted !  Okay now just need the solicitors to speed up and get me a moving date .   # bloodyexcited  # verypoor
+3	 @ thomasfuchs My host only ever recommends centos but it is a massive pain to install latest libraries on . 
+3	 @ sazzy I’ve always had this issue .  It has to be a hardcoded restriction within chrome . 
+3	 @ dionnewilsher Have fun . 
+3	Listening to  @ ShopTalkShow as I unwind for the day . 
+3	Yet another rails security vulnerability .  I love rails and all but it has made me look towards other solutions recently . 
+3	Been waiting to see the doctor for absolutely ages now . 
+3	Had a nice weekend with the fiancée .  Hoping to hear more news on our future house next week . 
+3	Nice stint at the gym .  Going to relax in front of the TV with a film on .  Im well on my way to my target weight . 
+3	One of my final freelance projects is nearing an end .  I will be so happy to enjoy my weekends again ! 
+3	 @ samUK haha sounds awesome .  Bloody git
+3	 @ samUK yeah thats right .  Going to be strange not having my own car again .  What engine size is yours now then ? 
+3	 @ samUK haha .  Meanwhile I’m planning on selling mine  :  (  Oh well couple years and I’ll get an Audi or something  : D
+3	 @ samUK LIKE !  Congrats . 
+3	Lost 5lbs in 1 week .  Who said this was difficult ? 
+3	 @ nimbushosting Your phones are always down haha
+3	I still find  @ trello is my go - to todo manager for any of my personal projects .  The quickest to use by a mile . 
+3	I should start using arel more for complex queries in Rails .  I must avoid SQL at ALL costs ! 
+3	I’m genuinely loving life currently .  Beautiful fiancée and an exciting job .  Bring on the future !  So I can kick its arse too ! 
+3	 @ peterjlambert Congratulations ! 
+3	So easy !  Does your project actually need jQuery ?  “ @ toddmotto :   @ freakyDaz This might help you on your journey  :  )   -  
+3	 @ toddmotto Even so I had always seen getElementById that I had presumed there wasn’t a class equivalent .  Thanks for that  # shelteredbyjquery
+3	Oh the joys of hacking extra fields into wordpress .   # sarcasm
+3	 @ toddmotto  .   .   .  Oh  .   .   .  My  .   .   .  God .  Well if anything you’ve cut my use of frameworks down to a minimum just with that . 
+3	 @ toddmotto I think most people just want class selectors .  Unless I’m thick it isn’t something easily achievable without a selector engine ? 
+3	 @ toddmotto In my defence I try to use some of the smaller libraries where jQuery is simply over - kill .  It’s something I want to improve
+3	 @ toddmotto Personally I find vanilla javascript a bit of a minefield .  There are lots of small differences between browsers .  I do agree tho
+3	That’s right !  You can’t take my parking space today !  Because I came in bloody early to stop you !  Now do one . 
+3	 @ fabpot  @ github yep  :  ( 
+3	Today was a big day… I discovered  ` git stash `  .  Thank you lord ! 
+3	It may be old but I always find  @ codinghorror’s visual join explanation helpful .  
+3	What version of PHP was  ` final `  introduced into ? 
+3	 @ neiltak Ohhh yeah !  Oh wow bookmarking .  That’s awesome thanks ! 
+3	 @ neiltak I’m a little thick so can I ask what it is intended for ?  Email attachments or something else ?  Just a proof of concept is also fine
+3	 @ sazzy haha priceless
+3	Looking forward to just laying down and listening to a podcast or two . 

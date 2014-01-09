@@ -1,0 +1,179 @@
+3	‘The website “The New York Times” would like to send you push notifications in Notification Center . ’ Erm…
+3	Needed to batch process a db export  -  fired up a Clojure REPL ,  one quick map later and the job’s done . 
+3	Gah Inkscape / X11 / Mavericks dual display nightmare  :  ( 
+3	 @ rachaelgrocott eek what’s up mate ? 
+3	When I politely declined a leaflet from a Safeway policeman ,  I received in a sarcastic tone ‘well then I hope you don’t get run over’ . 
+3	 @ ryanhyslop I received a glitter - covered Christmas card .  Never open Christmas cards in bed . 
+3	 @ LearnOnDactic Thanks for organising and thanks  @ jarohen for the help ! 
+3	Deployment Friday 13th . 
+3	 @ uv _ d Sterling work !  Please update your header logo with an SVG for my poor retina display  :  ) 
+3	Finding the new  @ bitbucket ‘compare’ view a bit unintuitive .  Maybe I was too used to the previous layout . 
+3	Fun API munging at the Clojure Dojo last night .  Looking forward to taking some of the ideas further . 
+3	Pleased  @ bitbucket is now greying out merge commits that would otherwise be FF…
+3	Looking forward to my first Clojure Dojo tonight .  Not sure what to expect ,  but sounds fun…
+3	My goodness ,  look at the size of those Rivington Street disco balls . 
+3	 @ jarohen  @ henrygarner Sad to miss the final Clojure School .  Enjoyed this week’s homework .  Hopefully there’ll be more in the near future ! 
+3	 @ roddymusic Happy birthday ! 
+3	Super session of core . async’s semantically - sequential yet secretly - asynchronous CSP at Clojure School .  Cheers  @ henrygarner  @ jarohen
+3	Infuriating comments from Boris .  Too much inertia .  We need a mayor that will take some action . 
+3	Hmm ,  Symfony 2 . 3 . 6  -  & gt ;  2 . 3 . 7 upgrade broke our Memcached sessions . 
+3	Can’t wait for the Likely . co Clojure School week 2 tonight .  Been getting my Clojure (  / script )  on over the weekend . 
+3	Talking about cyclists wearing headphones is massively distracting from the real debate .  Stop it . 
+3	 @ KirstenMinshall 
+3	Interesting 2011 talk on software simplicity by Rich Hickey 
+3	 @ alexlongshaw We just store the parent ID in the db ,  and map an array of ancestor IDs in search index for quick descendant lookup . 
+3	 @ alexlongshaw run away from nested sets at all costs ! 
+3	I want a calendar view for the week ,  where I don’t have to scroll up and down to see the whole day .  Is that possible with GCal ? 
+3	Got asked if I had a motor in my  @ WorkCycles Fr8  # pistonspumping
+3	Finally found out the proper term for Clojure’s hyphen - separated naming convention  # kebabcase
+3	 @ csswizardry Could you just do this with bookmark folders and cmd - clicking the folder in the bookmark bar ? 
+3	YouTube vs Firefox ,  what the hell is going on . 
+3	 @ rachaelgrocott  @ RobExplores Forget floundering on the fulcrum of fatigue and frustration .  It’s Fish Finger Friday ! 
+3	I think we’re sliding towards a Fish Finger Friday feast here at  # GRLDN .  It’s got the alliterative credentials ,  but will it last ? 
+3	Swapping out Varnish backends for zero - propagation - delay site launches .  So useful .   # bigbackend
+3	Good fun at the Clojure lesson last night .  Basic file IO ,  introduction to refs / atoms ,  and a basic web app with Compojure / Ring / Hiccup . 
+3	It’s Friday ,  so it’s  @ pipandnut coconut almond butter for breakfast .  So good .  
+3	Very interesting introduction to Clojure last night by  @ rosejn .  Thanks to  @ himerzi for organising .  Looking forward to the next one ! 
+3	Caught out again by my OS X file system case insensitivity . 
+3	First Direct still don’t understand how to make usable forms .  Seemingly random mix of tab order ,  autofocus and return - key behaviours . 
+3	Very serious bus driver road rage against us as we cycled home .  I am sick and tired of being bullied . 
+3	Just seen a new MeetUp for learning functional programming .  Would go nicely with my trying to learn Clojure and  @ overtone
+3	 @ domudall  @ coadstream Holy moly ! 
+3	Stage THIS ,  hunk . 
+3	Just been pointed in the direction of  @ prismicio  -  Very interesting approach to the headache of content management .  Ta  @ renemorency
+3	Going to my first  @ DorkbotLondon tomorrow .  Quite exciting . 
+3	Still learning the basics of  @ overtone ,  now with my new friend Tmuxinator starting scsynth ,  lein repl and vim in one command . 
+3	Just worked through this nice intro video to  @ overtone :  
+3	 @ rachaelgrocott Hardcore
+3	Top notch Friday night ,  bit of a headache now eh  @  _ giblet  @ rachaelgrocott  @ jameslutley and  @ EddLane
+3	Finally found a use for xip . io ,  great little service . 
+3	delete from wp _ comments where comment _ approved  =  0 . No errors ;  561569 rows affected . 
+3	 @ rachaelgrocott Oh god !  Run ? 
+3	 @ alexlongshaw  @ rachaelgrocott I NEED . 
+3	 @ rachaelgrocott Toast alarm !  Might be needing it after all…
+3	There you go  @ Experian ,  have another £15 just for making it difficult for me to unsubscribe .  Nice tactics . 
+3	 @ designbyjake This sort of thing :  
+3	 @ designbyjake It’s trying to let you write css rules based on the width of the element / container ,  rather than the viewport…
+3	Evening spent with Mocha + Chai + Sinon and the Bending of Time . 
+3	 @ domudall Still just skimming the surface but it’s got me excited that’s for sure… Did you get very far with it ? 
+3	Morning spent wrestling our chef server ,  now whetting appetite with  @ docker tutorials . 
+3	 @ rachaelgrocott Good work Groco
+3	Current status :  
+3	 @ rachaelgrocott  @ McWhirterRob I’m pretty much planning my week around it now . 
+3	Starting the day with a Riders on the Storm dubstep remix . 
+3	Thanks  @ EE for not telling me that inserting my 4G sim would change my billing date and charge me twice this month .  Maybe worth a mention ? 
+3	Gentlemen ,  start your toasters  / cc  @ rachaelgrocott
+3	I need a holiday . 
+3	 @ rachaelgrocott Have a great time !  Send us a postcard…
+3	Music ,  check .  Fairy lights ,  check .  Ginger wine ,  check .  See you in Brighton !  
+3	Crikey ,  had to fight for  @ FrontEndLondon tickets this month ! 
+3	Cycled to Canterbury for 9am .  Oops .  
+3	 @ KirstenMinshall Seem to have forgotten the spokey - dokeys…
+3	Would love a way to dismiss  @ bitbucket notification bars . 
+3	 .  @ SiliconThrow sounds like it could be fun ,  eh  @ browserlondon  @ uv _ d ? 
+3	 @ laurenredhead Awesome work ! 
+3	 @ rachaelgrocott We’re gonna need a bigger toaster . 
+3	Some awesome automated screenshot - diffing going on at  @ FrontEndLondon .  Very interesting . 
+3	 @ rob _ squires A pleasure !  Would like to see what you came up with . 
+3	Heading to my second  @ FrontEndLondon tonight with some of the  @ browserlondon chaps .  Can’t wait ,  last time was ace . 
+3	 @ alexlongshaw Wrong
+3	Mandrill webhook is failing .  Delete hook from Mandrill control panel .  Re - add identical hook .  Mandrill webhook is working .  Doh . 
+3	All go for this year’s Brighton night ride ,  can’t wait to take my Dutch tank to the seaside 
+3	 @ adamfergler Ahaha is that Sheffield ? 
+3	Just emerged from MySQL collation conflict hell .  Ahh legacy non - UTF8 projects…
+3	Revamping our Git workflow here and wishing I could fast - forward  @ bitbucket pull request merges . 
+3	Contemplating stand - up desks…
+3	Seem to spend half my day waiting for libraries or analytics to load from Google . 
+3	Oh my god why did I try to deploy at 6pm on a Friday… again ! 
+3	Make sure you have  \ DateTime type hinting on your setters when using Nelmio \ Alice for setting dates ! 
+3	Tears for Fears mega mix all day today ,  followed by Donnie Darko with a glass of rioja .  Classic . 
+3	Ooh ,  really looking forward to giving this Pivotal Tracker CLI tool a go 
+3	 @  _ md Thanks ,  didnt know about phpspec2 - expect .  I did mean testing the contexts themselves but it was semi - tongue - in - cheek  :  ) 
+3	My first super - novice usage of Alice for fixtures in a  # behat context ,  with bonus purging 
+3	Should I be writing phpspec tests for my Behat Contexts ? 
+3	Took some baby steps towards setting a strict page weight budget for our latest project at work today . 
+3	So both  @ jameslutley and  @ rob _ squires are at the Dvorak now .  Not many left to convert  * sideways glance at  @ alexlongshaw and  @ twit _ thompson  * 
+3	 @ maximmcnair Hey good to meet you last week ,  how did you get on at the weekend ?  Any Meteor action ? 
+3	 @ Peterjmit Cheers !  I’ve not had luck with  : vendors _ mode ,  but just realised that  `  : update _ vendors ,  false `  is what I’m after  :  ) 
+3	How can I stop Capifony running  ` composer update `  instead of  ` composer install `  ,  seems odd default behaviour ? 
+3	Good old Varnish ‘set req . http . X - Forwarded - Port’ combined with Symfony’s ‘trust _ proxy _ headers’ fixes my port - in - the - redirect issue .  Super . 
+3	 @ CSwain1991 Yeah theyre often useless by themselves ,  but good starting points for making a site responsive because theyre quick and lean . 
+3	Same problem as getting m .  mobile versions of sites on here .  Stretched but tiny .  Needs to be actually responsive .  Easy ! 
+3	Fluid Android apps that stretch but arent optimised for my particular tablet feel really shoddy .  .  . 
+3	 @ rob _ squires Tidy work sir . 
+3	Pretty darn excited about these big cycling budget announcements .  Watch the house prices soar in these mini - Hollands . 
+3	 @ dbushell NERD
+3	Off to  @ phplondon later with young  @ alexlongshaw for some deployment goodness . 
+3	 @ stevenjack85 Just trying to play around with Octopress etc for a site / blog .  Really shouldnt have cause me that much grief ! 
+3	Only bloody rvm install 1 . 9 . 3 - p392  -  - with - openssl - dir =  ` brew  -  - prefix openssl `  to the rescue . 
+3	Can Octopress defeat me twice in two evenings ? 
+3	 @ laurenredhead Hah just some geekery and poor musical choices ,  nothing new . 
+3	Super impressed with Google Play too ,  finally I can stream Surrender to the Blender at work ! 
+3	Picked myself up a Nexus 7 as a result of the Responsive Day Out .  Eye - opening for page weight / performance testing . 
+3	Our current favourite story tool  @ pivotaltracker is getting a new design ,  backbone . js build ,  and json api .  Sounds good . 
+3	 @ hackneyliving Cheers ! 
+3	Hello  @ hackneyliving ,  please could you grit / salt Pitfield St cycle lane tomorrow if possible ?  Thank you ! 
+3	Couldn’t be more relaxed .  Post - snowboard - lesson beers .  Cheers ! 
+3	Hemel Hempstead  @ the _ snowcentre here I come ! 
+3	 @ dbushell Poor Dave ,  I’ll spare you a thought from the piste ! 
+3	 @ Chrissie _ c Thanks for the heads up ,  hadn’t spotted that . 
+3	RIP GamesMaster . 
+3	 @ Daylight _ Music That was seriously fast ,  thank you  :  ) 
+3	 @ Daylight _ Music Hey do you have any cakes left ?  If so ,  could I order a delivery to 4th row from back ,  right hand aisle  :  ) 
+3	 @ Natalie _ Rauh Hey Nat it’s at the Union Chapel near Highbury  & amp ;  Islington tube ,  it’s called Daylight Music
+3	Ah got the old Tony Hawk playlist out again ,  taking me right back to school 
+3	 @  _ giblet Ha ,  so I’ve had him ,  Wiggo ,  and Wolverine today .  Not a bad start . 
+3	 @ Daylight _ Music Some social media cake please  ( if you have any left )  !  Fourth row from the front ,  left - hand side  :  ) 
+3	First foray into social media cake  ( Cake2 . 0 ?  )  with  @ gaffafoote a resounding success .  Thanks  @ Daylight _ Music !  
+3	 @ CSwain1991 Heh will do  :  )  I think he reads it but doesn’t update it very often .  Will log in and have a look ! 
+3	Peak office bicycle capacity reached .  A good thing .  And clearly an excuse to buy a winter - proof  @ workcycles
+3	Somewhat sloppy carousel on the  # typescript home page .  I clearly don’t read quickly enough . 
+3	Chuckling at the LaTeX Memoir class’s  \ sloppybottom command . 
+3	 @ jackherbert Cheers ,  yeah just gave that a go ,  much quicker ,  and no Gary Numan ! 
+3	Really hope  @ o2 can help me today  :  (  Need a PAC ,  been sat on hold for hours over past few days .  Prepared for 8 hours on hold today . 
+3	‘Signed for by Consignee’ .  Now I just need to get down to Folkestone to pick it up ! 
+3	 @ dbushell Ha maybe I shouldn’t be drinking 
+3	What are you talking about ?  Of course my employee appraisal form needs its own Git repository . 
+3	 @ OrangeHelpers Cheers Steve .  Do you know of any way round this ,  e . g .  taking my passport etc .  into an Orange shop to authorise it ? 
+3	 @ OrangeHelpers Ok great thanks !  2nd Q :  Am I able to change my iPhone5 delivery address to my office  ( not card address )  ? 
+3	 @ OrangeHelpers Hello ,  I’ve pre - ordered a new iPhone with you ,  will I still be able to trade in my old one somehow ? 
+3	 @ Orangeuk Hello ,  I’ve pre - ordered a new iPhone with you ,  will I still be able to trade in my old one somehow ? 
+3	The O2 account - cancellation hotline doesn’t seem very well staffed this morning ! 
+3	 @ Orangeuk Will do ,  thanks .  Looking forward to seeing what you can offer me to win me  ( back )  from O2…
+3	Unable to register with GP because I don’t have proof of address .  Increasingly - common problem with ‘paperless’ statements . 
+3	To register interest in the iPhone5 with  @ Orangeuk you have to explicitly opt in to receiving marketing from them ! 
+3	 @ Natalie _ Rauh Sarkastischen Augenbrauen
+3	Good job I didn’t just announce that in public . 
+3	Disaster !  Plans to have an iPhone - announcement geek - in with beer at the office have been thwarted by cleaners .  Are they showing it on Sky ? 
+3	I’m now  ( slightly )  more inclined to keep the under - performing  @ virginmedia account at my current address .  See where proper service gets you ! 
+3	A call from  @ virginmedia I thought I’d never receive .  A polite ,  friendly rep calling off their hounds !  Account closed  :  )   / cc  @ laurenredhead
+3	 @ Natalie _ Rauh Ha 
+3	 @ Natalie _ Rauh Right ,  it’s going on again .  Pay attention  :  ) 
+3	 @ Natalie _ Rauh Yeah that’s not going to make any sense any more ,  ha ! 
+3	 @ Natalie _ Rauh Listen !  It’s in German  * and *  it’s HTML !  How exciting ! 
+3	Last time ,  the Red Arrows flew directly out of a television and over our heads .  Got a bit excited .  Definitely hadn’t been drinking . 
+3	 @ virginmedia I’d also be hugely grateful if you could chase up Social Media Enquiry No .  182673 .  Thank you . 
+3	 @ virginmedia This morning’s status unknown so far .  Bit upset I had to spend £s on coffee shop wifi all day yesterday to get work done . 
+3	Good morning !  Up early to carry on my coursework .  Except  @ virginmedia isn’t working . 
+3	Eight 
+3	Beautiful cycle down to E & amp ; C .  Time for a quick coffee before a day of bicycles at  # CAMSconf Not too shabby ! 
+3	 # GRLDN 
+3	After 27 years ,  I’ve only just discovered dishwashers can be opened while operating .  What kind of UX is that anyway ?   # steamy
+3	 @ laurenredhead What is Utrecht like ?  I’d quite like to go . 
+3	 @ laurenredhead Chess on boats is responsible for 70 %  of canal deaths in the Netherlands . 
+3	 @ laurenredhead No chess
+3	‘This wouldn’t have been a problem if they had used sub - window antialiasing . ’  :  )  
+3	 @ virginmedia They simply insist that the fee is valid ,  despite explicitly communicating otherwise before . 
+3	 @ virginmedia Your phone rep confirmed it was your mistake and apologised for it—which I am grateful for—but still demanded the fee . 
+3	 @ virginmedia I moved house 1 . 5 mths ago ,  and was told everything was paid off  ( actually £5 in credit )  .  Now debt collectors after another £30
+3	 .  @ virginmedia are trying to retrospectively  ( and very forcefully )  apply a charge I was explicitly told didn’t exist . 
+3	Absolutely astonished by  @ virginmedia ’s tactics .  I couldn’t be more offended by their customer service . 
+3	 @ daaain Yeah that’d be good ,  cheers ,  I’ve left a message on the forum . 
+3	 @ mugloch Cheers ! 
+3	 @ mugloch Ok nice one ,  I’ll add it to the list ;  always after  ( not tooooo heavy )  suggestions ! 
+3	It may be a legitimate call ,  but if you phone and ask my address before you even mention your company ,  you won’t get an answer ! 
+3	 @ mugloch I can’t tell if this is a serious suggestion or just alphabet - based humour !  Or both  :  ) 
+3	Finally finished Foucault’s Pendulum ! 
+3	 @ daaain Hi ,  thought I’d say a quick hello as another London - based web person signed up to the Coursera Sustainability course . 
+3	Sitting in the Covent Garden Apple store ,  trying to kill my misbehaving iMac .  Will !  Not !  Replicate ! 
+3	Typekit’s trying its best to make me fall for Jubilat all over again . 

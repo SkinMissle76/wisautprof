@@ -1,0 +1,167 @@
+-1	 @ flowchainsensei the problem with silver bullets is that there are  * no *  werewolves
+-1	announcing early jan  # clojure  # dojo  @ uSwitchEng 
+-1	finished Mockingjay  ( Hunger Games Trilogy )  by Suzanne Collins and gave it 3 stars 
+-1	 @ JulianBirch  @ swannodette  @ tgkristensen it does seem a little a little redundant to package the js into a clojar
+-1	 @ swannodette  @ tgkristensen sorry yes .  I can now see it with tar  - tf  ~  /  . m2 / repository / com / facebook / react / 0 . 8 . 0 . 1react - 0 . 8 . 0 . 1 . jar thx 4 help
+-1	 @ swannodette  @ tgkristensen ok its coming together for me  ( face palm )  its within the OM jar 
+-1	 @ swannodette hi .  Do you know much about the clojurescript extern  " react / externs / react . js "  used in the OM todomvc demo ? 
+-1	 @ tgkristensen I kid you not  :  )  the cljsbuild is fetching it from somewhere .  I thought it was here 
+-1	 @ r4vi Ahh thx .  .   I have found the common contrib repo  :  )  the cljsbuild must check this 
+-1	 @ tgkristensen Is there a central clojurescript externs repo somewhere I dont know about ? 
+-1	 @ tgkristensen somewhere on the internet there is something that points  : externs react / react . min . js .  .  to the latest facebook minified reactjs
+-1	 @ tgkristensen thx .  whats puzzling is I dont include react anywhere in project .  except the extern .  yet compiler downloads latest version
+-1	Anyone know any good explanations of clojurescript externs ?  where do they come from ?  eg  : externs  [  " react / externs / react . js "  ]   ?  ? 
+-1	I liked a  @ YouTube video 
+-1	 " Six reasons why I recommend scikit - learn "  
+-1	Anyone else see  # HSBC are removing  # encryption clauses from their t & amp ; cs in UK ?  Wonder if this is in response to  # NSA drama ? 
+-1	 " HTML5 "  
+-1	 " The 8 biggest responsive web design problems  ( and how to avoid them )  "  
+-1	 " The Log :  What every software engineer should know about real - time datas unifying abstraction "  
+-1	 " A slice of React ,  Clojurescript and Om "  
+-1	 " Why a startup just published all of its employees’ salaries for the world to see "  
+-1	really excellent post from  @ swannodette on React  +  Om 
+-1	 @ nrcantor tho gold bullion sounds interesting .  .  . 
+-1	 @ nrcantor by progressive I mean thinking outside the box of standard annual review / rating = pay . I think you know where Im coming from anyway
+-1	 @ nrcantor exploring the solution space for progressive renumeration policy .  .  any links welcome
+-1	 @ flowchainsensei  @ drunkcod thanks for the input .  .  Ill try and create a blog post on what we find out
+-1	 @ flowchainsensei  @ drunkcod yes you are preaching to the choir .   Finding an implementation within a largish organisation is the hard part  :  ) 
+-1	 @ flowchainsensei great thanks .  .  Let me take a read and get back
+-1	 @ drunkcod thx .  Do you know if this has been implemented anywhere ?   / cc  @ flowchainsensei
+-1	 @ flowchainsensei Guess I am looking for some concrete implementations  ( such as Valve ) 
+-1	 @ flowchainsensei yes read that .   ( sorry I appreciate you dont know where I am starting from  :  )  also familiar with things like valve handbook
+-1	 @ flowchainsensei hi Bob .  .  wondering if you have any interesting links / articles / thoughts around renumeration / salary / performance  ? 
+-1	Heading to OXO Tower for Xmas team lunch  # lovemyjob  # fb
+-1	 @ JulianBirch lol
+-1	 @ zkhan I replied to a twitter text message .  .  MeFail
+-1	 @ christianralph mental note .  .  Twitter direct messages sometimes fail and go public
+-1	Sounds good but we have our team Xmas dinner tomorrow night .  .  Thanks for the invite though  :  )  how did your thanks giving go ? 
+-1	Property developer Nick Candy concerned that a glut of 200 new apartments in Mayfair will harm the high end £20M +  market  # twat  # fb
+-1	 @ NHMskating is there a hard cut off time for entry to sessions if you are running late ? 
+-1	2 unexplained  " bus terminates here "  in a single journey .  thanks  @ TfLOfficial thats a new record for me
+-1	 @ carinmeier  @ samaaron gives  " do the robot "  a whole new level of awesome .  well done both .  my highlight of the year  # clojurex
+-1	3rd bus this week that has randomly terminated in middle of nowhere no explanation .  WTF !  ?  !   @ TfLOfficial  @ TfLBusAlerts
+-1	AR drone interpretive dance to overtone beats  # geekingout  # clojurex 
+-1	 @ samaaron introducing us to Hickeystep or maybe dubrich  ?   # clojurex
+-1	nice anology of live coding to pairing with a non technical business person for immediate turn around of value  @ samaaron  # clojurex
+-1	great talk by  @ malcolmsparks  @ yoditstanton on reactive programming in clojure  # clojurex
+-1	tasty nosh at  # clojurex thank you ! 
+-1	if you are going to build your DSL with macros  ( not fns )  ,  ensure your cookbook is complete .  talking on riemann  @ rrees .   # clojurex
+-1	Mondays dojo signup page is here 
+-1	 # bitchingandjunkfood  @ bitchinjunkfood box park store launch going off .  London is owned  # fb
+-1	 @ otfrom  @ bodil  @ RobAshton one time deal unforch  ; P
+-1	Achievement Unlocked :  Python 
+-1	Im always up for curry .  I can look into it  :  )    @ otfrom  @ bodil  @ RobAshton
+-1	 @ zkhan tell me about it .  .  was trying to recreate the ozone dancing on the ceiling vibe  :  ) 
+-1	I mean if you are going to enforce copyright .  .  at least have the song for sale somewhere right ?  What am I left to do ?   # illegaldownload  # fb
+-1	need a song from film Breakin2 .  You cant buy it anywhere !  clips have been taken down from youtube due to copyright !   # copyright  # fail  # fb
+-1	presumably no trains at canonbury ,  indicated by some yellow tape ?  Didnt think to use the large electronic display to say such ?   @ TfLOfficial
+-1	 @ JulianBirch Ill read it anyway .  .  just for closure
+-1	finished Catching Fire by Suzanne Collins and gave it 3 stars 
+-1	My new catch phrase  " some people call it dangerous thinking .  .  I call it disruptive / innovative thinking "   # boom
+-1	 @ googledevs when I search for a contact eg :  Paul in my gmail chat list ,  I dont want to see every Paul in the known universe .  just my org ! 
+-1	 .  @ MayorOfLondon  -  2 deaths on CS2 in 2 weeks .  We need  # space4cycling NOW to  # saveourcyclists .  What immediate actions are you taking on CS2 ? 
+-1	Get Boris to improve London cycle paths !  !  !  
+-1	 @ schlutes yeah it does feel pretty good  :  ) 
+-1	I just switched to Good Energy ,  a 100 %  renewable energy provider  :  )   # zerocarbon here I come !  
+-1	bishopsgate is the worst road in the UK  # fact  # fb
+-1	 @ BritishGas  " sorry our website is unavailable at the moment ,  but we’re working really hard to get this back for you .  .  "  That was yesterday ?  !  ? 
+-1	 @ BritishGas dont mean to bang on about this but .  .  your contact us page is down as well .  .  and your SEO in Google has no numbers listed  # fail
+-1	 @ BritishGas In fact your website is down  ( again )  .  .  it is impossible to login or change password or anything remotely account related
+-1	 @ BritishGas you web site is SO slow ?  2 - 3 minutes to login ?  Would you like a consult on your web development ? 
+-1	Im switching my energy provider to 
+-1	 @ markhneedham it was more like a crash tackle  / cc  @ ryangreenhall
+-1	 @ lloydpick goes to show there is an art form to making a good burrito .  .  mmmmm burrito
+-1	I liked a  @ YouTube video 
+-1	define Imperialism :  imagine seeing this headline within US or UK .   " 11 bomb explosions across US / UK leave 49 dead 
+-1	 @ thattommyhall Slime Mould recreates Tokyo Rail system 
+-1	 @ ryangreenhall are those cowboys in that photo ?   / cc  @ michael _ jones  @ uSwitchEng  @ pingles
+-1	 @ pingles your very welcome
+-1	 @ NeilRobbins tough play .  .  northern soul is quality shit .  maybe you needed more bass  ;  ) 
+-1	you think RAM records is good .  .  check out my dnb  # takeover next Thursday night  # fb
+-1	proposing a 2nd room dnb take over ,  at our party next week  # fb
+-1	R . I . P .  Microsoft ?  
+-1	Google  " do no evil "  in action 
+-1	congrats to  @ ryangreenhall  @ lucagrulla for completing the marathon !  !  Hope youre drinking the aches and pains away today
+-1	 @ markhneedham in a world filled with reactive based business decisions .  .   ( complete sentence ) 
+-1	 @ BadAstronomer  @ dgflood much better than Australia .  .  who in the height of their mineral wealth drop science from the cabinet completely
+-1	 @ alexia _ g88 Camden Road delays are crazy .  hope we get re - imbersment from oyster  / cc  @ LDNOverground
+-1	 # Britishgas are hoping if they lock me out for long enough I wont switch .  cheap shot  # pricerise 
+-1	the London Clojurian  # euroclojure orphans will be thinking of everyone having a great time in Berlin  # ldnclj
+-1	BBC bosses  ( the ones that earn the big bucks )  launch revolutionary new service .  .  its called  + 1 tele  # sarcasm
+-1	 " being an artist is standing in the middle of Wembley stadium with no clothes on and hoping no one laughs "  Jazzy Jeff  # fb
+-1	 " guilt free retail therapy for charity "  srsly ?  am I going mad ? 
+-1	check out hashtag  # AddaWordRuinaMovie its hilarious
+-1	 @ JenniferSmithCo have you seen this 
+-1	 @ JenniferSmithCo its policy for the 1950s !  but dont worry Australia is in the dark ages  ( science has been dropped from the cabinet ) 
+-1	 "  @ londoncyclist :  This underground bicycle parking in Japan is unbelievable  -  we can dream right ?  
+-1	 @ deobald crap sorry dude .  .  I dont know how to stop what ever it is spamming out  :  / 
+-1	 @ zkhan your a coffee lover ,  check this out .  premium single origin coffee delivered for 95p 
+-1	 @ JenniferSmithCo well weve been here almost 8yrs .  left with 1 large suitcase and pre sent a couple of boxes of additional clothes
+-1	finished Long Walk To Freedom  ( Abacus 40th Anniversary )  by Nelson Mandela and gave it 5 stars 
+-1	 @ JenniferSmithCo  @ markhneedham  @ javame totally awesome product !  thx goes to Toni  :  ) 
+-1	 "  @ HarvardBiz :  This startup has consultants running scared 
+-1	should meritocracy be demonised over capitalism ?  would life continue without the carrot of excessive wealth and climbing the ladder ? 
+-1	 @ KushalP thx for tip found this .  lets see how this goes 
+-1	integration with  # xbmc API in 4 lines  & lt ; 3  # clojure
+-1	upgrading from Twitter bootstrap 2 . 3 to 3 . 0 is messy  :  / 
+-1	 @ supersheep sorry bout your bag .  .  did you get it on ?   :  ) 
+-1	 @ supersheep I got your jacket and glasses
+-1	if you are a media company and dont have a mobile version of your site .  Im sorry to break this ,  but you are dead in the water ! 
+-1	 @ simonuid havent tried no .  .  but pessimist in me says it would have zero impact .  thats way too easy
+-1	 @ emmasax there should honestly be some kind of junkmail tax  ( like carbon tax )  .  We have a similar amount in hackney  :  ( 
+-1	 " The ultra rich band together to shape policy to their own agenda "  CONSPIRACY THEORY NUT ALERT !  !  oh wait .  .  .  
+-1	yeah I know .  .  definitely will be able to drop by
+-1	Help make it happen for Mailpile  -  taking e - mail back 
+-1	Ill be using 
+-1	 @ lloydpick you right ,  those were amazing  :  ) 
+-1	 " By monitoring secure web + email  & amp ;  phone messages we will catch more political ,  banking and finance crime "  Said no one in  # NSA ever !   # joke
+-1	anyone know an economist ?  I have a question about Fractional Reserve Banking ?  where does the money come from to pay the interest ?   # fb
+-1	 @ bananhan they will usually just hang up as soon as you say TPS  :  ) 
+-1	 @ bananhan 
+-1	 @ simonuid Charles always loved that damn radio
+-1	 @ bananhan get your number added to the TPS no call list .  that will reduce number immediately .  for the remainder take down details and report
+-1	 @ markhneedham what about butterfly effect ? 
+-1	 @ jamestplunkett out of interest is the data ,  that you produced your chart from ,  publicly available ? 
+-1	 @ pingles crazy idea
+-1	hands in the air if you think  " HR "  exists for the needs of the workers
+-1	 "  @ jamestplunkett :  Median pay is .  .  £3 , 300 lower than in 2005 - 06 .  Chart :  
+-1	 @ AlexSteffen  @ otfrom is corruption a feature or a bug in the operating system ? 
+-1	 @ robmiles0  " may not be fit for purpose "  .  .  you can bet your bottom dollar its not .  £100M on software ?  theres nowt good from that
+-1	 @ DrewMacqu time to get your money out !    " Co - op Bank loan value deficit £3 . 6bn  
+-1	Toyota donate kaizen to charity 
+-1	 @ supersheep  @ simonuid hahaha this vine shit is dangerous .  great night !  thanks
+-1	 @ thattommyhall I guess acceptance is the final step of grief counselling .  . 
+-1	 @ thattommyhall sarcasm ? 
+-1	 @ lloydpick  @ simonuid  @ supersheep  @ jjmullz watching the aftermath today is going to be worse than the hangover  :  ) 
+-1	tonights leaving do brought to you by  # minirigs 
+-1	 @ thattommyhall its a good look !   / cc .   @ bodil  @ aeden
+-1	Help make it happen for Mailpile  -  taking e - mail back 
+-1	 @ marcjohnson Ive begun to balance my management / technical / science lit ,  with biography and fiction .  .  feel much better for it ! 
+-1	 @ marcjohnson great book .  .  well worth the read ! 
+-1	A long walk to Freedom :  Nelson Mandela 
+-1	 @ marcjohnson check out dell developer edition with Ubuntu  @ olabini  @ tastapod
+-1	back off man .  Im a scientist ! 
+-1	clojure V ruby unanswered !   /  @ aglfarquhar
+-1	 @ StuartGreenhall nothing is simple !   / cc  @ JenniferSmithCo
+-1	OK people of the UK who I know AND love drum  & amp ;  bass .  .  and would like to go to the hospitality records night in September .  get in touch !   # FB
+-1	I think its B *  *  *  *  *  * s that Hamish Ogston only gets a fine and no prison time .  Bankers have to start doing time for their crimes ! 
+-1	anyone feel like dog sitting Pepper our female staffy this Sunday .  full day and night ?   # fb
+-1	NEWS :   " Britains top 5 banks enjoyed combined profits of over £16 . 5 billion ,  tho slightly marred by the fact "   .  .  . they are utter criminals !  ! 
+-1	 @ jjmullz our minirigs have mated  @ Minirigs
+-1	 # clojure for comprehensions are awesome .  that is all ! 
+-1	 @ jjmullz  @ DrewMacqu Ive created an event map of Hackney Wicked 2013 :  
+-1	 # givemondays on the east London overground 
+-1	light cycle battle .  .  winner yellow !   # ldnclj  @ forwardtek 
+-1	tron light cycles in action  @ forwardtek  # ldnclj who will win ?  
+-1	hope someone finds this  # givemondays 
+-1	I wonder if 500yrs from now well look back on current economic and monetary theory like  " the earth is flat " 
+-1	Rob Symes is a fool .   # sadface  "  @ GuardianData :  Is the recruitment industry set for a big data revolution ?  
+-1	Stephen Frys open letter to  @ David _ Cameron  / cc  @ Number10gov  @ sebcoe  @ Olympics 
+-1	The water companies and the foul stench of exploitation 
+-1	finished The Hunger Games  ( Hunger Games Trilogy )  by Suzanne Collins and gave it 4 stars  # fb 
+-1	 @ GoogleMusic increase your popularity 10 fold by letting me share from my phone to other channels besides G +  eg :  twitter / Facebook  # freetip
+-1	happy 2nd  # forwardversary to me  # moetOclock  # FB 
+-1	I just became Tile backer 68928 .  Become a backer as well by getting yours at 
+-1	 @ mfeathers Absolutely !  !  Roasted pumpkin with rosemary  +  feta .   # BestPizzaEver
+-1	White collar crime back in full effect  / RT US stocks close at record highs ,  S & amp ; P 500 above 1 , 700 for first time 
+-1	 # WLTM guru DevOps / SysAdmin to work with us  @ Forward3D small agile team ,  Continuous Delivery , CI , Puppet ,  AWS EC2 , Route 53 , VPC , Redshift  +  perks

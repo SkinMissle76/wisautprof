@@ -1,0 +1,166 @@
+3	 @ TimeOutNewYork  tell the timeout boston engineers to kick their back end servers ,  solr is down and i have no idea where to go this evening . 
+3	 @ oholiab  @ skolima  @ samcrang thats what she said . 
+3	 @ oholiab  @ skolima  @ samcrang oh Im rocking the true mans layout boys .  US all the way .  .  .  dvorak at the touch of a button .  .  . 
+3	Job opportunity :  Linux System Administrator  /  Web Operati at 7digital  -  London ,  United Kingdom  # jobs 
+3	Send tagged posts from pocket to kindle via instapaper 
+3	thinking in objects at  # SoCraTesUK  !  
+3	more architecture at  # SoCraTesUK  !  !  
+3	functional 101 here at  # SoCraTesUK 
+3	any runners for tomorrow morning ?   # socratesuk
+3	Architecture kata at  # SoCraTesUK 
+3	cant wait for the morning run here at  # socratesuk
+3	 @ Podgeypoos79 1 .  stop working youre on holiday !  !  !  2 .  if you want more context ,  read the linked question as my tweet was a bit ambiguous . 
+3	Anyone know the implications of in - lining a Stored Procedure and wrapping it in an sp _ ExecuteSql statement ?  
+3	 # heroku FTW !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  ! 
+3	 @ ntcoding I hate you . 
+3	 @ ntcoding thanks  -  shame the same cant be said about my feed !   :  ) 
+3	 @ yreynhout  @ hhariri  @ ackenpacken I do  -  watch out all of you .  .  . 
+3	7Digital are hiring ,  check the jobs board at  # mongodbdays RT  @ MichelleFlynn
+3	Woooo looking forward to  # mongodbdays today !  ! 
+3	MEASURE EVERYTHING !  !  !  ! 
+3	Im going to  # mongodbdays London !  Join me ,   @ eliothorowitz  @ nokia  @ tefdigital  @ SQUARE _ ENIX _ EU  @ YouWinCom 
+3	Job opportunity :  Developer who wants to work with TDD  & amp ;  A at 7digital  -  United Kingdom  # jobs 
+3	Job opportunity :  Senior Developer who cares about softwar at 7digital  -  United Kingdom  # jobs 
+3	 @ spolsky room for 1 more at the stackexchange open house tonight ?  the RSVP list is closed  :  ( 
+3	Pure knowledge :  
+3	been a while :  
+3	Love this comment I just found in the  # structuremap source :   /  /  TODO :  HACK ATTACK !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  ! 
+3	ive no idea what twitter is but i definitely want to win it .  please follow me
+3	Relearning Big O notation is both fun and sexy .  
+3	awesome post on being a mature engineer 
+3	I just donated to  # Wikipedia .  Help keep it free !    # keepitfree 
+3	Any MongoDb people out there ? 
+3	 @ m _ j _ o _ n _ e _ s Got it !   Sorry  -  never read those ! 
+3	 @ m _ j _ o _ n _ e _ s  no .  .  .  what was it ? 
+3	The Elasticsearch MongoDB river plugin ROCKS !  
+3	 @ steve _ fenton Yeah !  Im fully embracing it  -  I have a sign on my monitor and desk at home .  Did you find any of it useful ? 
+3	Always consider the context ! 
+3	I love  @ google ,  it taught me everything I know . 
+3	awesome extensions to fiddler :  
+3	note to self :  understand everything . 
+3	Pretty excited about my first day at 7Digital tomorrow ! 
+3	Anyone remember Paul Danan ?  ?   Someone please prank call him :  
+3	AWESOME servicestack hello world running on debian ,  mono ,  nginx ,  fastcgi stack !  Only took 4 days  : s
+3	Had a retina MBP for about 3 months now ,  only just whacked the resolution up… good lord ! 
+3	Just got my first RSpec test passing  :  ) 
+3	Its 2012 ,  Ive been alive for nearly 29 years and Ive only just realised how youre supposed to open bananas .  Cheers  # monkies ,  youre ace . 
+3	Hahahahahahahahaha ,  jokes .  
+3	Only read the first couple of paragraphs and its already highlighted exactly why Im looking for new work :  
+3	Bah !  I forgot it was a dress down friday !  No matter ,  in an office full of accounts Im sure Ill still blend in . 
+3	 @ steve _ fenton yeah I can see why  -  is VS2012 that good ?  I had the Beta but been back on 2010 since . 
+3	I love introducing people to NCrunch !  Everyone has the same reaction !  Cant imagine coding without it .  Sad its going commercial . 
+3	If Ive done a git commit and then made some changes to a file and now I want to rollback to the commit ,  what command do I use ?   # git
+3	 @ bishboria I just want to get coverage to give me confidence to refactor .  As I refactor Ill introduce more tests - that part will take longer
+3	 @ bishboria About 1 more day !  Im at the point now where I can start testing .  Just need to get it comfortably covered before I refactor . 
+3	My first target :  a class named BookingLogic  -  1500 lines of untested code !  !  awesome .   # loverefactoring
+3	WIN !  Just been asked to spend the next couple of days bringing some God - methods under test !   # loverefactoring
+3	 @ steve _ fenton There was a fire somewhere in Peckham .  About a minute after I took that photo the smoke disappeared .   Amazing . 
+3	View of fire in south London from my window  # londonfire 
+3	what is up with that plume of black smoke over london ?  ?  ?  ?  ?   # fire
+3	 @ bishboria or get a Kindle !   ;  ) 
+3	Im new to Macs  -  is there a good equivalent to Fiddler for viewing HTTP request  /  response messages ? 
+3	 @ sleepyfox cheers !  still finding my way around on it ,  also have to revert to Windows to practice katas  ( until I get VM running )  !  love it tho
+3	Roy Osherove et al reviewing the unit tests of the Unity IoC container project :  
+3	I bloody love C #  .  .  .  
+3	Just Downloaded the Free DNC Magazine for  . NET Developers by  @ DotNetCurry  # dncmag  # dotnet 
+3	Check out these videos of Roy Osherove practicing TDD and pairing here :  
+3	 @ sleepyfox  @ bishboria the site with some TDD screencasts I was talking about is here :  
+3	Latest Firefox looks awful on the retina display !  ! 
+3	 " My other computer is a data center "   love it ! 
+3	Check out  "  # TechMeetups presents  # TechStartupJobs Fair "  
+3	 @ pebblecode hey guys ,  ever think of creating a browser bookmark for tricklr similar to Instapapers read later button ? 
+3	Achievement Unlocked :  Lab 
+3	 @ virginmedia all lights on my router look normal and the admin page says connected but theres no service .  any ideas ? 
+3	Absolutely loving my new mac book pro retina .   Never thought Id say that ! 
+3	after 5 years of putting an i at the begining of an interface ive finally understood why it is a code smell !  !  thank you  @ sf105 !  ! 
+3	Ive had an  @ KindleUK for 2 hours and managed to break it .  .  . 
+3	Just discovered CollectionAssert !   Why Id never come across this class I have no idea !  !   # winning
+3	 @ surreycricket hoping for a bit of dry play tonight ! 
+3	Why does everyone think the new MacBook Pro retina is expensive ?  It costs less than the same spec MBP ! 
+3	 @ surreycricket  -  looking like a tidal waves coming !  !  we gonna see any cricket ? 
+3	30 minutes into the start of the week and Ive already been able to pass on some of the knowledge I gained at  # legacycoderetreat  # lscs
+3	Oh my god !   this site is AWESOME :  
+3	 @ calcrutchlow what an absolute legend . 
+3	Check out AIDE  -  Android Java IDE on Google Play !  
+3	Merging from an emergency patch branch ,  through another branch of development into main seems like chinese whispers sometimes .  .  . 
+3	 @ amazon  -  anyway to import a wish list from an account on the US site to an account on the UK site ? 
+3	 @ virginmedia  -  my up speed is around 10Mbits but the down speed is around 1Mbit .  .  .  even with traffic management thats ridiculous ! 
+3	yo ,   @ virginmedia Im a 100Mbit XXL user and I havent even got the bandwidth to download YOUR website this afternoon .  .  .  what gives ?  ? 
+3	 @ stack72 Im sure theres one in the app store  -  think someone spoke about it at DevWeek earlier in the year .  .  . 
+3	 # githubforwindows is EXACTLY what Ive been looking for !  !  !  Thank you  @ github !  !  !  !  !  !  !  !  !  !  !  !  !  !  !  ! 
+3	why would someone assign a system array to an IList and then call  . Add (  )  ?  ! 
+3	Blogged :  Performance Tuning VS Builds :  
+3	Brilliant  -  almost finished a nice big post on performance tuning builds and  # windows7 blue screened .  BLUE SCREENED ?  !  ? 
+3	 @ steve _ fenton just blogging it .  .  .  sadly Im finding out that hardware is making quite a difference too though .  .  . 
+3	OK Ive got our huge solution build time down from  & gt ; 1m to  & lt ; 25s .  .  .  how do I get it down to  & lt ; 10s without new hardware ?  !  !  ?  ! 
+3	 @ calcrutchlow if you let me hold your pit board at one race this year Im willing to give you my well - dressed goat , Sandra .   # gimmithatpitboard
+3	 @ wellbelove I cant even convince the business to buy us some  @ resharper licenses !  !  !  !  !  ! 
+3	 @ mbrit thats called  " pro - orgy - gramming "  . 
+3	 @ DavidArno definitely - although youre screwed if your business doesnt think so .  Ive put together 2 business cases so far - both shot down !  ! 
+3	 @ RickyLeeks _  Loved it  -  always interested in anything about the GC  ( the dark arts ?  !  )  and found your style of explanation very accessible . 
+3	 @ Apress what gives ?   Ive tried 15 times to finalize my purchase of Metro Revealed and nothing happens ! 
+3	Cheers  @ alisterscott for helping me get setup with specflow using VS express :  
+3	Im loving the fact that my iphone has emoticons for red  /  green refactoring
+3	Police Close Tottenham Court Road in Central London Due To Reported Hostage Incident  |  UK News  |  Sky News 
+3	HTML 5 indexed DB deep dive  -  good stuff :  
+3	Anyone know if  # Modernizr can detect the File API ? 
+3	Trying to do something fun with File API for an HTML 5 demo Im giving next week .  .  .   # filesystemsareboring
+3	Great article on using the new HTML 5 File API :  
+3	 @ richcampbell What team does he support ?    # backbone or  # knockout ? 
+3	Any idea why Razor isnt picking up my closing brace when I use a  & lt ;  symbol in a section ?  
+3	Great article on memory management gotchas :  
+3	Oh GOD ,  my intellisense !  !  where has it gone ?  ?  ?  ?  Its like missing all my limbs !  !  !  Oh there it is :  
+3	 @ CraigDavid Can I get a reeee tweeeet ?  !  
+3	Great article on knockoutjs vs silverlight  ( david vs goliath ?  )  :  
+3	Working with a 3rd party company who insist on hacking fixes in without telling anybody is RIDICULOUS .   # drivingmeinsane
+3	 @ m _ j _ o _ n _ e _ s  @ steve _ fenton write everything in F #  instead then ! 
+3	websockets websockets websockets websockets
+3	I wanna go to  @ unclebobmartin  # CleanCode course  @ skillsmatter April 23 - 24 !  
+3	tweet to win !  wanna go to  @ unclebobmartin  # CleanCode course  @ skillsmatter April 23 - 24 !  
+3	Can anyone help with  a  # websockets problem Im having ?   
+3	 # pluralsight has some great tuition videos on  # websockets by  @ craigshoemaker .  Im LOVING  # pluralsight right now . 
+3	Awesome article  \  demo on HTML 5  # websockets :  
+3	Nice comparisons of custom web font solutions :  
+3	 # backbonejs is currently rocking my world !  
+3	RT Im running in a team for RelayGB :  
+3	Tallinn toilet fact :  an upwards pointing triangle means “Female” a downwards pointing one means “Male” .   If there’s no triangle its unisex .  . 
+3	Anyone know how to get  @ resharper to automatically insert an underscore when writing test method names ? 
+3	After 18 months of perstering I have finally managed to persuade management to purchase 10 licenses of  @ resharper !   hallelujah ! 
+3	This is making me excited !  
+3	If only  # InternetExplorer would make like a Mission Impossible briefing and self destruct in 5 seconds . 
+3	 @ Eris good god youre awesome . 
+3	Anyone able to shed some light on the correct use of  # dotnet  # iterator - blocks ?  ?  
+3	Cool !  Decent  ( debatable !  )  support for  # SCRUM in  # VS11 :  
+3	Cool  -  got an invite to  # Careers2 . 0 .   Thanks  @ spolsky
+3	 @ jonskeet I was on the Amazon pafe for it yesterday but cant comment on the last week .   Weird that it would disappear like that ! 
+3	 @ jonskeet Ha ,  you sent that tweet pretty much as I was purchasing your book . 
+3	 @ steve _ fenton 
+3	 @ steve _ fenton ,  any of you guys heading to  # DevWeek next month ? 
+3	Just installed and configured  # Ubuntu in  @ VirtualBox for the first time .   Awesome ! 
+3	Just introduced an agile team to the concept of technical debt .  .  . 
+3	 @ fulljames YES !  A winning start to 2012 .  Very much enjoyed your article on prototyping with Node . 
+3	 @ steve _ fenton OK ,  so lets assume that youre heading due south ,  due east and due north according to your compass .  .  . 
+3	 @ steve _ fenton you can start at the N . pole and go in those directions !   the bear is white .   Apparently theres another place you can start .  .  . 
+3	 @ steve _ fenton close !   The answer is definitely a colour .  .  . 
+3	an explorer walks 1 mile south ,  1 mile east ,  1 mile north and finds himself back where he started .  he shoots a bear what colour is the bear ? 
+3	 @ m _ j _ o _ n _ e _ s Itll be way over head mate ! 
+3	pretty good ebook sale going on  @ OriellyMedia 
+3	 @ rem I have  # Scrooged with Bill Murray on DVD and Ive been watching it on ,  and only on ,  xmas day for years now .   I love that film . 
+3	Ive got a question for you  @ steve _ fenton  -  regarding  # TDD with  # PHP ,  is  @ EnhancePHP the best way to go ? 
+3	Anyone know of a good   # ORM for  # PHP ? 
+3	I think everyone  @ twthoughts should spend their  # productivityallowance on hiring me .  .  .  only  $ 1000 an hour . 
+3	Damn you  @ Apress !  !  !  !   Your sale is going to bankrupt me ! 
+3	Whats the best way to add HTML dynamically with JQuery ?  
+3	 @ unclebobmartin  .  .  .  NO way ?  ! 
+3	If you read any books by  @ Apress then dont miss their sale tomorrow ,  all eBooks  $ 15 !   
+3	 @ steve _ fenton  -  quick question ;  you know of any decent screencasts on mastering debugging with PHP Storm ? 
+3	 @ steve _ fenton Im on a kindle man ,  how are you finding the Kobo ?   They look cool . 
+3	 @ steve _ fenton i know man ,  what a sale !  !  god bless the  # ereader too ! 
+3	Black Friday PragProg Sale :  40 %  off ,  use coupon code  " turkey "  ,  Friday only  # pragprog 
+3	 @ rem Were currently using JIRA but I wouldnt call it my favourite .  .  .   # bugtrackers
+3	 @ JohnRobertPett  # MyDickIn3WordsOrLess straight up black
+3	If you have to write some code to fix a bug you can write a test to expose the bug !  !  !  !  !   # bugfixing  # unittesting  # ignorantstubbornpeople
+3	 @ steve _ fenton Check this image out  -  theres no place like 127 . 0 . 0 . 1 ,  I love it :  
+3	Bacon Ipsum  |  A Meatier Lorem Ipsum Generator 
+3	Just discovered  # NBuilder and am absolutely loving it ! 
+3	 @ JohnRobertPett this is your website :  

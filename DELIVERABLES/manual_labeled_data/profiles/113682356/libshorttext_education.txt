@@ -1,0 +1,153 @@
+2	 @ BradGibbs _  being observant as usual 
+2	 @ Ajzahtiri  .  .  . until youre porting  & gt ; 100 , 000 lines to a new platform with 50 %  breakage  : D
+2	 @ StewFisher Ive been royally shot down over this opinion today ,  not a single person in agreement .  Disappointing at best . 
+2	Smart casual dress is ample for software developers .  Smart clothing should be reserved for meeting clients .   # unpopularopinion
+2	Going to bed now .  Not impressed that this was necessary . 
+2	 @ StewFisher  @ YouTube YT needed help to become viable .  Going off Apps though ,  even for free its not worth the hassle
+2	The day Google builds a non - search web application that isnt buggy as shit will be the day the web finally wins out .  GCal is godawful . 
+2	2 project go - lives in one night .  Satisfying way to start the new year despite the smouldering infrastructure  \ o / 
+2	These bad boys finally arrived :  Sennheiser HD 558s .  So comfortable .  
+2	 @ Ajzahtiri maybe it was to fast track you into using the language / runtime so you better understood the technical side ?  Not normal practice
+2	 @ Ajzahtiri you learn to technical specs when youre working with indecisive clients ,  believe me .  They protect both sides from feature creep
+2	Wireless charging ?  Psht 
+2	 @ twbootstrap is ultimately still a toy until its JS is ported to more sane frameworks like YUI .  Another  @ twitter engineering trainwreck ! 
+2	 .  .  . and the dog just knocked a massive glass bowl out of mums hands .  Make that  " pets in general "  .  .  . 
+2	Just stepped on the cats paw because the blithering idiot stood right next to me trying to get food .  No sympathy .  Domestic cats are stupid . 
+2	The polar bears getting jiggy with it 
+2	 @ Ajzahtiri so coincidence ,  much strange ,  wow
+2	Relating to themes in EastEnders episodes .  Pretty sure its only downhill from here . 
+2	 @ Ajzahtiri hi azza
+2	 @ NickColley yep ,  little respect for their users and even less for the security researchers that responsibly disclosed the issue .  Pitiful .  .  . 
+2	HAH !  Snapchats  " abuse "  blog post neglects to tell users that they failed to address the flaw for weeks before the  " abuse "  took place  * sigh * 
+2	The behemoth has been defeated .  Tomb Raider at 5760x1080 is unplayable at times even on normal graphics settings .  Those GTX 660 Tis must go ! 
+2	Wow :  
+2	 @ StewFisher no ,  that one is literally useless .  DrawCaptcha . toString (  )  shows that the value of the captcha is stored in the DOM . 
+2	 @ StewFisher  @ callumacrae inspect the source ,  its utterly pointless
+2	 @ StewFisher how quaint
+2	 @ StewFisher  .  .  . but if the conservatives win the upper class will thrive and everyone else will starve
+2	And this is exactly why sane people self host :  
+2	 @ Ajzahtiri Probably EPOS or ecommerce then ,  bit of a difference lol
+2	 @ Ajzahtiri games dev at the body shop .  .  .  !  ? 
+2	 @ NickColley what I dont understand about browser sec is that DNT is considered paramount when most browsers still send the referer header
+2	Ill give my soul to the person who can fool devscripts into updating this package to the newest upstream release :  
+2	 @ LosSquare  @ OllieRussell8 I used to back when Laurent ,  Russ and Dave kept destroying the flat with coffee stains .  Im used to it now ,  tho 😇
+2	So chucking thousands of requests at Gios async methods is unwise .  gvfsd - http crashes  _ lots _  .  Guess I ought to rate limit those .  .  .   * sigh * 
+2	 @ rninty _  yessir ,  so good at handling multiple displays .  I live on workspaces ,  especially when Im using my laptop . 
+2	 @ StewFisher would rather use Shell to be honest ,  so much pretty .  When  @ nvidia start shipping decent drivers well be sorted  :  ) 
+2	 @ StewFisher Mint suffers from all the same issues and comes with the Cinnamon Challenge too .  Aint nobody got time fo dat
+2	I love Ubuntu ,  but really !  ?  
+2	Chapter 8 of Mirrors Edge .  All I can think is  " thank f *  *  *  thats nearly over "  .  Such a promising idea destroyed by terrible level design .  .  . 
+2	 @ emily _ bradbury I only just woke up  : s
+2	 # opsmas disaster averted :  domain transfers have all completed successfully .  I am definitely not doing this again tomorrow .  .  . 
+2	 @ OllieRussell8 come buy me a drink if you take offence lad
+2	Managed to play an entire 300 seconds worth of Mirrors Edge before raging about awful controls and haphazard directions .   \ o / 
+2	 @ benjeh32 it has to be the yard of Jaffas or a Terrys chocolate orange  : 3
+2	 @ Ajzahtiri times and places please ,  I need it at the moment lol
+2	 @ Ajzahtiri sounds like you need to drink more
+2	Love this :  
+2	Great article on being a better developer / engineer :  
+2	Went to see Frozen .  Not a bad film ,  but its definitely no Anchorman 2 . 
+2	Hint :  check the Subsonic event log for issues like these .  Transcoder error output is recorded here . 
+2	Subsonic web players not working since upgrade to 4 . 9 ?  Settings  -  & gt ;  Transcoders ,  replace occurrences of  - preset with  - vpre .  Yw  ;  ) 
+2	 @ Ajzahtiri Google missed a trick by not making the messages app work like the people one .  It would be cool if all apps did messaging there
+2	Why not just mute the affected audio ,   @ youtube ?  Youre destroying your platform .  .  .  
+2	Ubisofts QA team are a prime example of why we cant have nice things .   @ ubisoftsupport AC3 would be amazing if it werent so bug ridden
+2	 @ DavidMaitland  @ OllieRussell8  @ BradGibbs _  either is better than the current fluff though Dave
+2	 @ BradGibbs _   @ OllieRussell8 just thought ,  there he resembles Brandon Flowers  ( Killers ) 
+2	User interface design with Glade would probably be simple if I had the first clue how to stick together the widgets 
+2	 @ benjeh32 does iOS have a battery usage indicator like the Android one ?  
+2	Pretty sure Id be incapable of living without the wonder that is Syndol .  Migraines suck . 
+2	 @ OllieRussell8  @ sophielliswhite jealous .  .  .  whered you guys go ? 
+2	Never Let Me Go is a deeply disturbing film .  If thats the future of medicine ,  count me out . 
+2	Hi  @ HannahCarrier1  # nofilter 
+2	 .  @ OllieRussell8 
+2	 @ bethhdavies _ x I had a touristy day around Westminster the other day ,  London is amazing  : D
+2	 @ OllieRussell8  @ LosSquare  @ BradGibbs _   @ sophielliswhite fair play ,  full on pulled it off
+2	 @ LosSquare in a mankini  @ OllieRussell8  @ BradGibbs _  
+2	 @ tdmderrin lost his pint .  .  .   : o 
+2	 @ StewFisher not worth it ,  they dont give two shits how poor our transport network is . 
+2	Whittle have really redefined the term  " weapons grade cunts "  today .  Wish they had a Twitter handle so theyd see this . 
+2	Hopefully this Secret Santa present tomorrow will be interpreted as a joke and not straight up misogyny .  Tough one this year .  .  .   : s
+2	 @ gruber Maybe I need my eyes testing ,  then ,  because they sure dont look aesthetically appealing to me  :  / 
+2	 @ gruber You are buying a machine that looks like a cheap plastic fucking bin ,  so I guess the display will be a pleasant change ? 
+2	Gos encoding / xml documentation is absolutely fracking awful .  Wheres the example section ,  guys ? 
+2	 @ OllieRussell8 no spoilers please !  Do want to go see it
+2	Then . lys AI1EC plugin for WordPress is a fantastic example of why all WordPress developers should be burned at the stake .   # nope
+2	 .  .  . then run yum - complete - transaction and repeat the upgrade to bump the non - native glibcs to the same version .  multilib is fun . 
+2	ss4 is now stable again .  For the record ,  if Yum  * really *  screws up a glibc update ,  repeat the upgrade excluding non - native glibc packages
+2	 @ worcscc yes ,  our buses are already useless enough without you morons screwing it up even more
+2	 @ Toots _ 90 Dudley tomorrow ,  traveling  :  /  was back in today for a client meeting though .  Looked and smelled rough .  .  .  LM customers do not wash
+2	Being locked out of home is a great start to being back in Stourport .  Its cold and a shower would not go down badly after traveling all day
+2	 @ OllieRussell8  # potkettle
+2	 @ OllieRussell8 olllld
+2	133 unfinished transactions .  .  .   * cry * 
+2	CFX users :  ss4 is going to be offline for the next  ~ 40m .  Weve got a really unstable JRE thanks to RPM conking out mid - upgrade .  Fixing . 
+2	Is it not somewhat ironic that the PHP website is a solid example of how not to write PHP ?  Shield your eyes :  
+2	 @ OllieRussell8  @ BradGibbs _   @ LosSquare literally just left New St ,  next stop is Euston .  Nearly there mate  : p
+2	 @ BradGibbs _  sounds like something  @ LosSquare would do on his weekends in tribe lmao
+2	 "  @ BradGibbs _  :  Weird people are out in full force today at the custard factory 
+2	Not normally a Starbucks fan ,  but their gingerbread lattes are pretty nice  : 3
+2	 @ II _ Rye  @ Ajzahtiri not officially ,  nope .  CM 11 nightlies with Gapps 4 . 4 . 1 work well  ( provided you run Dalvik and not ART ,  there be dragons ) 
+2	CloudFlux folks :  if you need hosting support over the next 5 days ,  please email luke at cfx dot me .  Will not be reachable by phone ! 
+2	 @ II _ Rye  @ Ajzahtiri Google Now integration with the launcher has to be up there :  so good for keeping track of your calendar
+2	 " This could be the start of something huge ,  I feel it in my nutsack "   # misfits
+2	Glad to see that the bastard Governor met his sticky end .  Such a sad episode  :  (   # thewalkingdead
+2	Do not like the non - native tabs .  Does anyone at  @ twitter actually use the Android app !  ?  
+2	New Twitter app would look incredible if they got rid of all those stupid buttons .  .  .  
+2	This appeared last night ,  right as I was complaining about how bad the camera app was .  Huge improvement !  
+2	Thomas wasnt getting any love so he plundered a seat on mother 
+2	Definitely time for a holiday .  Apologies for looking nearly as bad as I feel today ,  people of Birmingham !  Good day though ,  awesome clients . 
+2	 @ peterc the Nexus 5 beats any Samsung phone at the moment IMO ,  so good
+2	 @ thetrainline so when our client sites are down because I wrote bad code  & amp ;  had no hot backup ,  I should tell them this ?  Its 2013 ,  cmon now . 
+2	 @ RockstarGames making the  # pcmasterrace wait 6 months to play your games is a dick move
+2	 @ BradGibbs _   : D
+2	 @ AmaleaaBourne  @ KatherineeDodge totally spoilered it for me  :  ( 
+2	Anyone with a brain would not rely on Windows shares for transferring exam / grading information .  Fucking insane . 
+2	Thanks to Stan at  @ pearsonvue for excellent product knowledge .  Hopefully one day theyll fix their godawful software . 
+2	 @ pearsonvues incompetence knows no bounds 
+2	All Subsonic 4 . 9 . b2 instances that just crashed should now be back .  We had some issues with GC runs ;  should not repeat on us . 
+2	 @ thetrainline is  " closed for maintenance "  ,  how cute .  Youre a fucking online retailer ,  start acting like one . 
+2	Still loving the fantastic Dell XPS 15 .  If youre a Linux - using developer ,  this is the perfect machine for you  ;  -  ) 
+2	 @ LosSquare  @ BradGibbs _   @ OllieRussell8 Im not even the one making it weird
+2	 " All I want for Christmas is  @ OllieRussell8 "   -  -   @ BradGibbs _ 
+2	Civ5 at 5760x1080 is one hell of a crashfest .  .  .  not sure if bad QA or just buggy drivers . 
+2	 @ BradGibbs _   @ LosSquare  @ OllieRussell8 down ,  boy ! 
+2	Ollies accustomed to doing this pose .  .  .   @ LosSquare  @ OllieRussell8  @ BradGibbs _ 
+2	Just in case anyones having issues with their Subsonic instances not indexing new files correctly :  
+2	Saints Row IV .  .  .  the highlight has to be climbing the towers to the tune of Song 2 by Blur .   @ magneatos
+2	 @ StewFisher huzzah
+2	Nah ,  Gnome 3 runs triple head like a champ .  I just think the KDE experience is clunky and unintuitive ,  hate the clutter
+2	 @ G _ baylis walking through that place at night is terrifying
+2	 @ StewFisher KDE !  ?  I expected better of you  :  ( 
+2	 @ BradGibbs _  my bus today was remarkably on time .  The people at the bus stop looked like meth addicts ,  though
+2	 @ harrysx  / me shudders at the thought of anyone using cPanel for anything at all
+2	Alternate title for that last photo :  Androids camera app still fails fairly hard . 
+2	Nawh somebody left her outside  : o 
+2	 @ magneatos escaping Zinyaks ship to  " What is Love "  had me giggling so hard
+2	 @ magneatos so many brilliant references in it too .  .  .  Im loving this game so much already .  Amazing  : D
+2	Seriously thought the new iPad Air advert was advertising Bic pencils .  Not sure what that makes Apples marketing team . 
+2	 @ magneatos YES I need this game ! 
+2	 "  @ HannahCarrier1 :  just trust me "  nothing can possibly go wrong .  .  .   : p
+2	That comments summarise Assassins Creed 3s problems really well :  
+2	Removing Virtualmin like a baws :  keychecker  - m  |  grep Virtualmin ,  Inc .   |  sed s /  , Virtualmin ,  Inc .  /  / g  |  xargs sudo yum  - y erase
+2	 @ OllieRussell8  @ UberFacts whoops .  .  . 
+2	 .  @ npowerhq  @ rwe _ group  # fucknpower  # fuckrwe
+2	 @ DavidMaitland  @ RussellEngland and heres me still struggling with the idea of investing in btc .  .  .  kicking myself now
+2	 .  @ OVH how lovely of OVH to start talking to their clients again ,  were all oh so grateful . 
+2	New DLNA support in Subsonic is cool ,  but Id like an option for indexing content by folders  ( e . g .  TV Shows ,  Music ,  Movies ) 
+2	One for  @ OllieRussell8  @ KoenKlaren  @ cyrilmengin .  .  .  
+2	Google Drive is a fucking horrible product . 
+2	CloudFlux users :  Subsonic servers will be undergoing routine maintenance this Saturday for 30 minutes ,  starting at 11AM GMT  # hugyoursysadmin
+2	The new nvidia game ready drivers are .  .  .  Interesting .  
+2	Great catching up with  @ thomaswbell88 tonight !  Please thank Hannah again for the lift  :  ) 
+2	I love the points about trust and skepticism :  
+2	Porter Robinson  -  Spitfire .  I have not heard this album in ages ,  amazing . 
+2	 @ arronhunt  -  -  every client ,  ever ? 
+2	 @ NickColley  @ Ajzahtiri aww  ;  -  ) 
+2	 @ NickColley  @ Ajzahtiri current term is what puts food on the table ,  preparing for the future yields longevity .  You need both  ;  -  ) 
+2	 @ NickColley  @ Ajzahtiri in a commercial environment ,  theyre a deciding factor .  .  .  limited reach and lower ROI .  Easier to just target Windoze
+2	 @ NickColley  @ Ajzahtiri  .  .  . on certain browser / hardware combos .  Try Chromium / Firefox on Intel / Nvidia hardware .  Results vary wildly . 
+2	 @ NickColley  @ Ajzahtiri there are serious performance implications of a browser vs native client .  Its an incredible feat ,  but its not ready
+2	 @ NickColley  @ Ajzahtiri WebGL has a loooong way to go yet before thats true  ;  -  ) 
+2	 @ koenklaren  @ OllieRussell8 you really werent missing much lol
+2	 @ OllieRussell8 should have seen him vacuuming out the cupboard .  .  . 

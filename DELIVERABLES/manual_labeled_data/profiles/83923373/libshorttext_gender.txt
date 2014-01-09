@@ -1,0 +1,133 @@
+-1	3 days of playing with Gradle have now come to an end .  If you like Groovy then its hard not to like Gradle and its DSL . 
+-1	 @ michaelbud6 ouch !   :  -  )  I was going to write something up but been poorly over xmas .  Hows the assignment going ? 
+-1	Cash machines raided with USB sticks 
+-1	 @ michaelbud6 wanted to leave a comment but no such option on your blog ? 
+-1	 @ edd _ mann very much vanilla JS thus far  -  having a look at AngularJS ,  Ember and knockout tomorrow . 
+-1	 @ edd _ mann still enjoying Erlang  -  been running a lunchtime club once a week to get to know the language a bit better . 
+-1	 @ edd _ mann found this great blog by  @ ariahidayat on new features including a section on classes :  
+-1	 @ michaelbud6 ha !  Dart sounds cool  -  you used it at all ?   ( If not why not ?  ) 
+-1	 @ akikhtenko  @ fogus thanks dude  -  Ill check it out .  JavaScript :  The Good Parts was also strongly recommended . 
+-1	 @ edd _ mann interesting to say the least   -  apparently classes will be around in the next release which might be easier to digest ! 
+-1	Fun day learning about JavaScript with two more days to come .  Should be useful for when working on my next pet project  ( erlang web - app ) 
+-1	 @ michaelbud6 nice work dude .  Junit next ? 
+-1	 @ akikhtenko be interesting to see scala version of 
+-1	 @ nasashraf  @ gemcfadyen  @ JonathanEland that date sounds good .  Bring it on  :  -  ) 
+-1	 @ michaelbud6 not bad is that your favourite track from the album ? 
+-1	 @ michaelbud6  @ craig _ blackman haha just listened to the songs on our old band page from uni .   We should re - record them .   # cringe  # reminicing
+-1	Yo  @ roberttaylor426 heres the Erlang code from todays parallel demonstration as promised :  
+-1	Found this article on concurrency in Erlang v .  Go 
+-1	 @ nasashraf yeah wasnt comfortable but got the points in the bag and stay at the top .  Sounds like the united game was a close one ! 
+-1	 @ michaelbud6  ;  -  )  as long as you dont mind missing your dancing on ice for a change ? 
+-1	 @ michaelbud6 sure lets take a look at your set issues too . 
+-1	 @ michaelbud6  @ edd _ mann sounds like you are seeing the toString (  )  value of the set .  .  or are you looping through the set ? 
+-1	 @ nasashraf just like youve been saying all along  :  -  ) 
+-1	 "  .  . suggests a persons psychological response is a more important factor than what has actually happened to them .  "  :  
+-1	 @ michaelbud6  @ drumindev  @ edd _ mann Found this post from the web relevant  -  
+-1	 @ michaelbud6  @ drumindev  @ edd _ mann tbh not often at all .  .  sometimes high level component diagrams on a whiteboard but look into TDD
+-1	How much can an extra hours sleep change you ?  
+-1	So my  # pcworld gift card has expired .  .  what if I was saving up for something big  :  -  /  I guess the money vanishes into their bank account . 
+-1	 @ drumindev thanks dude ill check it out . 
+-1	 @ michaelbud6 true .  .  but nothing wrong with adding to your repertoire .   Only managed 4th at the karting . 
+-1	 "  @ arsenalist :  GIF :  Torres scratch on Vertonghen that got him a yellow ,  eventually leading to a red .   -  
+-1	 @ michaelbud6 ha ,  well Hank the tank is getting a bit old  -  thought you could do with some new moves ! 
+-1	Btw  @ michaelbud6 I saw this and thought of you  ( now that youre back at uni )  :  
+-1	 @ michaelbud6  @ edd _ mann add a solid state disk and you will be as happy as Lary ! 
+-1	 @ michaelbud6  @ edd _ mann im really liking Mint 
+-1	 @ gemcfadyen ha thats cool .   I hope youll be bringing your pairing teddy in to work ? 
+-1	 @ michaelbud6  @ mike _ flurry Yip ,  got to be happy with the run they are on .   # longmayitcontinue
+-1	 @ edd _ mann haha yip very much so ! 
+-1	A key message from uncle bobs talk tonight :  
+-1	Why embracing change is the key to happiness 
+-1	 @ michaelbud6 have you not pre - ordered yours yet ? 
+-1	The forgotten father of web search 
+-1	 @ michaelbud6  @ edd _ mann maybe search for something erlangish or something on clean code ? 
+-1	 @ aeroaxeman correction on those speeds  -  they were in Mbits not MB  ( using 
+-1	Ooh speeds of 18MB down and 16MB up on a moving train .   # 4G  # vodafone .   # suchageek
+-1	 @ michaelbud6 dude that hurts  -  I thought we meant more than that to you  ;  - p see you later . 
+-1	Picking up 4g in Stratford station  -  looking good so far .  Managed to load live tv in a couple secs . 
+-1	Im intrigued to see how well the 4g rollout goes for vodafone tomorrow in London .   
+-1	 @ sandromancuso enjoyed reading your  Test Deafness post  -  made me chuckle 
+-1	 @ michaelbud6 haha wont be long before you do the same .  Still on for Thursday ? 
+-1	 @ edd _ mann youll have to check it out when I next see you .  This thing could probably drive my car if I plugged it in  ;  -  ) 
+-1	Looking forward to my first visit to google campus tonight for an  # LSCC hands - on session .  Been a while  # rusty
+-1	First non Apple phone in years  -  Its been about a week since switching to the Samsung S4 and no regrets . 
+-1	 @ michaelbud6  @ edd _ mann ah I see .  Yes one of my more foolish / regretrable  # donttrythisathome actions .  Bathroom door looking ok ? 
+-1	 @ michaelbud6  @ edd _ mann ah the memories  :  -  )  .  You guys doing the whole freshers thing ? 
+-1	 @ michaelbud6 according to google maps I am 0 . 9 miles away .  You on way home yet ? 
+-1	 @ edd _ mann sourcetree sounds interesting too  -  ill be taking it for a spin soon .  
+-1	 @ edd _ mann no not played with Chef at all ,  ill have to have a look into it . 
+-1	 @ michaelbud6 have you push the power button  ;  - p  # somethingsnotright
+-1	 @ edd _ mann yeah we already use some of the features of puppet on one of the projects at work .  Slowly extending it to do more . 
+-1	Dark magic :  Rise of robot traders 
+-1	 @ edd _ mann yeah liking Puppet a lot .  Few quirks to work around but on the whole Im enjoying using it .  You used it ? 
+-1	 @ michaelbud6 shes great thanks pal .  Hows your Java coming along ? 
+-1	Wow :  Referee killed after stabbing player 
+-1	 @ michaelbud6 if Carlsberg did catch - ups they wouldnt come close to that  :  -  )  .  Lets pencil that in . 
+-1	 @ edd _ mann Been playing with puppet recently but will pick up the Erlang app again soonish .  btw feel free to hack around with BFF if you like
+-1	 @ michaelbud6 definitely due a pro - evo sesh and perhaps a BBQ !   # bromance
+-1	 @ edd _ mann have you tried github for windows ?  
+-1	 @ michaelbud6 sounds good dude  -  feel free to add a pull request to the BFF application when youre done  ;  -  )  . 
+-1	Found a good post on HTML5 articles vs sections :  
+-1	 @ drumindev thanks pal ,  ill take a look . 
+-1	Heading to  # dddx  @ skillsmatter and looking forward to seeing uncle bob live ! 
+-1	 @ michaelbud6 hey pal ,  not heard of that ,  any good ? 
+-1	 @ sandromancuso yeah would love to !   :  -  ) 
+-1	 @ sandromancuso Gradles incremental builds appear to be very good . 
+-1	 @ michaelbud6  @ edd _ mann wow thats cool dude ,  full time ? 
+-1	 @ edd _ mann  @ michaelbud6 i was hoping for a CSS only logo and an automated weekly email by now .  .  ?   ;  -  )  ill get the login page sorted soonish . 
+-1	 @ edd _ mann  @ michaelbud6 cool ,  good man  -  a simple Model / View / Controller added ,  needs some beautifying by some front - end pros  ;  -  ) 
+-1	 @ michaelbud6  @ edd _ mann  ( obviously it doesnt do anything .  .  yet !  ) 
+-1	 @ michaelbud6  @ edd _ mann ok so you didnt think I was kidding ?  
+-1	 @ michaelbud6  @ edd _ mann we can always redirect to ie6 download page if not complient .  btw VB comes second only to my favourite languages .   :  - p
+-1	 @ michaelbud6  @ edd _ mann and you wonder why we havent made out first billion yet .   ;  -  ) 
+-1	First ChicagoBoss tutorial completed .  .   @ michaelbud6  @ edd _ mann Im thinking we could do a Facebook replacement .  .  .  called BFF
+-1	Went to a short Gradle talk today  -  still v .  impressed .  Wish we could slap it in at work in place of maven / ant hybrids .   # techenvy
+-1	Former IT Specialist Claims To Be Jesus Reborn 
+-1	 @ edd _ mann yeah true ,  keep it simple right ?   I switched over to mint a few months back on main laptop and liking it  :  -  )   # linuxnewbie
+-1	 @ edd _ mann ha !  I imagine I would have suffered even more as running Ubuntu Mint .  .  but probably wasnt far from trying anything else  :  -  ) 
+-1	much pain experienced getting oracle db express installed on laptop  :  -  /  glad its over and internet works and can log in again .  .   # nevergiveup
+-1	 @ roberttaylor426 yeah I agree it would be great to have an equivalent  -  I have voted for your enhancement request  :  -  )  . 
+-1	Stumbled upon this music experience while reading about html WebSockets :   
+-1	 @ edd _ mann thanks ill check it out . 
+-1	 @ edd _ mann  " The well - hung and meaty snack !  "  .  .   :  -  )  nuff said
+-1	 @ roberttaylor426 maybe :   "  .  .  when a Groovy mock is created as global ,  it automagically replaces all real instances .  .  "  
+-1	 @ edd _ mann thanks dude ,  Im hoping they run it again in the future but if not Ill try and get the materials . 
+-1	I really like the sound of this  -  functional tests as a tree of continuations : 
+-1	 @ edd _ mann cool ,  ill have to look into that course for next time . 
+-1	Hoping to make some time to play with Chicago Boss soon .  .  Sounds pretty cool and easy to get started .  
+-1	 @ edd _ mann a friend at work has just finished that and enjoyed it .  What did you make of it ? 
+-1	 @ roberttaylor426 Im with you on that one .  For a start it means they arent pairing . 
+-1	 @ arseblog  " I love their manager ,  he’s hilarious and a bit scary – like a snarling dog in a Batman costume .  "  Haha made me chuckle .   :  -  ) 
+-1	Watched a couple episodes of The Incredible Mr Goodwin .  That guy is crazy .  .  and incredible . 
+-1	If you liked the original erlang the movie you will love the sequel 
+-1	 @ WobH also Spock is worth checking out  -  
+-1	 @ WobH heres that link :  
+-1	 @ WobH  @ richardlevy  @  _  _ tman  @ jose _ casal great to see you all .  Hope to do it sooner next time  :  -  )  . 
+-1	 @  _  _ tman  @ wobh  @ richardlevy  @ jose _ casal  @ relfw  @ alexjgray1 hope not TMan but we can play it by ear  -  loads of food places if no luck there . 
+-1	 @ roberttaylor426 yeah putting it next to an equivalent maven pom really highlights that fact  :  -  )  .  Intrigued about your new project btw . 
+-1	 @ nickmcdowall  @ wobh  @ richardlevy  @ jose _ casal  @  _  _ tman  @ relfw  @ alexjgray1 btw Craig can also make it on Thursday . 
+-1	 @ WobH  @ richardlevy  @ jose _ casal  @  _  _ tman  @ relfw  @ alexjgray1 meet at bar near waitrose from 6ish until everyone arrives then hit TGI Friday ? 
+-1	Getting ready for a short break with family somewhere in England  -  destination unknown .   I like surprises . 
+-1	 @ roberttaylor426 yeah  -  looks like GMaven is more geared towards the scripting side .  Did you see my example from the other day ? 
+-1	How to configure a project to use Groovy and Java interchangeably  ( Maven  & amp ;  Gradle examples )  
+-1	 @ RelfW congratulations dude  -  saw your response to  @ WobH right after I asked .  Look outward to catching up soon . 
+-1	 @ WobH  @ jose _ casal  @  _  _ tman  @ relfw  @ richardlevy  @ alexjgray1 shall we aim for Thursday 21st at 18 : 00  -  I look forward to catching up ! 
+-1	 @  _  _ tman  @ WobH it must be over a year since we met up at TGI Friday in Westfields .  .  Must be due another soon ?   / cc  @ RelfW  @ jose _ casal
+-1	 @ RelfW where does your next adventure take you old chap ? 
+-1	 @ sandromancuso briefly bumped in to it when playing with GVM the other day .   Sounds cool .  Might have a play soon .   / cc  @ roberttaylor426
+-1	Enjoyed the  # LSCC session last night  -  coding kata without an IDE !  Good one to try out at work .  Check out 
+-1	Picking up tips for tomorrows game  # ElClassico
+-1	 @ roberttaylor426  @ gvmtool very nice  :  -  )  just used it to update Gradle and Groovy  -  so simple to use ! 
+-1	 @ roberttaylor426 ahhh thats it .  I was convinced it was in 1 . 3 for some reason  :  -  ) 
+-1	 @ roberttaylor426 this is where i read about the new way of declaring the dependency :  
+-1	 @ portiatung thanks for sharing .  loved the TED talk .  Fascinating link between the length of childhood  & amp ;  smartness / flexibility . 
+-1	 @ RelfW ha !  Ill have to try and sneak that in to one of my conversations today .   :  -  ) 
+-1	 @ michaelbud6 youre welcome dude ,  I look forward to the next session ! 
+-1	 @ spuklo yeah I have multiple hats at the ready  -  thank goodness !   :  -  ) 
+-1	Must .  Buy .  Gloves .  Today ! 
+-1	 @ HoggJustin thanks for sharing link to those vim cheat sheets  -  looks really useful . 
+-1	 @ gavphotography ha !  Good times  :  -  )  .  im good thanks .  About to get back to playing 5 - a - side after months of doing nothing  :  -  / 
+-1	 @ gavphotography congratulations  :  -  ) 
+-1	Heading to work for first time in nearly a month .  .   # thisisgoingtohurt
+-1	We just finished hosting a development practice session at work  -  a mute pairing kata .  .  appears to have gone down well  :  -  )  . 
+-1	 @ sandromancuso cool thanks for sharing !  Reminds me a bit of using Theories .  I must install that plugin also  :  -  ) 

@@ -1,0 +1,143 @@
+17	 @ robbowley  @ 7digital  @ bettiolo  @ dannycroft and 6th in designthanks to  @ louissschang
+17	Massive thanks to everyone who voted for us in  @ node _ knockout  With your help we were 3rd for popularity !   :  ) 
+17	 @ jaybeebosley Thanks glad you enjoyed it  :  )   Please vote for us  ( top right under the logo )  !   I cant help the music selection  -  its random . 
+17	 @ uniquelau Thanks Laurence !  x
+17	Any  @ node _ knockout judges wanting some tunes while they judge .  Go checkout our entry 
+17	 @ indexzero sorry ,  just realised you need the team page which is here :  
+17	 @ indexzero wed love a review if you have time ,  
+17	 @ perksc  @ tonyto thanks !   voting starts in 15 minutes at 6pm .   Please vote for us !   :  ) 
+17	 @ node _ knockout accidentally left a test value in our app .   I emailed the diff  ( its tiny )  .   can you let us know if we can deploy that pls ? 
+17	 @ nodejitsu why no  # nodeknockout drones this year ?  Ubuntu as a deploy target makes me sadface . 
+17	 @ nvcexploder  @ miksago  @ visnup  @ joyent Id love to but San Francisco is a bit of a trek to spend 48hours hacking indoors ! 
+17	Anyone know of any london locations for  # nodeknockout this year ? 
+17	 @ BarisBalic Im stuck at the door .  Could you let me in pls ? 
+17	Job opportunity :  Web Operations Engineer  -  in love with DevOps ?  at 7digital  -  United Kingdom  # jobs 
+17	Job opportunity :  Front - End Engineer  -  achieve beautifully at 7digital  -  United Kingdom  # jobs 
+17	 @ perksc hey dude .   Nah Im in north london now ,  but you should defo come out for a beer with matt and I .   :  ) 
+17	 @ Alexcorradi  @ TonyTo85 Yeah for sure .   Sorry for the delayed response Ive exiled myself from social media distraction ! 
+17	Great coverage of the Mercury Prize nominees on 7d 
+17	 @ markunsworth  @ philb0  @ mwjacks0n  @ gregsochanik IMHO frequent rebasing from master trumps all the  " feature branching is hell "  arguments . 
+17	Full house for the first  # devsintheditch at the  @ 7digital offices .   Looking forward to  @ BlueReZZ s talk . 
+17	 @ grahamrhay 
+17	 @ miksago If you value your sanity ,  dont bother !   OAuth is a painful but necessary evil .   Just ask  @ ciaran _ j if you dont believe me . 
+17	 @ bradleyg _  no but im going to  # lnug on tues .  My colleague  @ henryoswald is doing a talk . 
+17	Oooh ,  new  # WeHaveBand album .   How did I miss that one ?  ! 
+17	 @ henryoswald Obviously 1 !   Archlinux is your friend
+17	 @ MichelleFlynn I think you mean 
+17	Woohoo .  .  .  new  @ 7digital website live !  
+17	Rewatching Stephen Kings It for the first time since childood .  The acting is cringeworthy :  how did I ever find this scary ?  ! 
+17	Bizarrely ,   # Vim on the iPhone is a pleasant experience .  Only problem is I dont ever need to edit text other than msgs or tweets ! 
+17	Finally got round to installing VsVim today .  Looks very promising .   # Vim  # visualstudio
+17	So it turns out the email from virgin media about my no cost upgrade to 120Mbit broadband was  " sent in error "  .   Oops !   # MassiveFail
+17	Something needs to be done about copyright law ,  particularly in the US .    # SOPA has so much mindshare  -  Come on brits  # HelpRichardODwyer
+17	Virgin are upgrading our broadband from 50mbit to 120mbit at no extra cost .  Nice ! 
+17	Ooh interesting !  
+17	Just upgraded my  # iphone to  # ios5 .  lost all my itunes content .  Reinstalled  @ 7digital app and its all still there ,  no redownloading !   :  ) 
+17	Wow ,   # syntastic has made my day .  How did I bear writing  # javascript in  # vim without it ? 
+17	 @ louissschang silly patent legislation .  Have you seen this ?  
+17	 @ mwjacks0n yeah that does look nice .   Im pairing with  @ willjamestech next week on some node innovation time so that will be handy . 
+17	 @ mwjacks0n yeah sublime does look really nice .   Im a bit loathe to pay for it though . 
+17	 @ TonyTo85  @ mwjacks0n vim is all you need  : P
+17	 @ jpluscplusm PLEASE COME TO WORK IN THAT .   I would think you a greater man for it ! 
+17	 @ TonyTo85  @ BarisBalic You lose an IQ point for every hour spent looking at  # VB code  # FACT
+17	Context switching from  # nodejs to  # vb is about as enjoyable as punching yourself in the face . 
+17	 " Discover  [  .  .  .  ]  a stream of useful and entertaining information ,  customized just for you "  So why is it full of irrelevant shite ?   # newtwitter
+17	 @ LukeTownsin Thanks mate .   Yeah it was ,  though I have a pretty hazy memory !   Glad I had yesterday off  :  ) 
+17	 @ LukeTownsin good times indeed .  Looking forward to this evening ,  it should be a good laugh .  See you later ! 
+17	Reading this :  
+17	 @ grahamrhay you love it .   : D
+17	 @ daphnechong you installed  @ grahamrhay on your iphone ?  !   Is that like siri but with sarcastic replies ?  ! 
+17	Looking forward to  # londdonjs tonight
+17	 @ polotek just watched your nodeconf talk  -  shame you didnt have more time .   Im keen to know more ,  where can I find the slides ? 
+17	 @ TonyTo85 sounds like youre having lots of fun !   # VBMustDie
+17	Connect multipart support integrates with formidable 
+17	Feeling nerd rage after finishing  # FearIndex last night .   What a cop out of an ending . 
+17	 @ beardscratcher not late to the lemon party though .   : P
+17	 @ ciaran _ j that looks really interesting ,  shame its in Manchester otherwise Id go . 
+17	 @ stevelosh I quite like them .   Isnt the color good enough to indicate the suit ?   Not great if youre colour blind I suppose though ! 
+17	 @ Ben _ Hall 
+17	 @ MarkNijhof  @ Ben _ Hall OAuth will be available because of the closure .   My guess is the extension of Object . prototype  ( no key / secret to test ) 
+17	 @ Ben _ Hall That may well interfere with some internal object iteration
+17	 @ Ben _ Hall is it only happening when you extend Object . prototype  ?    ( I assume you have a  * very *  good reason to do that ) 
+17	 @ Ben _ Hall I have that library working well in the  @ 7digitalapi nodejs wrapper .  Is there no error msg ? 
+17	 @ Ben _ Hall need more context ,  whats the error ?  or gist an example ? 
+17	 @ louissschang it was inevitable ,  sooner or later .  Mwahahaha ! 
+17	RT :  Arrested .  
+17	Got tickets to see  @ devhynes at shacklewell arms with  @ Ben _ Maddison and  @ yeoldedawg on 3rd Dec .  Cant wait !   # BloodOrange  / cc  @ Alexcorradi
+17	 @ cam _ sf All out !  They were 21  -  9 earlier too !   Makes me feel warm inside  :  ) 
+17	 @ LukeTownsin not me  ;  ) 
+17	 @ LukeTownsin I didnt know about it . 
+17	 @ beardscratcher 
+17	 @ chrisevans1982  @ yeoldedawg yeah I saw that when I was looking last week .   Its possible ,  though I reckon  A Night With .  .  .  will be better . 
+17	 @ mwjacks0n yeah i would have liked to have been to that .  I was ill unfortunately .  I met  @ seddonandrew at node knockout ,  hes a nice guy . 
+17	Listening to xmas songs in the dark in KFC in Dalston .  .  .  on my own .   # LivingTheDream
+17	 @ mwjacks0n you should have a look at mintty for cygwin .   Its pretty damn awesome too . 
+17	 @ BaldinBillboard great to have you over yesterday .   Hope you got back home ok .   Lets not leave it so long next time ! 
+17	Wow the queue for  # f8 was long ! 
+17	Wow  # Drive is brutal but beautifully brilliant . 
+17	Major release of the  # nodejs  @ 7digitalapi v0 . 4 . 0 
+17	Ive decided that naga ghost chillis should not be cooked with recreationally !   # MouthOnFire
+17	Use Alt +  & lt ; movement & gt ;  in insert mode to enter normal mode and perform the movement without leaving the homerow  # vim  / cc  @ vimtips
+17	 @  _ duncanhall that would be much easier to fix with git .   Branches and merging are much more natural .   :  ) 
+17	 @  _ duncanhall time to move to git  ;  ) 
+17	Wow  @ amazon youre customer support is brilliant .   3rd time Ive had to contact you now ,  and its been impecable each time . 
+17	The more I use it ,  the more I like mintty .   No more urxvt in  # cygwin for me .   # tech  # unix
+17	 " If you talked to people the way advertising talked to people ,  theyd punch you in the face "  hugh mcleod Ha ,  so true .   # fowa
+17	 @ louissschang checkout layervault .  It looks pretty decent .  Officially launched today at  # fowa
+17	Jottify app looks like a really cool idea for budding authors .  Launching at  # fowa
+17	The MS guy is getting grilled by  @ slightlylate in the browser panel at  # fowa  -  love it ! 
+17	 @ teabass thats a hell of a lot of pizza !  I better get there early to make sure I get some  :  ) 
+17	 @ LukeTownsin not to be a pedant but that photo looks like the exact opposite of what Id consider to be kicking off ! 
+17	 @ Meerface no ,  Im not ,  I didnt get round to getting tickets ,  Im not sure I want to be sitting down when I go to see metronomy ! 
+17	Ok ,  Im starting to feel really bored of being ill now .   Come - on immune system ,  harden the f * ck up ! 
+17	oi  @ mixcloud whats with the spam every connected social media site by default when doing anything setting ?  not cool  :  ( 
+17	 @ perksc Thanks .  No late nights :  we dont have a culture of that here at 7d thankfully  :  )  Continuous Deployment ftw ! 
+17	New  @ 7digital site public beta is live 
+17	 @ BarisBalic  @ louissschang Im in it for the fame and glory .  Mwahahaha ! 
+17	 @ louissschang im doing this if youre interested :  
+17	 @ londonjs when can we expect more details on the hackathon ?   Teams or solo entries only ?  Max teamsize ?   # centralhack
+17	 @ perksc only  - 4 ?  Are you baking a meat pie ?  ! 
+17	 @ mwjacks0n thats pretty cool .  Love the ui config .  I use vcprompt and did the colors manually .  This would have been faster though . 
+17	 @ cam _ sf I think the what you are looking for is a mirror ! 
+17	Whats with all the HTML5 operating systems today ?  Am I missing something ?  Do we really need an operating system in the browser ? 
+17	 @ louissschang I imagine functions in general look weird to you ! 
+17	functions with return values instead of callbacks in  # nodejs just look weird to me now .   # tech
+17	No way DJ Mehdi died ?  !  
+17	Brendan Eich speaks out on Dart :  
+17	 @ BarisBalic Thanks ,  nice .  I made the switch to  # vim recently and Im not convinced I want to go back !   # editors  # flamewar
+17	 # Vims  # clojure plugin is superb .  cant help thinking I should be using  # emacs though ! 
+17	 @ Ben _ Hall  @ holytshirt long wait for the bus .  Should be 15 mins or so
+17	 @ Ben _ Hall deal ,  Ill head off now .  See you shortly . 
+17	 @ Ben _ Hall cool ,  well it will take me 25 mins to get down to shoreditch .   where you thinking ? 
+17	 @ dctanner no worries .   keep me posted . 
+17	 @ dctanner You didnt reply to my email about the nko t - shirts .   Do you want  an address instead ? 
+17	 @ Ben _ Hall ill meet you for a beer .   Im off this week . 
+17	 @ bnathyuw stop swearing ! 
+17	 @ rchatley it seems reasonable to me .  Im sure most companies using clojure  wouldnt mind paying that .   Tougher for an individual though . 
+17	 @ robbowley I had a feeling that would be the answer ,  worth a shot ,  though !   ;  ) 
+17	 @ rchatley Id love to but I cant justify that sort of expense for 1 day of  # clojure training ,  unless  @ robbowley is feeling generous ! 
+17	Really starting to enjoy  # clojure 2 days of koans and reading and I feel like I have just enough tools to attempt to make something . 
+17	Hello new M . A . N . D . Y .  Body Language mix  :  )   # tunes
+17	 @ robbowley  @ rchatley its certainly elegant ,  even the expressions are called  " forms "  !  Still not 100 %  sold on the parentheses yet  # clojure
+17	 @ rchatley after day 1 :  finding the functional nature easy to grasp  ( prob due to JavaScript )  but prefix notation is slowing me down .   # clojure
+17	 @ mwjacks0n cool ,  well im up for that .  Come round to mine if you like .  Im in highbury . 
+17	 @ TonyTo85 I knew about ClojureScript but not that .   Interesting .   Im just learning it to broaden my horizons  :  )   # clojure
+17	 @ mwjacks0n I am ,  what are you thinking ? 
+17	 @ TonyTo85 bumbling around typing out commands into the REPL verbatim from a tutorial  : P  # clojure
+17	 @ rchatley ill let you know .   Im starting with this tutorial :  
+17	Today feels like a good day to learn some  # clojure
+17	Congratulations  @ 3rdEden
+17	 @ philb0  " It wasnt me guv ,  honest !  "  yeah I didnt really think that bit through ,  did I ?  ! 
+17	 @ philb0 ha ha ,  I knew that would come back to haunt me ! 
+17	 @ mwjacks0n cool ,  well just give me a shout Im hacking most of the week . 
+17	 @ mwjacks0n yeah thats a good un  :  )  im off all next week if youre around and fancy some hacking ? 
+17	 @ ciaran _ j my bad ,  it was the differing signatures between get and post throwing me off .  All working now using get  /  post thanks
+17	Rediscovering some aeroplane remixes to get me in the mood for the weekend and a weeks holiday 
+17	 @ mwjacks0n not yet .  Ill have a look when im home . 
+17	 @ dotvimrc autocmd BufWritePre  *  . js  :  % s /  \ s \  +  $  /  / e to remove trailing whitespace when saving javascript files  ( modify the glob for other types ) 
+17	 @ ciaran _ j Im resorting to calling oauth .  _ performSecureRequest to do 2 - legged oauth ,  is there a better way ?   # oauth
+17	 @ Cranialstrain  @ magicbobson I read less books more code these days  :  )   The books I do tend to be JavaScript or patterns based . 
+17	Uncle Bulgaria and the Restraining Orders !  
+17	 @ BarisBalic yeah we  * should *  be doing this in HAProxy ,  too much to do ,  to little time unfortunately . 
+17	 @ BarisBalic on an older system we add IP restrictions in IIS with vbs called by msbuild called by rake ,  triggered by teamcity !   # inception
+17	 @ BarisBalic I feel your pain .   Current status :  debugging vbs scripts in our build chain for adding IP restrictions .   # legacycode

@@ -1,0 +1,144 @@
+2	 @ timmorgan  @ amykate If you owned one ,  youd think it wasnt soon enough .  .  . 
+2	 @ amykate  [ citation needed ]   :  ) 
+2	 @ wfaler Haha ,  yeah .  Its strange though as the 360 experience was substantially better .  Youd think theyd have it figured out by now .  .  . 
+2	Its quite alarming just how unfinished the Xbox One feels .  I really hope theyre planning to continually update the software over time . 
+2	 @ xboxuk Are there plans to address the overscan problem on older TVs ?  I may have to buy a new TV just to get things to work properly .   :  ( 
+2	 @ computionist I think its fairly safe to ignore any article written by an investor in the company / technology . 
+2	 @ BenNunney There are some caveats :  no tethering ,  25GB / month max ,  higher latencies for VPNs / streaming etc .  but its still a damn good deal . 
+2	 @ AmazonHelp Thanks . 
+2	 @ AmazonHelp OK ,  but how can I guarantee it arrives on  * a *  weekend .  I dont care if its tomorrow or next weekend ,  so long as its a weekend . 
+2	 @ AmazonHelp Is there a way to guarantee delivery on a weekend  ( residential address )  in the UK ?   " Next Day "  currently estimates 6th Jan .  .  . 
+2	 @ jeromatron  @ jairamc Between 1883 and 1885 ,  I imagine that was a very long commute ! 
+2	 @ ronanklyne That makes more sense .  I think the  " lazy language that was never called  [ for ]  "  is something I missed due to tiredness . 
+2	Did I miss the joke in todays XKCD ?  It just seemed like humourless criticism to me . 
+2	 @ suffrajess Took me a minute to realise you were talking about Into Darkness ;  thats pretty bad .  I imagine Roddenberry wouldnt approve . 
+2	 @ stuherbert Terran scale very well with APM . 
+2	 @ stuherbert Are you a Terran ,  Protoss or Zerg player ? 
+2	 @ BenNunney My condolences . 
+2	 @ stuherbert The first ,  its only ever acceptable 3 minutes before midnight on New Years Eve . 
+2	 @ moonpolysoft I dont know ,  Im not a scientist ! 
+2	 @ moonpolysoft Those dogs actually carry water .  Alcohol would just expedite freezing to death . 
+2	Finally got to the bottom of my specs2 / Mockito problems .  A little bit of user error coupled with a dash of in - determinism . 
+2	Best news all week :  
+2	 @ BenNunney The sensationalist article on the BBC made me sad .  I expect it from the Sun ,  not the BBC . 
+2	 @ ID _ AA _ Carmack Especially since that was the original purpose of HTML . 
+2	 @ abithax That picture is rather dark ,  make sure you turn on the flash next time !  Get well soon ! 
+2	 @ wfaler Were you at the Haskell meet up tonight ? 
+2	Really enjoyed the  # haskell London meet up tonight .  SPJ did an excellent job of making a tough subject very approachable . 
+2	 @ aphyr Thats really cool ,  where did you read that ? 
+2	 @ zcourts lol ,  seriously ? 
+2	Really though ,  the fact that  " selfie "  beat  " obedience "  to word - of - the - year is a pretty good sign . 
+2	But everything is fine because you can still buy a house as a Safe Investment™
+2	Were OK so long as the Oxford Press continue to add words to the dictionary ,  rather than remove them . 
+2	Victory over p̶o̶r̶n̶ ,  t̶e̶r̶r̶o̶r̶i̶s̶t̶s̶ ,  Eurasia in t̶h̶e̶ ̶i̶n̶t̶e̶r̶n̶e̶t̶ ,  t̶h̶e̶ ̶m̶i̶d̶d̶l̶e̶ ̶e̶a̶s̶t̶ ,  North Africa ! Welp
+2	I honestly cant believe the prices Samsung and Apple manage to get people to pay for their phones . 
+2	 @ abithax  @ stuherbert Thats just the tip of the ice - berg :  
+2	 @ jeromatron  @ jairamc Yeah ,  spotted that .  Its a shame its so inaccessible to anyone without a car  :  ( 
+2	 @ jwirde Good spot .  Would accept a Pull Request if you have it  :  ) 
+2	 @ dibblego Ignorance favours subjective definitions . 
+2	 @ kjozsa Something about Mockito  +  Scala 2 . 9  +  Specs2 makes it behave unpredictably and infuriatingly . 
+2	My padded cell will have  " DEATH TO MOCKITO "  scrawled hundreds of times on the walls . 
+2	 @ choult Its a Java mocking framework .  Generally fairly good ,  but has limitations and annoyances .  
+2	Mockito ;  for when youd rather test your patience than your code . 
+2	 @ RobAshton Oh I see ,  that is  ( slightly )  more acceptable . 
+2	 @ RobAshton How is it possible to write Visual Basic ,   " by accident "  ? 
+2	 @ RobAshton WHY
+2	current status :  sitting on a train ,  wearing an RX Bandits T - shirt ;  listening to Train and RX Bandits . 
+2	 " I collected a list of MySQL grievances ,  but I cant read it any more because of the event horizon .  "  via reddit
+2	 @ aphyr Wow . 
+2	 @ frkbmb  @ computionist I wonder how large the intersection was between that group and people who believe ( d )  climate change is a myth . 
+2	 @ RobAshton Take a look at Raft .  A consensus algorithm designed to be understandable by humans . 
+2	 @ wfaler typesafe / config is when the alarm bells started ringing for me .  .  . 
+2	Weird to see so many people trying to shoehorn Spring / Guice in to Dropwizard . 
+2	 @ viktorklang All my testing is on production .   # sixwordscarystories
+2	 @ wfaler HaskellDB seems to be somewhat similar to Slick .  No experience with it though . 
+2	 @ jericevans It strikes me that  " Cloud "  usually means one of :  SaSS ,  PaSS or IaSS ;  dependent on the vendor ,  product and / or audience . 
+2	 @ jessitron I believe thats normal .  Nearly all of the JVM threads seem to sit in RUNNABLE constantly ,  for any process . 
+2	 @ jessitron I assume you mean  " RUNNABLE "  ?  Have you tried  " jstack  - m "  to get a stack trace of the JVMs native frames ? 
+2	Fate is not on my side today . 
+2	 @ etorreborre Thanks ,  Ill give that a go .  Really appreciate the advice . 
+2	 @ nik More height to the monolith . 
+2	 @ kellabyte Are unbounded queues a good idea for anything ? 
+2	 @ etorreborre That explains a lot .  Googling suggested that support was in 1 . 9 ;  still on Scala 2 . 9 . 3 ,  so I guess Im SOL  :  ( 
+2	 @ etorreborre Uhh ,  I meant :  def f [ A ]  ( a :   =  & gt ;  A )  :  A
+2	 @ etorreborre Politicians ,  and the voting public in general ,  have a tendency not to believe anything they cant see / feel .  Will be our undoing
+2	 @ etorreborre I think my problem stems from a by - name parameter .  In this case ,  def f [ A ]  :  A  =  & gt ;  A
+2	 @ OpheliaDagger  @ Chris _ Telford Remember to take my advice with a pinch of salt  ( figuratively )  .  I could be making it all up . 
+2	 @ OpheliaDagger Similarly ,  your brain has no nerve endings ;  headaches are pain in the lining of your skull . 
+2	 @ OpheliaDagger I believe  " eye - pain "  is actually pain in the eye socket ,  though Im not a doctor . 
+2	Y U NO :  mock . f ( any )  answers identity
+2	Shout - out to the  # mockito support in  # specs2 being confusing as fuck . 
+2	 @ OpheliaDagger Surely itd just be easier to change your password ? 
+2	 @ rontana  @ NetworkString Do you guys have a way of measuring the Scoville rating so you know how hot you managed to grow it ? 
+2	 @ timmorgan Hardly surprising ;  demand has been rising steadily and no new capacity has been added in decades . 
+2	 @ RobAshton The latter is a bit more general and touches on some really cool but mind - bendy stuff . 
+2	 @ RobAshton Theres some pretty awesome talks from RICON that touch on this subject :  
+2	Is Twitter down for anyone else ,  or just me ? 
+2	 @ RobAshton You may be interested in reading about CRDTs of you havent already . 
+2	 " The Sun may or may not be a selection of the best youtube comments " 
+2	 @ sthulb Im not either ,  but I believe the sweet - spot is for the annual deficit to be the same as the annual growth . 
+2	 @ sthulb I believe thats the motivation for the  " austerity "  measures across Europe .  Cutting deficits to a more reasonable level . 
+2	 @ sthulb Supposedly ,  a budget defecit is good for a growing economy .  But that argument ignores the inevitable :  the music will always stop . 
+2	 @ sthulb Whats really quite remarkable is ,  unlike the subprime crash ,  this has been totally manufactured and is easily stopped .  Amazing . 
+2	 @ sthulb BTW ,  I love that HaveYourSay is only available on articles that maximise the opportunity for commenters to showcase their ignorance . 
+2	 @ sthulb As far as I can tell ,  it looks like the UK / Europe wont be hit as hard as most . 
+2	So it seems the single largest holder of US debt is the  " Social Security Trust Fund "  .  The US state pension system . 
+2	 @ sthulb I imagine itll really suck for anyone holding US national debt  ( China ,  Japan )  and anyone holding a lot of US currency . 
+2	Are there any good write - ups on who stands to win / lose the most in the event of a US default ? 
+2	Just cited an episode of The Simpsons as a case study in a discussion about human - computer interaction . 
+2	The ivory tower looks a lot taller from the bottom . 
+2	 @ kellabyte Are you suggesting we should all be committed ? 
+2	 @ computionist I thought Java 1 . 4 was the default  " Run Anywhere "  environ ? 
+2	 @ bigdatadev Im always disappointed by the lack of technical substance on HN .  Yet ,  somehow ,  Im always drawn back . 
+2	Whats the best way to document application configuration ?  Struggling to even find examples that I like . 
+2	 " FP combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics .  "  via  @ xkcd
+2	 .  @ rontana ,  debugging 
+2	Mustve been hard to keep a straight face while writing this :  
+2	 @ wfaler The Go Home Office . 
+2	Idea for  @ github feature :  a filter on the Pull Request list to display only those ready to merge . 
+2	 @ jaykreps Id love to see Raft available as a nice ,  generic library for the JVM . 
+2	 @ viviwongle Start em young ! 
+2	 @ BenNunney  " Please do not take photographs of the airport "  ? 
+2	 @ BenNunney  @ HeathrowAirport If you dont want people taking photos ,  dont build terminals that win design awards . 
+2	 @ choult Polite reminder that the inevitable end of the universe renders all of human endeavour ultimately pointless . 
+2	 @ CraigyD Related :   " I could give a shit "  . 
+2	 @ jessitron Yes :   (  +  1 )   .   (  +  1 )   !  =   (  +  1 )  ;  but  (  +  1 )  is referentially transparent . 
+2	 @ extempore2 To most people ,   " testing "  is about answering  " does this work ?  "  .  Type systems are about answering  " does this break ?  "  . 
+2	OH MY GOD MY EYES :  
+2	 @ sthulbourn All our war money got spent on HS2 . 
+2	Commons vote to stay out of next colossal fuck up for a change .  Perhaps we did learn something from Iraq / Afghanistan / The Empire after all . 
+2	IntelliJs dictionary doesnt know the word  " bijective "  .  Of course not . 
+2	 @ JorgeO Theres a neat trick using Exceptions that enables this :  
+2	 @ RobAshton Haskell ,  which is heavily reliant on symbolic names ,  solved this with Hoogle .  Does Clojure not have something similar ? 
+2	 @ davegardnerisme  @ old _ sound  " I also added the http user to wheel "  ;  this must be a joke ,  right ? 
+2	 @ wfaler Hierarchical management is a product of the industrial revolution .  Doesnt translate well to skilled industries
+2	Realistically ,  I guess thats none of them . 
+2	Next election ,  the least totalitarian party gets my vote . 
+2	 ~  / boost - 1 . 54 . 0 /  $   .  / configure  & amp ;  & amp ;  make  - j  # SWAPPPPPPP
+2	 @ wfaler  @ Kim _ Bruning and yet they dont like it if you ask them where the box office is or when the matinée starts . 
+2	This strategy is the same employed to tackle immigration ;  by making the UK the least welcoming place for immigrants . 
+2	UK gov have an innovative solution to Londons airport capacity problem :  reduce demand by making it least desirable place for connections . 
+2	 @ richardalow Not directly ,  we have to transform the data between Kafka and HDFS ,  so the ingest is custom . 
+2	 @ steveklabnik Are the security concerns really any different from that of a train ? 
+2	 @ Chris _ Telford Actually ,  it doesnt :  
+2	 @ devopstom I think youre forgetting the pressure - suit youd need to survive that kind of pressure . 
+2	Given that the 100 Pa tubes would be the equivalent to the atmosphere at 159 , 000ft ,  oxygen masks probably wouldnt help in emergencies . 
+2	By my calculations ,  the pressure differential for Hyperloop pods / tubes would be 50 times greater than an aircraft at 35 , 000ft . 
+2	Outward - opening gull - wing doors with a pressure differential equivalent to 100 times what you get at 50 , 000ft sounds problematic to me . 
+2	 @ aphyr It probably helps that he did it while most of Europe and Asia were in bed . 
+2	 @ evanphx  @ computionist Better ,  the file / socket handling functions  ( fgets etc .  )  all  * look *  like their C counter - parts .  Anything but . 
+2	 @ mheap  @ choult  @ jacek Idempotency is usually advantageous when it looks like it doesnt matter . 
+2	 @ bigdatadev  @ borntyping I like your style . 
+2	 @ choult  @ borntyping You pass the missions once all the spies have been detected . 
+2	 @ borntyping Given that the objective for the resistance is to locate the spies ,  Id attest that you can simply win the game before it starts
+2	 @ bigdatadev  " End the game before it starts " 
+2	 " Resistance "  Pro Tip :  before the game starts ,  tell someone sitting next to you that you saw their  " spy "  card .  Watch their reaction . 
+2	Popularity and quality are two very different things .  Stop conflating the two . 
+2	 @ dibblego Thats a diverse background right there . 
+2	 @ dibblego  "  [ he ]  specializes in high end open source software development using LAMP ,  Drupal  & amp ;  Node . js .  " 
+2	 @ computionist Hot potato as a consensus algorithm . 
+2	 @ computionist Its OK ,  it doesnt last . 
+2	 @ computionist Mongo ,  15 minutes to integrate ,  a lifetime of sorrow . 
+2	 @ computionist Oh I get it now .  Very amusing . 
+2	 @ computionist Where is the CAP stuff ?  His archive is full of 404 . 
+2	 @ computionist Link ,  so we can play along at home ? 

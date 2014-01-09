@@ -1,0 +1,151 @@
+-1	 @ rcarmo found a replacement ? 
+-1	 @ rcarmo looks like Dashing
+-1	 @ beardscratcher scroll .  .  .  forever ? 
+-1	 @ alsothings didnt know the difference between turbo and rollers
+-1	 @ flaneur you are not your text editor . 
+-1	 @ alsothings more like days off running ,  at night when its cold and Im just being lazy .  .  . 
+-1	bike rollers for exercise ,  any good ?   @ alsothings
+-1	just re - bought  Introduction to Algorithms  -  time to refresh on those trees and complexity
+-1	 @ mistertim fan as well
+-1	 @ gemtriesharder love that record ,  iggy goes berlin
+-1	 @ alsothings all around the world a million cs msc students cry
+-1	 @ netflix releasing map reduce for Clojure 
+-1	 @ mrtazz repetition  # coffeeProbabilities
+-1	arrrrgg regex
+-1	 @ mrtazz actually same probability as picking a different combination
+-1	 @ mistertim learn some scala and hack some algebra
+-1	 @ gemtriesharder great compilation
+-1	 @ jpluscplusm happy birthday ! 
+-1	 @ rosskukulinski  @ dscape ah yes…a tricky one ! 
+-1	How we use metrics at 7digital 
+-1	 @ henryoswald never used looks good ,  any idea on sensu ? 
+-1	I just donated to  # Wikipedia .  Help keep it free !    # keepitfree 
+-1	 @ obfuscurity  @ abestanway  @ Monitorama thanks !  also started a skyline ansible playbook for people wanting to try it .  
+-1	 @ mortice stick to the fruit sorbets for veg
+-1	 @ gemtriesharder went there last week for Rocket From the Crypt .  yuck
+-1	smashed some ansible for skyline 
+-1	 @ jplebre oh really sorry ,  I didn’t go last night and had twitter off .  Only got this !  Hope she’s OK ? 
+-1	 @ tiagomteles actually thought about visiting a few weeks ago but cold / xmas
+-1	 @ tiagomteles will you be in town ? 
+-1	 @ tiagomteles there was worse ,  during Q & amp ; A I grilled them about deployments but cant say the name .  .  . only that I uninstalled the app after
+-1	 @ alsothings  @ samphippen many memes ,  such hack ,  wow ,  very funny
+-1	 @ tiagomteles  .  . and no one hacks AWS
+-1	 @ tiagomteles went to a talk last week ,  they rolled their own encryption and dont use SSL because they dont store credit cards .  .  . 
+-1	 @ tiagomteles with password
+-1	 @ garethr DevOps Coach Certification available now  # FiveWordTechHorrors
+-1	 @ alsothings  @ mrchrisadams  @ tomahawk 
+-1	 @ alsothings  @ mrchrisadams  @ tomahawk unless both APIs share something like echoNest IDs
+-1	 @ alsothings  @ mrchrisadams  @ tomahawk 
+-1	 @ markrendle wish to install mobile app ?   # FiveWordTechHorrors
+-1	 @ MarketCoffeeCo you didnt tag your courier company ! 
+-1	 @ Ben _ Hall I like my weekends off
+-1	 @ smpb did you have a script for that
+-1	 @ lneves  @ rcarmo Ive actually seen that .  .  .  or replace RAID with redundancy / slave / node
+-1	 @ mortice you dont need authorised keys  # FiveWordTechHorrors
+-1	 @ mortice stick to screen ?  I have byobu and mosh looks interesting .  .  . 
+-1	 @ philb0  @ jpluscplusm  @ danrough  @ grahamrhay  @ markunsworth being the moderator of UD allows you to do that ? 
+-1	 @ jpluscplusm  @ philb0  @ danrough  @ grahamrhay  @ markunsworth deleted auto - correct to make sure it failed
+-1	 @ abestanway some goodness about my work with the statsd / graphite / skyline / oculus stack at work 
+-1	 @ MatStace check 
+-1	 @ MatStace you missed yesterdays talk about data and beer ,  brew dog was mentioned . 
+-1	manual curl as full hypothesis  # FiveWordTechHorrors
+-1	 @ benbiddington fish analyser 3 . 0 ,  auto knife 1 . 5 ,  hyper stove 0 . 3 ,  docker
+-1	will be rewritten before production  # FiveWordTechHorrors
+-1	randomly replaced rdbma with nosql  # FiveWordTechHorrors
+-1	 @ ChrisAnnODell also 
+-1	I just published “How we use metrics at 7digital” 
+-1	unlocking three ships  ( Federations and Stealth )  and beating the game on easy ,  nice  @ ftlgame run
+-1	 @ alsothings drinking for science
+-1	 @ AnthonySteele  @ skolima it failed my english as when I first read about it I didn’t know what a ‘gauge’ was
+-1	 @ ChrisAnnODell I had help of course ,  it’s 101 for someone from a design background . 
+-1	 @ ChrisAnnODell you helped more than enough !  I have the slides up and can answer any questions
+-1	also heard  @ alsothings talking about beer and data .  And music afterwards . 
+-1	my talk 
+-1	thanks for coming to  @ DevsInTheDitch  @ 7digital slides uploaded at 
+-1	 @ Adam _  _ Bolton thanks for coming ! 
+-1	 @ skolima well caught ,  I’m too much into it .  well known example for ‘gauge’ metrics as kettles have a ‘water gauge’  ( measure ) 
+-1	 @ alsothings  @ DevsInTheDitch thanks for coming ,  excellent talk ! 
+-1	 @ skolima  @ ling0star I just use google / keep for anything  ( url or note )  and Feedly for RSS
+-1	 @ tef its a London thing ,  no hot water for two weeks here  ( fixed last week ) 
+-1	 @ portedegrange cut and paste horse
+-1	 @ ChrisAnnODell  @ henryoswald also ,  reddit is made of people
+-1	 @ ChrisAnnODell  @ henryoswald dont go to generic subreddits  :  ( 
+-1	 @ mwjacks0n  @ ntcoding  @ Ben _ Hall  @ hibri in a VM that will be very heavy .  .  . 
+-1	 @ mwjacks0n  @ ntcoding  @ Ben _ Hall  @ hibri what do you keep in the VM I only use it as a deploy / build box
+-1	 @ ntcoding  @ mwjacks0n  @ Ben _ Hall  @ hibri use vagrant for home machine with homebrew ,  keep editors on host
+-1	OH  @ highscal  @ netflix is the Cloud Santa Clause ,  dropping software gifts into developer stockings even when its not Xmas
+-1	 @ TonyTo85  @ mwjacks0n  @ markunsworth just stick a cache on it
+-1	 @ markunsworth Im not using it .  .  . just reading up on it .  Dont think its used yet . 
+-1	 @ portedegrange  @ skolima yep I got it ,  sounds good
+-1	 @ markunsworth yes ,  for some shared internal components and for faster locker read access
+-1	 @ skolima  @ portedegrange as in 
+-1	mongo replication 
+-1	 @ philb0 hope third isn’t “cat chopper " 
+-1	 @ portedegrange  @ skolima infinite scroll down websites ? 
+-1	playing  @ ftlgame for my birthday
+-1	 @ ntcoding  @ portedegrange  @ hibri google has dedicate people just to manage the repo and internal tools  ( and time to be spent on it ) 
+-1	 @ flaneur willkommen
+-1	 @ adrianh0001  @ 7digital _ UK amazing record ! 
+-1	 @ aanand I like my code dumb and fast
+-1	 @ ArtemisaShort  @ smpb  @ relva 
+-1	 @ ArtemisaShort  @ smpb  @ relva deste aulas de SO ?  oh my .  .  .  .  era o que ? 
+-1	 @ mortice so .  .  . much .  .  . scrolling
+-1	 @ Knowsis  @ markunsworth nice ! 
+-1	 @ ChrisAnnODell  @ samcrang  @ portedegrange  @ skolima mitra is portuguese for chav .  .  . 
+-1	 @ felix _ cohen  .  .  . its a mega deal .  .  . 
+-1	 @ mcansky  @ yann _ ck I wrote that .  Papertrail will give you a feel for the requirements but it is limited .  Handling capacity is a PITA though . 
+-1	 @ henryoswald whats going on ?  I have no idea what happened
+-1	tonight at  @ skillsmatter some  @ docker and  @ SaltStackInc goodness
+-1	netflix architecture / resilience 
+-1	 @ AnthonySteele no ,  something more recent
+-1	OH the bugfix broke the client
+-1	 @ jpluscplusm at least you didn’t spent 10 pounds like I did .  DO read the comics
+-1	Saturday afternoon doing architectural diagrams .  .  . 
+-1	 @ jpluscplusm the comics were always better but they jumped the shark on the 2nd film ,  lost the whole point  ( toned down ,  dumbed down for kids
+-1	no hot water for a week .  I hate the housing market so much . 
+-1	 @ mokele  @ russss  @ alsothings Same with mentioning age .  Prevent racism and agism . 
+-1	Zabbix + HAProxy goodness 
+-1	 @ aanand more like undelivery companies ,  amirite !  ?  ! 
+-1	Defcon video list 
+-1	 @ mollerstrand time to start buying ?   ( should have done it sooner ) 
+-1	I think Edward Snowden should be  # TIMEPOY 
+-1	 @ mortice so  # agile  # ci  # monitoring
+-1	 @ bnathyuw  @ AnthonySteele the sauce of social
+-1	 @ AnthonySteele  @ bnathyuw beetroots of betrayal  ? 
+-1	 @ AnthonySteele  @ bnathyuw humus of humility ? 
+-1	 @ bnathyuw nachos of doubt ? 
+-1	 @ mortice didnt know you worked at SC or just contracting ? 
+-1	 @ MarketCoffeeCo keep on thinking on buying one of those for coffee and cooking ! 
+-1	 @ jonlives  .  .  . youd have to scroll up ?  strange
+-1	 @ abestanway thanks for sending that !  Interesting . 
+-1	 @ LDNBikeKitchen its best when  @ MarketCoffeeCo is there on weekends . 
+-1	 @ abestanway thinking out loud  :  )  the breath of the histogram would also need to be considered  ( thinking std deviation )  to model the data
+-1	 @ abestanway Makes sense .  A big enough spike would give you the same mean on a histogram ,  wouldnt it ? 
+-1	 @ gregsochanik congratulations ! 
+-1	 @ rcarmo  @ smpb  @ Codebits looking good !  we got some ad hoc stuff for rabbitmq and then screens graphite ,  skyline ,  zabbix .  .  . 
+-1	 @ smpb we use it to show our graphite screens  ( stuck to a monitor on the wall )  but the screens are memory hogs
+-1	 @ smpb shiny ,  what are you doing with it . 
+-1	 @ smpb free rasps for codebits ? 
+-1	 @ abestanway what if the spike comes down ,  how steep or long has the spike to be… 10minutes ?  depends on service ,  but how to optimise .  . 
+-1	 @ mwjacks0n that’s what I was told as well  -  was waiting to find a time to book it . 
+-1	 @ Podgeypoos79 what did you use for it ? 
+-1	tickets booked for Gravity on 3D at BFI IMAX ! 
+-1	 @ lordofmisrule repair men ! 
+-1	‘between 1 and 5pm’ means 5pm doesn’t it ? 
+-1	what it takes to run stack overflow 
+-1	 @ henryoswald sugar mamma
+-1	 @ henryoswald good job ,  start - up paying off  ;  ) 
+-1	Fugazi playing on  @ BBC6Music  ! 
+-1	 @ henryoswald bought a house ?  In London ? 
+-1	 @ portedegrange  @ ChrisAnnODell  @ samcrang oh wow ,  did you make it ? 
+-1	 @ nosuchuser  @ smpb sorting and searching are sort of solved .  .  . 
+-1	gmail account recovery vulnerability 
+-1	 @ por just noticed your photo is in most of  @ soundcloud s engineering pages .  so photogenic ! 
+-1	 @ hibri  @ tonydenyer  @ MatStace  @ henryoswald not too bad then ! 
+-1	 @ tonydenyer  @ MatStace  @ henryoswald  @ hibri automated  :  )   ?  tested ? 
+-1	 @ alsothings market rates ,  culture ,  etc  -  they are all amazing ! 
+-1	crazy recruiters and their copy paste e - mails hiding companies names
+-1	 @ MatStace  @ henryoswald  @ hibri Im guessing the company doesnt have automation or devs dont touch it . 
+-1	 @ henryoswald  @ MatStace  @ hibri curious :  why didnt you spend that time adding a DNS ? 
+-1	 @ henryoswald  @ MatStace  @ hibri thats a lazier DNS sort of .  .  . not close to the problems they will have doing it manually
+-1	smashing some  @ AnsibleWorks with  @ digitalocean

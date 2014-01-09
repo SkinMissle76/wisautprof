@@ -1,0 +1,135 @@
+-0.38	My personalised headlines this am  " UK hit by worst winter storms in more than 20 years "  and  " Coldest recorded temperatures in New England " 
+-0.38	The Netflix Tech Blog :  Introducing PigPen :  Map - Reduce for Clojure 
+-0.38	 @ lucinatse good evening
+-0.38	Blog post :   What I learned from 2 years of data sciencing 
+-0.38	Today is my last day  @ uSwitchEng after 2 years .  Will be leaving a great team . 
+-0.38	Why London homes remain affordable – it is the buyers who change 
+-0.38	 @ thattommyhall you might like this ,  Physics of Personal Income 
+-0.38	 @ sritchie all cascalog wiki pages are now in 
+-0.38	 @ SnowPlowData we were talking about this  @ BudapestBIForum “ @ markhneedham :  series of events in a graph  -  
+-0.38	Gentrification 
+-0.38	 @ aglfarquhar  @ ryangreenhall wow ,  congratulations Alex ! 
+-0.38	 @ markhneedham at uswitch new office 
+-0.38	 @ AnnaPawlicka  @ robinkraft Im on the third floor
+-0.38	 @ neo4j  @ nickjewell Im glad you guys find it useful .  Ill send in a pull request in the next few days
+-0.38	 @ AnnaPawlicka  @ robinkraft  @ otfrom  @ sw1nn  @ fhr sounds good to me ,  what time should I meet you at ODI ?  Its at 65 Clifton St ,  right ? 
+-0.38	 @ AnnaPawlicka  @ robinkraft  @ otfrom  @ sw1nn  @ fhr yea ,  Im in .  Where are you guys coming from ?  Im at London Bridge .  I can meet after 6 . 
+-0.38	 @ sritchie hope you have a good time at  # clojure _ conj
+-0.38	 @ sritchie 
+-0.38	 @ sw1nn we had around 6 attributes
+-0.38	 @ sw1nn had to dig into my git log ,  youre right ,  we used the java batch import for final csv loading
+-0.38	 @ sw1nn csv loads billions but halts server .  cascading tap is ACID - like but is embarrassingly slow .  we used it for dev flow only
+-0.38	 @ surflogic hey Marcin !  it went well .  how was your japan trip ? 
+-0.38	 @ otfrom  @ sw1nn  @ AnnaPawlicka  @ robinkraft  @ fhr Wednesday ? 
+-0.38	 @ robinkraft  @ sw1nn  @ AnnaPawlicka  @ otfrom i cant do tomorrow .  .  . 
+-0.38	 @ sw1nn  @ AnnaPawlicka  @ robinkraft  @ otfrom still hungry from lunch .  Im in . 
+-0.38	 @ robinkraft  @ OReillyMedia Ill be there in 2 minutes
+-0.38	 @ robinkraft hi robin ,  would love to meet you
+-0.38	 @ sw1nn  @ otfrom you guys give me too much credits .  .  .   ( throw VanityOverflowException .  ) 
+-0.38	 @ sritchie  @ otfrom  @ dpetrovics  @ tim _ hornsby congratulation ! 
+-0.38	Made it back smoothly
+-0.38	Forgot to bring my uk residency card on trip .  .  .  Will see if my Canadian passport hold any weight to the border agent at LHR
+-0.38	This landed on my balcony with msg :  Never .  Give .  Up .  My 1st thought :  they could have written that on the balloon . 
+-0.38	 @ ragge changing  -  & gt ; Foo to Foo .  seems to work but too much code to refactor so didnt finish
+-0.38	Losing hair  # Clojure issue 
+-0.38	 # Clojure use design choices and conventions from  @ PrismaticEng 
+-0.38	Staples Buys Personalization Startup Runa 
+-0.38	“ @ InEgo _  :  Congress is now incapable of passing laws without permission from the corporate lobbies  -  -  A . Gore”  & lt ;  
+-0.38	Honda the Power of Dreams Failure :  The Secret to Success :  
+-0.38	 @ yoditstanton  @ flossienet ticket purchased ,  see you there
+-0.38	 @ yoditstanton  @ flossienet i did my biomed .  eng .  research in rehab robotics for stroke patients ,  but ages ago .  what can I do for you ? 
+-0.38	 @ sritchie  @ posco can do  ` git flow feature start foo `  and  ` git flow feature finish foo `  with that to auto start and merge / clear feat branch
+-0.38	 @ sritchie  @ posco git flow ?  
+-0.38	Discussing  # Cascalog abstraction pattern :  right - join - recent query to recompose customer journeys / sequential events 
+-0.38	 @ ClojureWerkz weather  +  cascalog… let me guess  @ climatecorp
+-0.38	Meeting at Trafalgar square ,  behind the blue chicken .  .  .  Really 
+-0.38	Perks of working on a school campus :  the internet is even faster outside 
+-0.38	 @ sritchie  @ fogus tweeted this today :  
+-0.38	 @ mikiobraun do you live in this ?  
+-0.38	 @ sw1nn  @ pingles I think  ( rand )  is  [ 0 . 0 ,  1 . 0 )  .  in any case ,  technically it should be  ( rand - nth  [  : buy  : sell ]  )  but in real life ,   ( repeat  : buy ) 
+-0.38	 @ pingles here you go .   ( if  (  & gt ;   ( rand )  0 . 5 )   : buy  : sell ) 
+-0.38	 [ cascalog  " 1 . 10 . 2 "  ]  
+-0.38	 @ sritchie updating change log and stuff now ,  will finish it tomorrow
+-0.38	 @ sritchie write in 3rd person and youll be all set !  go for it
+-0.38	 @ pingles 
+-0.38	Office :  too much activity / noise ,  max air conditioning .  Quiet Room Across Street :  totally empty and silent but no AC
+-0.38	instance hours on  # aws Elastic mapreduce is negative… does it mean Amazon is paying us to use their service ?   # cloud 
+-0.38	Set expectations and be realistic on what you can offer before signing offer as a data scientist .  
+-0.38	 @ Quantisan  @ alexott _ en  @ annapawlicka nevermind ,  sent pull request
+-0.38	 @ alexott _ en  @ annapawlicka thanks ,  Alex !  I just added a Clojure - specific atom feed for you here :  
+-0.38	 @ pacoid really appreciate that !  should we transfer ownership of that repo to  @ Cascading ?  Im getting too much creds  :  ) 
+-0.38	just bought  @ pacoids book on Enterprise Data Workflow 
+-0.38	clicked on that Amazon link £600 usb key drive via  @ pingles now Ive been seeing that ads for days
+-0.38	 @ sritchie  @ sorenmacbeth I would love to help out .  Im away next weekend but can dive into it after
+-0.38	 @ ifesdjeen  @ codecentric congrats ! 
+-0.38	refactored out  & gt ; 100 lines of my  # Cascalog ETL code ,  that must be like thousands of lines of java / python mapreduce
+-0.38	 @ pingles wrote this back in January :  
+-0.38	 @ ifesdjeen yes
+-0.38	my talk for  # strataconf on turning Big Data into Linked Data 
+-0.38	 @ otfrom  @ misslake talk pages are out 
+-0.38	spent sunday debugging this inter - system msg stream ,  traced source code of every part ,  its this damn little / big endian thing once again
+-0.38	looking for a UX / design consultant to help polishing a map data MVP ,  know anyone pls ?  cc /   @ dancingmango  @ bimms
+-0.38	 @ msaunby  * applaud * 
+-0.38	 @ gappy3000 as seen on TV 
+-0.38	Not happy that my mentee forgot about our meeting and now on a bus with some drunks annoying passengers
+-0.38	 @ natbobc glad I could be of help
+-0.38	 @ siddharthdawara the first one was more of an explosion
+-0.38	 @ markhneedham 
+-0.38	macbook air battery at 0 % …  " Service Battery "  warning is on .  Please dont short circuit and explode on me ! 
+-0.38	 @ sritchie would love to hear about your 262 mile canoe race ,  Ive been canoeing a few times back in Canada ,  so tiring .  .  . 
+-0.38	 @ pingles no ,  you just need more sleep
+-0.38	 @ Quantisan  @ otfrom spoiler 
+-0.38	 @ otfrom cut  # 2 .  very subtle movie ,  I had to google plot explanations like the origamis
+-0.38	just watched Blade Runner 1982 ,  I like it
+-0.38	 @ Quantisan  @ sw1nn i hope thats useful
+-0.38	 @ sw1nn e . g .   ( hfs - wrtseqfile  " my - path "  LongWritable BytesWritable )  to interface with hadoop . io . sequencefile 
+-0.38	 @ msaunby thank you ! 
+-0.38	how are these automated calling bots legal in the UK ?  You cant opt - out and no option to say Im not even the person theyre looking for
+-0.38	 @ mikera  @ edmundjackson FPDay CfP is due today ,  I just thought of talking  " Lispy matrices "  on clatrix ,  are you guys submitting anything ? 
+-0.38	 @ thattommyhall  @ sw1nn  @ markhneedham 
+-0.38	In Head - Hunting ,  Big Data May Not Be Such a Big Deal 
+-0.38	 @ sw1nn  @ markhneedham same here on firefox ,  21 . 5 vs 20 . 5
+-0.38	 @ markhneedham ip address ?  mac address ?  I read the paper some time ago ,  they can go quite deep beyond the browser
+-0.38	 @ markhneedham have you tried this entropy test ?  
+-0.38	 @ sritchie I looked at cascalog _ two branch and dont know where to dive in .  if theres anything that I can help with please let me know
+-0.38	the point of a getting started guide is to get you up and running in 5 min .  ,  Im not here to read a thesis
+-0.38	 @ siddharthdawara youre strong ,  i lasted 3 days on emacs
+-0.38	just booked eurostar  +  2 nights to Paris next month for £165 !  been in London 2 years now still havent been there
+-0.38	 @ fasihsignal 
+-0.38	 @ bearishtrader  @ cj _ forex cheers !   :  ) 
+-0.38	 @ MichaelDrogalis give the forum a try ?  I recall seeing someone using a similar setup
+-0.38	 @ MichaelDrogalis what problem are you having with cascalog and hdfs ? 
+-0.38	 @ fasihsignal  @ mikiobraun just calling that static method in repl isnt working ? 
+-0.38	 @ Tybalt _ Trust its a balance between usability and flexibility
+-0.38	 @ Tybalt _ Trust just keep it simple ,  if mql4 can do what you want then go for it
+-0.38	 @ fasihsignal  @ mikiobraun try the clojure lib on jblas 
+-0.38	 @ Tybalt _ Trust i still work on it on and off .  its on a 3rd generation now .  check this post :  
+-0.38	 " we’re living through the end of a generational bull market in bonds "  
+-0.38	 @ bayankhalili I see it on my safari too… its not loading the background image .  thanks ! 
+-0.38	 @ bayankhalili  @ nathanmarz what browser are you on ?  I cant reproduce the problem on firefox… you mean on the main page ? 
+-0.38	 @ bobpoekert  @ nathanmarz good idea ,  could you add it as an issue to 
+-0.38	“ @ nathanmarz :  Great new Cascalog documentation site put together by  @ Quantisan 
+-0.38	 @ alexott _ en  ( swap !  dates happy  : birthday ) 
+-0.38	 @ jonromero thanks ,  glad you liked them
+-0.38	 @ jonromero are you building something similar too ? 
+-0.38	 @ jonromero its decoupled by design for simplicity .  distributed is a side effect .  no ,  havent deployed erlang in a production sys
+-0.38	 @ markhneedham I see that you have some already and I missed them
+-0.38	 @ markhneedham thanks !  I replied to you too just now .  When can we start seeing some neo4j magic on your blog ?   :  ) 
+-0.38	Concurrent is building a Hadoop assembly line in open source 
+-0.38	 @ ds _ ldn thanks Carlos ! 
+-0.38	Blog post :   Event - driven finite state machine for a distributed trading system 
+-0.38	 @ siddharthdawara  :  ) 
+-0.38	 @ markhneedham not me ,  i dont know if she uses twitter
+-0.38	Blog post :   Post gone viral ,  16000 visitors in a day ,  how many actually read the article ?  
+-0.38	 @ mappingbabel my email is paul @ quantisan . com ,  not sure if I can be of much help though
+-0.38	 @ rahulpathak thanks for taking the time to letting me know
+-0.38	 @ Werner thank you for the reference
+-0.38	Blog post :   How a few screws cost  $ 2000 and a 240GB multinodes cluster cost  $ 50 
+-0.38	 @ Quantisan  @ ifesdjeen  @ otfrom I gave you guys commit access to the doc site
+-0.38	 @ ifesdjeen  @ otfrom  # cascalog
+-0.38	“ @ Quantisan :  finally added  @ uswitchuk to the  # Cascalog users page ,   # clojure in production  / cc  @ michael _ jones”  & lt ;  
+-0.38	finally added  @ uswitchuk to the  # Cascalog users page ,   # clojure in production  / cc  @ michael _ jones
+-0.38	 @ otfrom thanks !  wiki or jekyll ? 
+-0.38	Blog post :   What should I work on next for Cascalog ?  
+-0.38	Blog post :   Securing a fresh Ubuntu server with Fabric tasks 
+-0.38	Worldwide Probe Highlights Soft Targets for Hackers 

@@ -72,7 +72,7 @@ LOCATIONS_TABLE = {
     47 : "Worcestershire"
 }
 # country -> id
-LOCATIONS_TABLE_INVERTED = {v:k for k, v in LOCATIONS_TABLE.items()}
+#LOCATIONS_TABLE_INVERTED = {v:k for k, v in LOCATIONS_TABLE.items()}
 
 
 EDUCATION_TABLE = {

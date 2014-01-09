@@ -1,0 +1,67 @@
+-0.44	 @ laazyj  @ MyGetTeam VS restart hasnt helped me ,  either . 
+-0.44	 @ laazyj  @ MyGetTeam Yep  -  according to Fiddler2 ,   its exactly the same for me ,  too  -  no Auth info appears to be sent . 
+-0.44	 @ laazyj  @ MyGetTeam Heres an fiddler trace of a 401 Unauthorized when accessing a myget hosted feed via studio :  
+-0.44	 @ anton _ sutton 
+-0.44	 @ ventongimps  @ kjwhite82  @ JohnGlendon  @ ChrisTaylor  @ efeek Unfortunately ,  no can do  -  I have plans this weekend
+-0.44	Kickstarter project for updating the database migraitons for django 1 . 6 / 1 . 7 :  
+-0.44	 @ JohnGlendon lucky you .  .  .  Im stuck with trains .   .  .  .  They are useless ! 
+-0.44	 @ JohnGlendon  how are you getting to work with all the snow ?   Hope is not been too much of a hassle .  .  .  . 
+-0.44	 @ JohnGlendon  hope getting into work wasnt too bad for you today ! 
+-0.44	 @ MyGetTeam Ive got  a problem where a feed isnt updating its versions with pushed and accepted nugets .  Can anyone help ? 
+-0.44	 @ JohnGlendon very apt ! 
+-0.44	 @ JohnGlendon  @ kjwhite82 poor cat .   Has she been fighting with bubble or another cat ? 
+-0.44	 @ JohnGlendon  @ kjwhite82 oh no .  .  .  poor kitty .  Is she ok ? 
+-0.44	 @ kjwhite82  @ JohnGlendon He doesnt change ,  Kev !  !  !  Glad youre okay mate .  .  hope life at JLT is better than it was
+-0.44	 @ kjwhite82 Life is going well ,  thanks mate .   Working with JG isnt too bad ,   the crazy can be ignored .  Hows life with you ? 
+-0.44	 @ kjwhite82 You have a good weekend too ,  mate . 
+-0.44	 @ kjwhite82 The new place is good so far  -  Im currently immersed in a 
+-0.44	 @ kjwhite82 Just my P45 and all the termination stuff hasnt arrived yet .  .  .   Man ,   they cant even get people leaving right !  ! 
+-0.44	 @ kjwhite82 Is JW in the office at all ? 
+-0.44	 .  .  .  my last day at JLT Online .  .  and I cant wait for it to be over ! 
+-0.44	 @ JohnGlendon I hear its a common deployment for you  :  ) 
+-0.44	 @ JohnGlendon Gladly ! 
+-0.44	 @ ventongimps cheers .  .  .  and not really .  .  at least JGs insanity is predictable and logical ! 
+-0.44	Bye bye ,  Jlt !  Time to move on to pastures new .  Exciting times  :  -  ) 
+-0.44	 @ ventongimps I have a job spec on my desk here for Team Leader at Focus Business Solutions !  !  !  ! 
+-0.44	 @ ChrisTaylor Makes me glad that Ive not applied them yet .   Surely you need to get yourself a nice MacBook Pro with Retina display ? 
+-0.44	 @ ventongimps  @ JohnGlendon dont worry .  .  .  Itll soon go down to one after . the ridiculous 1 on 1 I had on Friday .  .  .  .  . 
+-0.44	 @ ventongimps  @ johnglendon He does eat all the pies .  .  .  .  .  . 
+-0.44	 @ JohnGlendon  @ ventongimps By that he means they are going to water board him  .  .  .  .   :  ) 
+-0.44	 @ ventongimps  @ JohnGlendon DM  & gt ;  & gt ;   @ JohnGlendon
+-0.44	 @ ventongimps  @ JohnGlendon Nice !   Did he bring you up to speed in the latest constructor techniques ? 
+-0.44	 @ ventongimps Im fuller than a full thing at a filling competition ! 
+-0.44	 @ ventongimps Well ,  it turns out I did get a Belly Buster .  .  .  they gave me the wrong thing  :  ) 
+-0.44	 @ ventongimps Wow ,   thats desperation .  .  .  . 
+-0.44	 @ ventongimps I may have the full english rather than the Belly Buster .  .  .  Im not Im that hungry  !   Hope you are having a nice day of r  & amp ;  r ! 
+-0.44	 @ Ferrett1978 You are too nice to me  :  )   :  ) 
+-0.44	Yay !  I got my new  @ Raspberry _ Pi on order from RS .  Only 9 weeks to wait ! 
+-0.44	 @ ventongimps Look on the bright side  -  at least you werent rudely told to shut up .   :  ) 
+-0.44	 @ JohnGlendon  @ christaylor  @ ventongimps Erm ,   no .  .  Almost only counts in games of horseshoes and fireballs .  .  .  .  . 
+-0.44	 @ ChrisTaylor  @ ventongimps I think pigs will fly first .  .  .  .  .  . 
+-0.44	 @ Runniff I hear congratulations are in order ! 
+-0.44	 @ ventongimps  @ JohnGlendon well ,  Im not in until Monday  so .  .  .  .  .   :  -  ) 
+-0.44	 @ ventongimps  @ JohnGlendon congrats ,   Andy .  Bet you cant wait  :  -  ) 
+-0.44	 @ JohnGlendon how did the interview go yesterday btw ? 
+-0.44	 @ Runniff Thanks ,  Steve .   It does look gorgeous  :  ) 
+-0.44	 @ anton _ sutton Thanks .  It took long enough to get ,  but its a monster  :  ) 
+-0.44	finally on two wheels again : Yaay ! 
+-0.44	15 minute queue for tickets for the train and still no ticket .  .  .  .  Stupidity ! 
+-0.44	 @ JohnGlendon Well ,  youre definitely a leg - end .  .  .  .  .   :  ) 
+-0.44	Im somewhat sunburnt ,  in March .  .  .  .  I hope it doesnt turn into sunstroke ! 
+-0.44	 @ anton _ sutton  @ mattberryman Saw that this morning via Hacker News .   What a great set of wrappers ! 
+-0.44	 @ ventongimps Its not just you .  .  I find him to be a complete tool too .  . 
+-0.44	Always have your stuff when you need it with  @ Dropbox .  2GB account is free !  
+-0.44	 @ ventongimps  @ johnglendon Get well soon mate . 
+-0.44	Argh ,   manufacturing and part sourcing issues with the raspberry pi :  
+-0.44	 @ anton _ sutton Thats the exact reason I want two .  .  .  one for a video player  and one to hack ! 
+-0.44	 @ anton _ sutton  @ Raspberry _ Pi Those things are great .  .  .  I hope you have fun with it .  .  Im planning on getting one too .  .    :  ) 
+-0.44	
+-0.44	 @ ventongimps thanks !  Its turning into a great start .  .  .  .  I left work to find I had a puncture last night .  .  .  Typical ! 
+-0.44	 @ JohnGlendon Theyd be  ( un ) lucky to  " have "  you .  .  .  . 
+-0.44	 @ ventongimps  Im used to Antz pain now .  .  .  I think I am immune ! 
+-0.44	 @ ventongimps Just about to .  .  .  then I need to go thru the other tickets and ensure they are fixed too .  .   Hope you are having a nice day off ! 
+-0.44	 @ Runiff That IPod backup program was called SharePod  ( 
+-0.44	 @ ventongimps congrats mate .  Hope baby and mother are both fine ! 
+-0.44	Cheap Android Phone with these specs ?   
+-0.44	Petition to stop the benefits of rioters :  
+-0.44	 @ JohnGlendon ,   @ ventongimps ,   @ ChrisTaylor moo  :  ) 

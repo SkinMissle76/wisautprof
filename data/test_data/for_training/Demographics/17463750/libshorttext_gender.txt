@@ -1,0 +1,134 @@
+-1	 @ markrglover  ( probably a bit late for 2012 - 13 ,  but theyre just adding SA submission too .  Could be handy next year ) 
+-1	 @ markrglover Strongly recommend  @ freeagent to take away most of these headaches .  
+-1	Thanks  @ r1ckp .  Ill try it with my usual gem stack  ( 
+-1	Getting to grips with  # nginx ,   # unicorn  & amp ;   # god for  # rails apps .  Might make the leap from the comfort of apache + passenger…  # someday
+-1	 @ markrglover Good plan !  Enjoying range of  # teas today :  Strong Assam to start  & amp ;  light Ceylon mid - morning… . 
+-1	 @ danielsgroves Pushed some more updates to the sprinkle - cookbook today .  Dev essentials package  +  MySQL improvements :  
+-1	 @ fastchicken Thanks Nic ! 
+-1	 @ danielsgroves No worries ,  here it is !  
+-1	 @ GeoffreyMarles Likewise .  Definitely be good to chat over apps .  Give me a shout when youre next heading to  # Plymouth
+-1	 @ codebase Will do ,  thanks ! 
+-1	 @ markrglover All good thanks .  Been solid on projects  & amp ;  recently became a  ( new !  )  Dad .  Drinking lots of  # tea to keep me going ! 
+-1	Happy New Year  # 2014
+-1	A free and open world depends on a free and open web :  
+-1	 @ GeoffreyMarles Hi Geoff ,  just spotted your email  :  )  Next Friday PM would be good . 
+-1	 @ codebase Any plans to add inline task lists for in tickets ?  Would be very handy for tracking ticket tasks !   ( as in 
+-1	 # Nexus4 :  Looks like Google Play is the only way to buy off - contract .  Carphone Warehouse refusing to sell SIM - Free whilst stocks are low . 
+-1	Impressed by 
+-1	 @ gonzopancho Hi Jim ,  sorry for delay  -  I just found your tweet .  Ive got a copy of my old OBEX example project here 
+-1	 @ digpenSW Thanks ,  sounds good  :  ) 
+-1	 @ danielsgroves  # ruby static ruby site generators :  
+-1	
+-1	Fitted a new tap yesterday .  Woke up this morning ,  kitchen not flooded .  Relief .   # GoodTimes  # wontgiveupdayjob
+-1	Colourful  # Plymouth sunrise 
+-1	 @ danbee Bad times … but perfectly expressed
+-1	Exception tracking a really useful  ( and simple to use )  addition to  @ codebase .  Great work ! 
+-1	Looking at a long list of draft posts in my blog .  Mostly short Android / Rails tutorials .  I really should finish up  & amp ;  hit Publish .   # blogguilt
+-1	Discovered action _ on _ unpermitted _ parameters  =   : raise via  @ haironfire907 .  Will save hours fixing silent fails 
+-1	Glad to hear  @ RichardMourton finally signed up and is now loving  @ freeagent ! 
+-1	 @ danielsgroves Just updating it now for new Sprinkle + Vagrant combo… . 
+-1	 @ chrisoshea .  .  .  but I did discover  @ ProfBrianCox s excellent  # WondersOfLife on iPlayer at 3am though  # EveryCloud .  .  . 
+-1	 @ doktahahpah Thanks Michael ,  I shall take a look !  Great blog by the way ,  your post on command line Android builds for CI is really helpful . 
+-1	 @ digitalocean Will do ,  thanks ! 
+-1	Hey  @ digpenSW ,  what time does the DigPen V start on 29 Sep ? 
+-1	 @ chrisoshea know how you feel .  Our bundle of energy just stays up until 5am instead .  .  . 
+-1	 @ samsunguk Believe so .  I went through the USB install and the TV said no updates found on the USB disk nor online .  Lovefilm app is at v1 . 140
+-1	Carphone Warehouse now selling  # Nexus4 SIM free ,  but priced at £110 more than Google Play… 
+-1	 @ roanlavery Sounds exciting !  How can I apply to be a  @ freeagent beta tester ? 
+-1	Opted to go with  # Rails4 for a new project .  Excellent results so far .  Updated standard Gemfile  ( gist )  :  
+-1	Red Bull Stratos  -  freefall from the edge of space :  
+-1	 @ cblunt  @ teapigs Im sure a Matcha tea would also improve my hashtag spelling  # matchamonday
+-1	Counting down the final hours of an incredible year .  Wishing everyone a very Happy New Year and all the best for 2013 .  
+-1	Just spotted this in  @ codebase markup help :   " Use  *   [   ]  for tasks and  *   [ x ]  for completed tasks .  Very handy addition ,  thanks guys . 
+-1	 # App design workflow :  Thumbnail sketches .  Next ,  full - page wireframes  & amp ;  mockup app with 
+-1	 .  .  . all my posts today should be prefixed with  # WednesdayRant .  Clearly not had enough tea . 
+-1	Office building did not fare well with Xmas weather .   + 1 for running  @ plymsoftware in the cloud  # remote
+-1	A day of  # Android ,  using the Volley lib for RESTful APIs  ( excellent )   & amp ;  learning Gradle  ( struggled ,  had hoped for Bundler - style simplicity .  .  ) 
+-1	 @ LOVEFiLM Thanks ,  I checked firmware and its up to date .  I couldnt DM you ,  so have submitted a query referencing this tweet via your site . 
+-1	 @ markrglover Ah !  Sorry ,  hadnt realised !  Moved permanently from the sunny  # Plymouth shores ? 
+-1	 [ New Post ]  Rails 3 :  Storing Model Metadata Attributes with ActiveRecord :  : Store 
+-1	 @ freeagent File uploads are great…A really handy option would be associating uploads with a project .  e . g .  P / Os ,  specs ,  etc .   # suggestion
+-1	Currently addicted to chai  # tea . 
+-1	 # Gmail has a slightly different Favicon today…new release ? …  ( or just time to change my contact lenses !  ?  ) 
+-1	Congratulations  @ TomDaley1994 ,  edge of seat ,  awesome stuff ! 
+-1	Getting to grips with Google Cloud Messaging .   # Android
+-1	 @ gonzopancho  .  .  . its really old code  -  Im not sure itll even compile now  -  but hope it helps you out ! 
+-1	 @ overheardatmoo Thats great ,  thanks .  Ill get in touch with them .  Looking forward to getting some nice new Luxe cards in the post  :  ) 
+-1	 # Sprinkles looks like a great database helper library for  # Android :  
+-1	 # Tea is flowing in the office this morning ,  but have run out of  # companybiscuits .  Not good . 
+-1	You know youre back in  # Devon when you drive under a motorway footbridge that has a herd of cows crossing over .  .  . Missed photo op though ! 
+-1	 @ markrglover You can never go wrong with a good English Breakfast  # tea  :  ) 
+-1	 @ TalkingQuickly Even at this early stage ,  your book has finally demystified  # chef for me .  Thank you !  
+-1	 @ markrglover Thanks  :  )  Trying my best to balance…Ill tentatively say that it seems to be going OK…
+-1	 @ markrglover I cross post between  @ plymsoftware and  @ cblunt for business .  Personal twitter is reserved for my ramblings  :  ) 
+-1	 @ danbee Definitely have to meet for a brew ,  will ping you on Google .  Have a safe trip down ! 
+-1	If media keeps bashing private firms for legally reducing tax liability ,  business will surely start to look outside UK 
+-1	How did I ever use my laptop before SSD ?  !  Insanely fast . 
+-1	 @ danielsgroves Excellent work !  Signed up . 
+-1	Excellent idea :  RT  @ plymnews :  What would you do with this ,  and other ,   # Plymouth landmarks ?  
+-1	Excellent work !  RT  @ freeagent :  Good news everyone !  You can now create multi - currency expenses in FreeAgent :  
+-1	Heading into  # Plymouth to meet Mr  @ ADJinman after a marathon  # Android debug session .  Strong brew required to clear the head of logcat traces
+-1	Getting a file from phone to laptop without Dropbox etc .  is nigh on impossible .  USB / BT / WiFi all fail .  Its 2012 ,  why is this still the case ? 
+-1	Trying out  # Google  # Keep .  Nice fast Android app ,  could convert from Evernote .  .  . if only one of them would add note reminders / notifications . 
+-1	 @ fastchicken not quite ,  but close .  Some UI tidy up  & amp ;  stability improvements .  More efficient sync engine on the roadmap but probably for v1 . 1
+-1	Being a tourist  # London 
+-1	Just spotted the new nested lists in Docs .  I can finally move all document editing online .  Thanks  @ googledrive !  
+-1	Slightly concerned that  @ Lookout for  # Android is blocking my own blog  (  WordPress ) 
+-1	 @ samsunguk UE40ES6710  @ lovefilm app hasnt worked since day 1 .  App crashes after 2 - 3 seconds .  Done usual reset procedures .  Can you help ? 
+-1	 @ danbee Refusing to pay tax bill is different to reducing tax liability .  Theres just a worrying culture of business bashing at the moment . 
+-1	 @ zigojacko No worries ,  glad to help  :  )  Hows it going this week working with  # git ? 
+-1	 @ boxelboy Spotted this the other day .  Sad times  :  ( 
+-1	 @ fastchicken Thanks for spreading the word about  # ExpenseAgent for  # Android .  Appreciated it !  
+-1	Well worth a few minutes of your day to read :  
+-1	 @ gupster yep ,  a nice few days thanks .  Ticked off some more tourist tasks on the list .  .  .  Back to  # Plymouth today . 
+-1	So close…  # programming  # ruby  # rails  # coverage 
+-1	Booked tickets for this years  @ explayuk festival .  Looking forward to a great couple of days in  # Bath .  Tempted to head up to  @ BritRuby too . 
+-1	iTunes Connect doesnt store a simple count of app downloads .  Thought this was a joke to begin with… 
+-1	 @ gupster Unfortunately so .  .  . Wind damaged roof  & amp ;  the rain got in .   @ TamarSPark have been very helpful setting up temp workspaces for us though
+-1	Breakfast meet - up for local  # ruby /  # rails devs after Xmas :  
+-1	 @ samsunguk Thanks ,  Ive checked firmware and tried reinstalling ,  but it is up to date  ( version 1023 )  .  but still no luck . 
+-1	Thanks  @ teapigs  -  looking forward to sampling a Matcha  # tea .  .  . 
+-1	Loving  @ evernote reminders on  # android beta  ( 
+-1	Powering through  # iOS dev with the pomodoro technique using Pomodroido on  # Android .  Id forgotten how effective it is  ( this is break time  :  ) 
+-1	Thoughts and Goals for 2013 :  
+-1	Public / DM tweet  # fail
+-1	Cool idea :  
+-1	 @ LOVEFiLM Thanks ! 
+-1	Thanks  @ freeagent !  Glad to help out  :  )  Loving the custom - branded  # Moleskine !  
+-1	Hey  @ digitalocean hit enter too early when adding card info and missed adding my promo code .  Is there somewhere I can add it to my account ? 
+-1	 @ WiredSoftware Hi Peter ,  if youre still giving away your ruby books ,   @ danielsgroves may be interested ? 
+-1	…if you havent tried it yet ,  download the preview at 
+-1	Excellent move by  @ Google building  # AndroidStudio on IDEA .  Using the CE for the past few months has been great for my dev workflow . 
+-1	Perhaps the excuse I need to finally abandon self hosting and try  @ Medium . 
+-1	Updated Twitter app for  # Android has a very slick new  # Holo UI :  
+-1	Great chat this morning with  @ napproman  on business and  # Android code geekery . 
+-1	 @ markrglover Ill let you know when next in town ,  perhaps meet for a brew .  Client work keeping me busy ,  but no excuse to neglect my blog  :  ) 
+-1	Quite concerned by just how many  " Thank you for your order "  emails Amazon have sent me this month .  Time to turn off 1 - click ordering . 
+-1	Thanks  @ flinto .  Do you have any plans for compatibility with  # Android ?  Viewing in Chrome shows a scaled - down desktop view at the moment . 
+-1	Exciting news coming out of  # googleio  # Android keynote .  New IDE ,  new Google Play Services ,  and big improvements to Dev Console . 
+-1	Free £2 Voucher for Amazon MP3 
+-1	 @ overheardatmoo Tried the promo code I received from newsletter signup ,  but it expired :  (  Any promos on for existing customers ?  # mustbequicker
+-1	About to have another go trying out  # gradle by converting ExpenseManager .  Hope to get separate configs for dev / beta builds   # Android
+-1	 [ New Post ]  Android :  Getting Started with Databases and ContentProviders Part 1 
+-1	Fire alarm test went off just as I clicked a button on an in - development web app .   # MomentaryPanic . 
+-1	A couple of my early  # Android tutorials have been published in a great new ebook bundle from  @ smashingmag :  
+-1	 @ streakcrm could be the missing app Ive been looking for to track leads inside Gmail .  Friday morning testing ensues .  .  .  
+-1	A day of tracing and debugging memory leaks lies ahead .  First things first ,  kettle on .   # Android  # tea
+-1	 @ danielsgroves Thanks Dan ,  will take a look ! 
+-1	 @ danbee Did you not get hangout ping this morning .  .  .  ?  No reply so assumed you were busy mate !   # techfail
+-1	 @ danbee Ah .  .  .  Lunchtime sounds good ,  Ill text you  ( wont use hangouts !  ) 
+-1	Fast and super - helpful service from  @ overheardatmoo !  Luxe cards are ordered !  Thanks  :  )  
+-1	 # Tea - flavoured cakes .  Can only be a good thing . 
+-1	New Ubuntu Phone looks stunning :  
+-1	Setting up a for a new web app project… Should I go with the newly - released  # Rails4 or stick with 3 . 2 for now ? 
+-1	At last !   @ evernote :  The most requested Evernote feature is here :  Reminders for your notes !  
+-1	Morning brew before taking the little one to see her favourite turtle at  @ NMAPlymouth 
+-1	 @ teapigs I still need to try Matcha tea ,  but like the idea of a Matcha shot in the morning  # matchmonday  # tea
+-1	 @ TrueJanner just spotted your tweet !  Ill let you know when the Matcha arrives  # tea
+-1	Todays big task :  Mapping legacy database to new schema .   # ruby  # hopethereisagemforthis
+-1	A bit late to the party !  ?  Just made my first  # mobile payment .  Quick ,  easy and a thinner wallet . 
+-1	 @ markrglover There is a patch of blue sky visible from the office window .  .  I admit its surrounded by thick grey cloud ,  but… :  ) 
+-1	 @ markrglover I like your thinking . 
+-1	 @ danbee Most of the untested files are configuration / initialisers .  I could add them to the ignore list .  .  . 
+-1	 @ markrglover …Its been far too long since I posted to my blog though  :  ( 
+-1	Hi  @ samsunguk ,   @ LOVEFiLM think my TV needs 1025 firmware to work ,  but I cant find this for the ES6710 .  Is there a download link ? 

@@ -1,0 +1,191 @@
+3	Se escucho un ruido fuerte por Judibana .  Otra explosion en la refineria Amuay ?   # puntofijo  # refineria  # explosion  # pdvsa
+3	Best practices for building a great UI  /  UX  -  
+3	RT  @ benheymink  @ resharper :  Webinar with  @ jonskeet is now available as a recording on JetBrains TV :  
+3	Damn Cool Algorithms :  Spatial indexing with Quadtrees and Hilbert Curves  -  
+3	Machine Learning Video Library  -  Learning From Data  ( Abu - Mostafa ,  CalTech )  
+3	How to Keep Your Startup from Flaming Out in its First Year 
+3	 " The popular image of the visionary is someone with a clear view of the future ,  but empirically it may be better to have a blurry one . ”  -  PG
+3	3 Key Software Principles You Must Understand  -  
+3	10 ways to improve your programming skills — 
+3	The care and feeding of software engineers  ( or ,  why engineers are grumpy )   -  
+3	Sorting 1 million 8 digit numbers in 1MB of RAM  -  Stack Overflow 
+3	7 Dos and Donts for Founders • 
+3	The UTF - 8 Everywhere Manifesto  -  
+3	 @ jkraybill Me too !  I really think more people should be getting exposed to those C +  +  conventions
+3	This is what a YC interview is actually like  -  
+3	Being deaf  -   [  # startups  # experience  # inspirational ] 
+3	Microsoft  # Surface .  Coming Soon .  
+3	How Companies Can Beef Up Password Security — 
+3	Hidden Features of C #   -  
+3	Super - star programmers :  Difference engine ,  Wired for speed  -  
+3	A billion dollar software tech company is founded every 3 months in U . S .   -  
+3	Time ,  technology and leaping seconds  |  Official Google Blog 
+3	Meet the tireless entrepreneur who squatted at AOL  -  
+3	UK anti - encryption law ,  pretty scary stuff .  .  .   -  
+3	A free and open world depends on a free and open web .  And a free and open web depends on me .  
+3	Avoiding Depression While Not Running a  $ 1B Company  [  # Startup ]   -  
+3	A Visual Git Reference  -  
+3	 @ benheymink Nice one !  Thanks for the share dude !  Hopefully mine will not get down - voted to hell  :  ) 
+3	 @ benheymink Id say go for the Nikon based on my bias .  That said ,  focus on the features / lens options .  Have you considered a 4 / 3 camera ? 
+3	Logout before you burnout  :  
+3	 @ founding Right .  .  .  just like Wikipedia is .  .  . 
+3	7 Lessons from Dan Porter And OMGPOP  -  Business Insider 
+3	How to Get Startup Ideas  -   # YCombinator Paul Graham  -  
+3	How Googles Marissa Mayer Prevents Burnout ,  even after working a 130hr week  -  
+3	25 Entrepreneurs Tell What They Wish They’d Known before Founding Their First Startup  -  
+3	Why Im Doing It All Wrong  -  
+3	shortcutFoo ,  A fast and effective way to learn shortcuts for your code editor -  
+3	Heres What You Have To Do To Be Bought By Google  -  Business Insider 
+3	The worlds first HTML5 SIP client  -  
+3	Changing Times For Web Developers – 6 Tips You Should Read To Survive  -  
+3	A few things to remember while coding in Python .  
+3	This Is All Your App Is :  a Collection of Tiny Details  -   CodingHorror  -  
+3	 @ EntreFirst Normally weekends people tend to be more available .  But no biggie ,  Ill catch the next one . 
+3	Big Data University ,  Hadoop and DB courses .  
+3	RT  @ Inc :  5 ways to validate your  # startup idea 
+3	Some good advices about OO principles  -  
+3	What Do You Do After You Make a Zillion Dollars  -  
+3	Apparently you can hijack an airliner with an Android phone .  Just great .  .  .    -   
+3	PAL - V  |  Flying Car  -  
+3	 @ elmargasimov Ooohh noooo .  .  .  my eyes just exploded to prevent me from continuing to read those lyrics
+3	Startups :  Bands for Hackers  -  
+3	The Big Badass List of Twitter Bootstrap Resources  -  
+3	C +  +  Memory Leak Finder  -  
+3	Python 3 Q  & amp ;  A — with Nick Coghlans  -  
+3	 " A Perfect and Beautiful Machine "  :  What Darwins Theory of Evolution Reveals About Artificial Intelligence  -  
+3	WOW ,  just wow !  !    -   Visual Simulation of a CPU at work  -  
+3	C / C +  +  to Assembly visualisation  -  
+3	Why Postgres Part 2  -  Craig Kerstiens 
+3	Built to Fail :  How companies like Google ,  IDEO ,  and 37signals build failure - tolerant systems for anything !   -  
+3	How to explore and develop a business idea  -  
+3	Coda 2 is out  ( almost )  !   [  # developers ]   -  
+3	Eleven Compelling Startup Pitch Archetypes  ( YC companies )   -  
+3	Why a start - up ?   -  
+3	The Go Programming Language videos from Google I / O 2012  -  
+3	Functional Programming in Python  -  
+3	Got 15 minutes and want to learn Git ?   -  
+3	“You only get one chance to be a beginner . ” – 
+3	Read This Before Naming Your  # Startup  -  
+3	 @ benheymink Thanks buddy !   ;  ) 
+3	ηReduce  -  & gt ;  an alliance of hackers  
+3	INCREDIBOX  -  DIY music for programmers  -  
+3	 - 2000 Lines Of Code 
+3	Winners Of The One - Sentence Pitch Competition  -  
+3	A breakthrough in speech recognition with Deep - Neural - Network approach  -   # Microsoft  -  
+3	RT  @ BiologistJohn :   # phdchat The Value of Data Visualization  ( A fun quick YouTube video )  
+3	Some great programming challenges I stumbled across  -  
+3	The  # YCombinator startup library  -  
+3	Looking back :  An IBM Job description for programmers ,  dated May 1959  -  
+3	How can a time function exist in functional programming ?   [ Stack Overflow ]   -  
+3	Innovation teams don’t work ,  innovation is everyone’s job !   -  
+3	Why Silicon Valley Tech Wunderkinds Overestimate Their Own Smarts And Abilities  -  
+3	Espionage virus sent blueprints to China  -  
+3	Visual representation of several sorting algorithms  -  
+3	The theory behind covariance and contravariance in C #   -  
+3	 " Dont ignore your dreams ;  dont work too much ;  say what you think ;  cultivate friendships ;  be happy .  "  by  @ paulg
+3	What every programmer should know about security 
+3	Paul Graham ,  The Top of My Todo List  -  
+3	Learnable Programming  -  
+3	Bootstrapped ,  Profitable ,   &  Proud :  GitHub  -   ( 37signals )  
+3	Petition to call the International Community to urge that a full recount of votes be done in Venezuelan elections 
+3	Why are you quitting ?   " Because They Have Bigger Monitors "   -  
+3	Damn Cool Algorithms :  Levenshtein Automata  -  
+3	The Psychology of Color  -  
+3	Build your own summary tool !   |  The Tokenizer  -  
+3	 @ projectglass Dreams get you into the future and add excitement to the present .   # ifihadglass
+3	Welcome to Life  -  
+3	BBC News  -  Flame malware makers send suicide code 
+3	Identity at Mozilla  -  
+3	RT  @ emilugo :  PARO NACIONAL DE ESTUDIANTES ,  SI LOS PROFESORES SE PARAN POR EL SUELDO ,  NOSOTROS LO HAREMOS POR NUESTRO FUTURO ! 
+3	Transatlantic ping faster than sending a pixel to the screen ?   -  Super User 
+3	Pricing a Product ?  Read This First  -  
+3	 @ EntreFirst Sad times  -  Only kidding .  You guys have fun . 
+3	Amazing mind reader reveals his gift :   # cybercrime  -  
+3	How To Choose Your Startup Idea  -  TechCrunch  -  
+3	Here is the reason why a sorted array faster than an unsorted array  -  
+3	Have you ever chatted with a Hacker within a virus ?  
+3	Mathematics at Google Research  -  
+3	A BMW M5 becomes a bullet  
+3	How to crawl a quarter billion webpages in 40 hours  -  
+3	Jerry Seinfelds Productivity Secret  -  
+3	Que viva España !  !  !  !   # UEFA  # Euro2012
+3	DNS tools for developers  -  
+3	 @ EntreFirst Really ?  !  On a Thursday ?  .  .  . 
+3	Validate your Idea :  The  $ 20 Starbucks test  -  
+3	Peter Thiel’s CS183 :  Startup  -  Class 11 Notes Essay  -  
+3	5 Years of Bad Ideas  [ Python ]   -  
+3	7 Ways to Help Ensure Your Business Succeeds  -  
+3	30 minutes a day  -  
+3	Fast Algorithms for the Maximum Clique Problem on Massive Sparse Graphs  -  
+3	Torvalds quote about good programmer  -  Stackoverflow 
+3	 " The very best cant be hired .  They must be courted .  "   -  
+3	Startup  =  Growth ,  by Paul Graham  ( Y Combinator )   -  
+3	AirDroid 2 ,  maybe the best app for managing your Android phone from your web browser :  
+3	8 startup videos you’ll wish you had made  -  
+3	 " All work and all play "   -  
+3	Early Startup Time Wasters  -   
+3	 @ dhimasyoga3 Branch Prediction
+3	The Cab Ride I’ll Never Forget  -  
+3	Rumor :  Google negotiating  $ 1 billion acquisition of WhatsApp  -  
+3	Launch Early ,  Launch Simple and Test  -   # WSJ  -  
+3	Google has built a 16 , 000 core neural network that breaks records in classification accuracy  -  
+3	Beautifully simple desktop wallpapers  -  
+3	Boat Race 2013 :  Oxford overpower Cambridge in 159th race  -  
+3	Doing Online ,  the Offline way  -  
+3	How Dave Goldberg of SurveyMonkey Built a Billion - Dollar Business and Still Gets Home By 5 : 30 PM  -  
+3	Dropping out :  Is college worth the cost ?   -  60 Minutes  -  Peter Thiel  -  
+3	RT  @ KelloggOx :  In Venezuela quesillo ,  in the Phillippines leche flan  -  by any other name Crème Caramel tastes just as sweet  # lunch
+3	The One Critical Task You Must Do Before Launching Your Startup  -  
+3	Just attended a training session with  @ JonSkeet‎ .  His presentation skills are even better than his  # stackoverflow answers ,  which is nuts !  .  . 
+3	How Geniuses Think  -  
+3	Why do Nigerian Scammers Say They are from Nigeria ?   -   # Microsoft  # Whitepaper  -  
+3	Valve ,  Youre doing it right !   -  Handbook for new Employees  -  
+3	Creating Fast Buttons for Mobile Web Applications  -  Google Developers 
+3	Why Startups Fail :  An Analysis of 32 Post Mortems  -  
+3	Machine Learning in Python Has Never Been Easier !   -  
+3	Microsoft new design preview  -  
+3	 " video drivers cheat like a Mississippi riverboat card sharp on a boat full of blind tourists "   -  
+3	RT  @ SAI :  Top Coders In Silicon Valley Now Have Agents 
+3	Improving your  ( Python )  code with modern idioms  -  
+3	Inside the startup Incubators .  All you need to know   |   
+3	Android Fragmentation Visualized  -  
+3	The Naive Optimist ,  My biggest Temptation  [  # Startups ]   -  
+3	Why does GCC generate such radically different assembly for nearly the same C code ?   -   [ Stack Overflow ]   -  
+3	Why Your Links Should Never Say “Click Here”  -  
+3	Websockets 101  -  
+3	The Bastards Book of Ruby  -  
+3	Hacker Tourism :  How would I get started ?   -  
+3	366 or How I Tricked Myself into Being Awesome  -  
+3	Hypothesis Driven Development for startups   -  
+3	 @  _ Devon _ Abraham LOL !  how do you keep coming up with these thoughts dude ?  lol to much free time ?   :  ) 
+3	 " Dark Patterns :  User Interfaces Designed to Trick People "   -  
+3	When to kill your startup  -  
+3	If I say  -   " This is something I did before my morning coffee "  ,  what it probably means is that I was up all night .  .  .  Determination  & gt ;  =  Talent . 
+3	 " The Best Programming Advice I Ever Got "  by Rob Pike  -  
+3	F - 35 Joint Strike Fighter Coding Standard Documentation  -   
+3	The Number One Piece Of Bad Advice Early Stage  # Startups Are Getting Right Now  -  Business Insider 
+3	Seed - DB  |  List of Seed Accelerator Programs  -  
+3	A 50 - Point Checklist For Creating The Ultimate Landing Page  -  
+3	Student wins Loebner Turing Test prize ,  but cheated  -  
+3	Startup hiring tactic  -  
+3	Dollars ,  Sense ,  And 40 Billion Facebook Credits  -  
+3	GitHub for Windows  -  
+3	Please Learn to Think about Abstractions  -  Scott Hanselman 
+3	Higher - order programming in C  -  
+3	7 Steps To Get Press Coverage For Your Startup  -  
+3	Some advice from Jeff Bezos  -  by 37signals  -  
+3	 # Stackoverflow  -   " What is the best comment in source code you have ever encountered ?  "   -  
+3	The Two Egg Problem  -  
+3	How Apple Store Seduces You With the Tilt of Its Laptops  -  
+3	Feeling like a fraud while doing startups  -  
+3	Python Fundamentals :  
+3	Want to create a new habit ?  Get ready to break it .   -  
+3	5 signs that you should hire a programmer on the spot  -  
+3	Shopping For Zero - Days :  A Price List For Hackers Secret Software Exploits  -  Forbes 
+3	How to be a programmer  -  A decade later and still useful  -  
+3	Some things beginners might not know about the Sublime Text editor  -   
+3	Mayor of London pumps  $ 33M Into London Startups With New MMC London Fund ,  TechCity To Benefit  -  
+3	Is it a tech bubble ?   -  by Chris Dixon 
+3	What it’s like to work for Stripe  -  
+3	I like how the Ninja Turtles wear masks .  Good way to hide your identity ,  its not like youre a giant turtle or anything . 
+3	RT  @ SAI :  Why You Should Focus On Building A Company That Actually Makes Money  -  

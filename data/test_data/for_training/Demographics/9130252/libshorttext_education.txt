@@ -1,0 +1,134 @@
+2	Back to work after a great Christmas break .  Work email mountain :  Have at me ! 
+2	 " It’s pretty safe to assume that anything the jailbreak community can do ,  the NSA can do better "  
+2	Nils Frahm really does create some hauntingly beautiful music .  Also ,  I need to get myself a Roland Space Echo ! 
+2	 @ ATG _ Support How come the ATG - Required - If - Present module attribute is undocumented ?   ( thanks   @ ATGhostingSpark  ) 
+2	A browser standard for responsive images slowly making progress ? 
+2	Unicode 7 . 0 notes are surprisingly entertaining .   " MAN IN BUSINESS SUIT LEVITATING "  now joins  " PILE OF POO "  .  Oh my !  
+2	OS X Mavericks lays bare the unholy trinity of battery devouring apps for Java development .  AppNap ?  Dream on !  
+2	 @ flybe BE961 to LGW delayed almost 4hrs ,  yet all other airlines LHR / LGW flights unaffected .   " Operational "  reasons ?  Cost saving more like . 
+2	Only a few more hours before Apple make my svelte iPad 3 feel like this .  .  .  
+2	 " Outsourced "  ,   " Enterprise "  ,   " Fixed Price "  ,   " RFP "  ,   " Resources "   -  each term takes you one step closer to the software project Pit of Despair
+2	Not often you get to see  " enterprise "  software project problems played out in public ,  but this is all pretty common .  
+2	Consolidating 100s of JIRA issues into a nice readable set of release documentation is no fun .  Lesson learnt :  Release early ,  release often ! 
+2	GitHubs management strategy is one every IT company should aspire to .  So many great concepts .  
+2	 @ NTCastleWard The high chairs in your café are terrible .  The trays are broken on them all .  Not family friendly !  Trip to IKEA sometime ? 
+2	 @ maxieduncan finally !  TouchID is rather neat but the button feels a bit clicky . 
+2	 " He screamed  " Ive had the time of my life "  and continued to dance and run around the stage "  Ballmers stylish exit .  
+2	Interesting read about iOS app pricing for kids ,  parents and the convenience option for a few minutes peace !  
+2	Gatwick airport certainly have their social media bases covered !  
+2	 @ poseidongroove Quantity not quality is all that they care about where the business model is bums - on - seats
+2	 @ opentrail Same with my 4S although I wonder is it because Ive been playing with new features a lot ?  My iPad 3 battery seems worse too . 
+2	Very detailed write up of Safari changes  ( and bugs )  in iOS 7 
+2	So iOS7 has changed the English ( UK )  Siri voice from grumpy Roger Moore into grumpy Roger Moore with a bad cold . 
+2	 " From hells heart I stab at thee ;  for hates sake I spit my last breath at thee "  .  Every software developer forced to work with Flex .  Ever . 
+2	ATMs  -   " Unable to provide a receipt .  Do you wish to continue "   :   " NO !  "   -  Nobody .  Ever . 
+2	Vivaldi Four Seasons : Recomposed by  @ maxrichtermusic  -  truly exquisite .  Every listen to Spring 1 cannot fail to brighten your day . 
+2	Interesting write up the history of Android and Googles distancing itself from it .   
+2	Also dont see why the second - screen content needs to be media if any HTML content can be cast .  Plenty of retail / ecom opportunity here . 
+2	Really like the API for ChromeCast .  Smart making it web based  rather than Android apps .  Apple take note !  
+2	Buried in the Google IO announcements ,  Google Play for Education is perhaps their biggest foray onto Apples turf .  
+2	Great stats about the value of each social share for retail sites .  
+2	 @ jpsykes Panda Bear doesnt kick in until track 12  :  ) 
+2	 @ jpsykes Give it time .  .  . 
+2	Massively impressed by all the content from Google IO 2013 .  Truly in a league of their own for cloud services .  Bar set very high for WWDC ! 
+2	Saying  " No "  is a dying art for most companies .  “ @ Medium :  Why to say no ,  by  @ pjrvs .  
+2	♪ Suspect many headphones will have a Daft Punk disco vibe on this morning with Random Access Memories .  Exquisite production values . 
+2	 " No pressure ,  right ?  "  Ill add 51 .  Zero latency synchronised multi room AirPlay support too  :  )  
+2	The REST API in ATG10 . 2 is much improved ,  but disappointing that it only wraps the decrepit FormHandler / Droplet layer .  Opportunity missed . 
+2	 @ opentrail … and the consumption model is different .  Wiki is consumed on the web .  GDocs often exported as PDF / Word and consumed via email . 
+2	 @ opentrail I see a wiki as a collection of small interlinked docs ,  whereas a Google Doc is a single self - contained doc not interlinked . 
+2	“ @ ATG _ Support :  Where can I find Amacis Visibility / Communication Centre documentation ?   ( Doc ID .  1036519 . 1 )  
+2	Why accessibility matters for mobile  - where the screen reader  * is *  the mobile device .   
+2	 " Fortunately ,  most enterprise software markets are ripe for disruption from purpose - built ,  superior solutions .  "  
+2	 " Chat Heads "  ?  Really ?  Great concept .  Great design .  But  " Chat Heads "  ?  ! 
+2	Facebook Home actually looks to have some pretty decent ideas .  Nice presentation too  -  Zuckerberg has been studying his Jobs keynotes well ! 
+2	Responsive must be the most overused and misunderstood term in ecommerce development right now . 
+2	 " How do I get my Ajax  _  _  _  working ?  "   Get your non - Ajax  _  _  _  working first !  Remarkable how robust progressive enhancement continues to be . 
+2	Northern Ireland tourism milking the Game of Thrones connection .  Nicely done though !  
+2	 " Management only exists to compensate for its own poor hiring decisions "  .  Key to this is great people ,  zero bozos .  
+2	Bit of snow at Gatwick .  Flight in 10 mins early .  Trains :  fucked ! 
+2	 @ AerLingus mobile check in  -  an app that wraps a site that sends an email that links to the site that shows an image .   # Appsturbation
+2	 " Sony reinvents the phone "   -  2007 called .  It wants the future back .  
+2	 " 1 items "   =  =  lazy programmer  |  |  code written on a Friday afternoon .  Often both . 
+2	New trick I learnt today  -  protocol relative URLs  -  src =  "  /  / domain . com / athing "  will use current http or https scheme 
+2	 @ poseidongroove Nice .  Reckon youll struggle to get those jammed in your ears though .  .  .   ;  ) 
+2	 @ ThreeUK The 1990s called  -  they want your WAPtastic mobile credit card payment forms back . 
+2	By my count its T - minus 2 days for Apple to release iTunes 11 before somebody else gets Forstalled
+2	 " Profile changes in your network "  aka  " Whose leaving party are you going to be attending soon " 
+2	So the Skyfall theme is 90 %  Lana del Rey ,  10 %  John Barry ,  with Adeles name on it ? 
+2	 @ maxieduncan How are you finding the iPad mini ?  Youre on 4 tablets now ,  right ?  ! 
+2	 @ poseidongroove  This is very much in line with your omni channel ecommerce vision .  
+2	 @ maxieduncan binned ! 
+2	JavaScript .  Not Javascript .  Not Java Script .  If your CV espouses your passion for Javascript its one step from the bin . 
+2	Clocks went back and the iPhone owning world didnt oversleep .  Have Apple finally figured out the daylight saving time algorithm ? 
+2	Best Microsoft Surface review Ive read yet .  
+2	Samsung / Apple UK judgment now linked to from footer of Apple UK site as per legal demand  -   " They are not as cool "  
+2	Where would technology documentary makers be without the Tron : Legacy soundtrack ? 
+2	IKEA stock alert email :   " Dear customer , Your product ( s )  has / have arrived .  "   # selfassemblyofifstatementrequired
+2	Shocked to discover that O2 is the only network in the UK that supports iPhone Visual Voicemail .  Switched to 3 and now no VV . 
+2	Great summary of responsive vs separate mobile site considerations .  Nice term  -   " aggressive enhancement "  .  
+2	Its a veritable updatefest tonight ! 
+2	Tim Cook tries too hard to do passionate and sincere .  Clear the limestone used for Barcelona store wasnt keeping him awake .   # imisssteve
+2	Tim Cook ,  May 2012  :   " Were doubling down on secrecy "  .  Well that sure worked out great .  
+2	 @ cmore Nice work .  Great to see improvements like this .  Nucleus  & amp ;  core ATG neglected for far too long . 
+2	 @ worksykes Time to resurrect Live Chat .  Again ?   ( bout time for a new chat co acquisition isnt it ?  ) 
+2	Holy crap  -  somebody has made enhancements to Nucleus in the latest version of ATG .   $ basedOn  $ instanceFactory .  Oh my ! 
+2	 @ worksykes You start when ? 
+2	 @ twilowen Fantastic  -  so you are now an officially qualified Project Manager .  Congratulations ! 
+2	Newspaper sites of the world :  No  -  I do not want to download your shitty iPad app .  Just your website please .  Kthxbye . 
+2	I find Resources a vulgar word when applied to building software .  Belies a lack of appreciation of the creative effort expended by People . 
+2	The first time one uses ATG 10 . 1 ,  one is greeted with a dialog written by The Queen .  Must be a diamond jubilee thing .  
+2	 @ maxieduncan bloody ASCII art fairies at it again ! 
+2	Why hello The Future .  Nice to meet you .  
+2	Android is open .   
+2	Wow !  My JSON JSP taglib just went past 20 , 000 downloads .  Still no escape from enterprise JSP dev for lots of folk !  
+2	 @ poseidongroove I cant believe the attention this nonsense has got in the mainstream media .  Its a video .  No shipping code or product ! 
+2	The dopey Google Project Glass video is missing Tom Cruise swooping in to arrest the guy for future crimes against ukulele playing
+2	Im fast coming to the conclusion that agile software development is 99 %  bullshit and 1 %  smart people simply getting stuff done
+2	Amazing public Q & A session with BT on reddit .  Inspirational stuff .   
+2	Google +  in a nutshell .  .  " social is people and the people are on Facebook "  
+2	Were building momentum .  .  . 
+2	 " Resolutionary "  .  Really ?   # iMisssteve
+2	The words and images are what Steve would have used .  The delivery is not .   # imisssteve
+2	The Science behind The Santa  
+2	Fascinating  ( if a bit long )  article about the importance of rockstar developers as software eats the world 
+2	 @ wboumans If the HTML5 mug had embraced responsive design it would perfectly contain however much ,  or little ,  coffee you threw at it ! 
+2	 "  .  .  . there’s just a tremendous amount of craftsmanship in between a great idea and a great product "   
+2	Adios Flex .  Will the last Flash based technology at Adobe turn the lights out on the way out ?   
+2	The beginning of the end for the abhorrent Flash .  ATG take note  :  youre riding on a ghost train .  
+2	 " Apple’s just - buy - our - devices - and - look - at - all - the - cool - shit - you - get - with - them model "  .  Siri IS a big deal .  Just not yet .  
+2	Facebook Marketing APIs .  Theres gold in them thar hills .   # f8london
+2	F8 London 
+2	ATGs near biennial build - or - buy another chat product strategy continues into the Oracle era !  
+2	 " Siri ,  call me My Lord "   " OK .  What can I help you with ,  My Lord ?  " 
+2	 @ worksykes I think has HUGE potential .  New services ,  actions ,  3rd party access via an API .  Think original iPhone sans apps compared to now . 
+2	Jeez ,  even the time is too much for Siri in UK .   # SiriUKUselessness 
+2	Siri failing to see the irony  # SiriUKUselessness 
+2	Siri is a bit disappointing in UK  -  can only search businesses and maps in USA .  Siris voice in UK is classic Roger Moore though ! 
+2	Oooooh !  UPS van just pulled up outside my office window .  Siri ,  what should I do now ? 
+2	Performance analysis of iOS4 / 5 WebKit views .  Had no idea UIWebView  ( as PhoneGap wraps )  wasnt getting any Nitro love .  
+2	iPhone  -  & gt ;  iOS5 .  Success .  iPad  -  & gt ;  iOS5 .  Fail .  iMac  -  & gt ;  OS X 10 . 7 . 2 Success .  iCloud  -  & gt ;  anything .  Fail .   ( Getting MobileMe flashbacks !  ) 
+2	 @ dhh Visited Genius Bar a week ago with exact same problem .  Was given a replacement at no cost even though out of warranty . 
+2	RIP Steve .  Thank you for showing us all how insanely beautiful and enriching technology should be . 
+2	Beautiful CSS transitions used on the main banner of iPhone 4S page on Apple site .  
+2	iPod app quietly changed to  " Music "  for iOS 5 .  
+2	MacRumors ,  ArsTechnica ,  Engadget ,  Apple Store all down .  What on earth could be going on ? 
+2	Muppets Google Doodle today remembering Jim Hensons birthday .  
+2	 @ worksykes Appcelerator Titanium looks pretty good for that
+2	So ,  we meet again my old nemesis Same - Origin - Polocy .  .  . 
+2	How difficult can it be to make Tomcat add a single extra HTTP response header to all requests ?   # javawebdevdrivesmenuts
+2	Just discovered the iTunes Artwork screensaver in Lion is now interactive  -  a play button appears on each album as you hover .  Cool ! 
+2	 @ worksykes Missing A̶T̶G̶ Oracle Web Commerce yet ? 
+2	Great day at  # dConstruct .  Speaker lineup not as awesome as last year but head still overflowing with ideas .  Must .  Create .  Stuff . 
+2	Im attending dConstruct 2011 ,  2nd September 2011 in Brighton 
+2	US patent law .  What a mess .  
+2	Word - of - the - day :  enterprise ( ˈɛntəˌpraɪz )   1 .  ( space )  Cool spacecraft   2 .  ( software )  Bloated crapware   3 .  ( business )  Mediocrity incubator
+2	When did the software development industry become so infested with mediocrity ?  Where is the passion ?  Where is the craftsmanship ? 
+2	Great presentation from  @ jonjenk to wrap up  # awssummit  -  how Amazon . com migrated to AWS ,  which was created independently .  Dogfood eaten . 
+2	Nice to see JSON used for config data throughout AWS .  XML needs to go hang with Microsoft in the unloved corner at tech confs !   # awssummit
+2	At AWS Summit London .  Ironically not a cloud in the sky this morning .   # awssummit
+2	Really impressed with Apples WWDC announcements .  A feast of rock solid incremental improvements .  Game Center the only meh moment ! 
+2	UK ecommerce just keeps on growing 
+2	Loving the Roger Hargreaves doodles on the Google homepage today .  Looks like most of the characters are there if you hit refresh enough ! 
+2	Recruiters :   " XXX would love you to join  _ there _  team "  does not convey the professionalism you are trying to solicit .   # BackToEnglishClass
+2	 @ jpsykes apparently Mommy  &  Daddys party bag business has tripled in value solely thanks to its new royal association too . 

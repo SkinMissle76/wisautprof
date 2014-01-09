@@ -1,0 +1,151 @@
+2	Free Visio Alternative ,  yEd :  
+2	 @ chernushenko Were looking to implement the most strict and regulated backyard hens bylaw in Canada and have over 300 signatures now ! 
+2	 @ chernushenko Hi David !   Would you be interested in supporting an 18 - month trial for backyard chickens in Ottawa ? 
+2	The City gave us another extension before they make us complaint with the bylaw .  .  . now its next wednesday .  .  . 
+2	I wasnt happy with the angle of the story .  .  . the French CBC did a great story though .  .  . Ill post it as soon as I find it .  .  . 
+2	Heres the link to the CBC story :  
+2	Still looking for support ,  even though we have hundreds of signatures already !  .  .  . Its been a long 2 days .  .  . 
+2	Visited the Garlic Festival in Carp today to garner support for our amendment to bylaw 2003 - 77 !   Thanks to everyone who signed the petition ! 
+2	 @ hallinsky whuuut .  .  . wtf man !  ?  !  ?   Wheres your putter at ?  !  ?  !   Maybe you should putt right - handed bro .  .  ? 
+2	 @ hallinsky Hearn ! 
+2	 @ hallinsky 30mm of rain ,  60 + km winds .  .  . he said the 77 was his best round .  . 
+2	 @ hallinsky Pat Lindsay won the Hunt Club Championship again .   68 - 73 - 77 ,  won by 14 shots ! 
+2	 @ hallinsky AMAZING .   Your first Major ?   Hopefully the start of a long Hallinsky Major run ! 
+2	 @ hallinsky what WEEKEND at the PGA !  ?  ?  !  ?   Who are you going with !  ?   How much were the tickets ? 
+2	 @ hallinsky Good !   How are things with you ?   Hows the golf game ?   And the family ? 
+2	 @ hallinsky Definitely nobody within 10 houses .  .  . we have a petition that our closest 10 neighbours signed and are supporting us through this
+2	 @ hallinsky Thinkingphones networks .  .  . basically a VOIP /  Unified Communications service provider .  .  . mostly large businesses in the US
+2	 @ hallinsky Dude were 60km out of town .  .  . hence the debate .  .  . 
+2	 @ hallinsky have barely played in the last 2 months .  .  . started a new job at the start of July and have been focused on other things .  .  . lol
+2	 @ hallinsky Eggs are awesome ,  but the city will be fining us  $ 650 and taking our chickens tomorrow
+2	 @ hallinsky Oh yeah !   Weve been busy recently fighting the city bylaws .  .  . We were on CBC ,  CBC Radio One and a bunch of newspapers too .  .  . lol
+2	 @ hallinsky Were famous :   
+2	 @ hallinsky Hey buddy ! 
+2	 @ ScottMoffatt21 we are seeking someone to bring our proposed amendment to bylaw 2003 - 77 to the Rural Affairs Committee on 06 - Sept - 2013 . 
+2	 @ ScottMoffatt21 Hi Scott ,  any chance you would support the Constance Bay chicken couple in their bid for sustainable living bylaw reform ? 
+2	 @ Eli _ Ward5 Eli ,  if you sit on the rural affairs committee ,  why not support us to keep chickens in the Bay ? 
+2	 @ JimWatsonOttawa What good are politicians if you cant help with the governance of your own city !  ? 
+2	 @ JimWatsonOttawa Your sustainable living view is just empty words until you do something about it and support your constituents . 
+2	 @ JimWatsonOttawa Would you like to comment on the Citys anti - sustainability bylaws with prohibit a few chickens ? 
+2	 @ JimWatsonOttawa Hi ,  Im the Andrew Elliott from Constance Bay ,  who is currently fighting anti - sustainability bylaws . 
+2	 @ JimWatsonOttawa Hi Mayor Watson !   How you can help increase the awareness of sustainable living in Ottawa ? 
+2	Wow first tweet in 2 months .  .  . has it been that long ?   Nothing personal twitter ,  Ive been golfing and fishing for most of the summer ! 
+2	Woo Hoo !   Divisional ERP / MRP system just reached 365 days of straight up - time !  !   Five 9s of availability ?   How about the two 0s of stabil…
+2	 @ JimFlowersWX Canada loves you buddy !    ( youre a hit on Reddit right now .  .  . how about a shout - out ?  ?  ) 
+2	313 days straight up - time .   And thats on a 6 YO server running RHEL v . 3 .   Imagine on newer hardware and a recent Linux version .   Linux FTW ! 
+2	 @ nazarm no relaxing for you !  back to work slacker ! 
+2	 @ hallinsky any damage out there ?   Not too much in Ottawa .  .  . without power for 10 hrs yesterday though .  .  . 
+2	 @ standaloneSA how about autoexpect ? 
+2	 @ rackerhacker no VM ,  dedicated ERP / MRP system with 21 DBs ,  3 tomcat apps ,  1 web app and 3 EDI interfaces .  . about 150 - 200 concurrent users
+2	 @ rackerhacker Im just getting into taskset CPU affinity right now .  .  . got a new box w /  24 cores .  .  . any tips to make the most of multi procs ? 
+2	Checking out SystemTap right now .  .  .  . just found out about it !  
+2	 @ rackerhacker tough exam ?   Nice blog post about the course outline .  .  . Did you find RHCE pretty easy ? 
+2	Interesting that Ubuntu is now Gnome - less thanks to Unity !   Especially in the wake of the Gnome 3 release .  .  . 
+2	Interesting that Ubuntu is now Gnome - less thanks to Unity !   Especially in the wake of the Gnome 3 release .  .  . 
+2	Gnome 3 is official :  
+2	 " Process Freezer "  allows you to capture the state of a running process and resume at a later time .  .  . also on another se…
+2	305 days of straight 24 / 7 uptime for my production system .   Some talk of the  " five 9s of availability "  but I talk about the  " two 0s of av…
+2	Linux :  Understanding hard links and soft links :  
+2	YouTube  -  Broadcast Yourself .  
+2	vi find and replace all occurrences :    :  % s / existing / new / g
+2	Great article from Ducea on bash history hacking :  
+2	Installing the sysstat rpm on Red Hat .  .  .  . dstat is great ,  but I need per - disk stats with iostat to check new RAID 1 + 0 performance
+2	Also looking at PSI probe  ( fork from Lambda )  .   Both look pretty sweet .   Yes ,  thats a technical term .  .  .  ! 
+2	Checking out Lambda Probe for Tomcat monitoring :  
+2	Finally discovered dstat for Linux .   Its like iostat / ifstat and vmstat on steroids .   Download ?   NOPE .   404 .   Dammit ! 
+2	Best Linux error ever :    " not enough lines in your terminal session to display all cpus "  .   Two physical dual - core Intel 6 - way procs = 24 cpu
+2	I measure my success in uptime .   The past 10 months have been pretty good ! 
+2	Reading Pro Apache Tomcat 6 by Matt Moodie
+2	Interesting .  .  .  .  
+2	New post :  basic Tomcat administration AND a new retro theme :  
+2	New blog post :   Shared Memory and Semaphore limitations in Red Hat Linux :  
+2	Really trying to start blogging again .  .  . Sometimes it feels like a chore but not on Fridays ! 
+2	Progress upgrade ,  db conversions and tomcat performance tuning .  .  . some days are better than others ! 
+2	Freddy Couples leads the northern trust open !   Amazing ! 
+2	 @ renwest it will assign an external address to your router .  .  . if you use any apps that need it ,  dont change it !    ( xbox ,  etc .  .  ) 
+2	 @ renwest so the SMC gateway is a router provided by Rogers ?   Theres probably a  " DMZ passthrough "  setting on it somewhere .  . 
+2	 @ renwest Linksys / Dlink router ?   The only external address you should get is on the WAN interface . 
+2	 @ renwest whos your ISP ? 
+2	crazy .   If Dell could buy AMD ,  would another big player look to buy Intel ?   Maybe HP ,  IBM or microsoft ?   Hmmm .  .  . 
+2	 @ hallinsky inside tooth was too damaged to repair .  .  . had to get it extracted .  .  . root canal possible ,  but not guaranteed to work .  .  . 
+2	 @ hallinsky nope ,  had those done 10 yrs ago .  .  . broke off half a molar ,  got repaired last jan ,  subsequent 8 - month bacterial infection .  .  . 
+2	 @ hallinsky only negative was no eating all day yesterday and I had to pony up  $ 720 .  .  .  :  (   get some of it back ,  but still .  .  . 
+2	 @ hallinsky meh ,  it was pretty easy actually .  .  . had to be put under ,  so the whole thing was like a dream !  .  .  . easier than a cavity ! 
+2	Looking for recommendations on a book for Tomcat performance tuning ,  specifically ,  running multiple web apps w /  progress back - end
+2	Had surgery yesterday to remove a tooth .  .  . recovering this morning !   still gotta put in some work time though .  .  . tomcat tuning today ! 
+2	 @ nazarm  # 9 was sick .  .  . cutback and strike through the legs of the defender at the top of the box !   amazing
+2	 @ nazarm Q & A with Scumbag Steve !   
+2	 @ nazarm check out the guy on the far right :   
+2	 @ mikerigsby do you keep a read - only ,  online ,  differential backup for your users ?   Using cheap storage ,  will cut down on restores 80 - 90 %  ! 
+2	 @ rackerhacker rrdtool is great .   Most people dont know what it is ,  until you mention cacti or mrtg ! 
+2	First day back at work after 3 days off sick .  .  . still not close to 100 %  ,  but if I took 4 days Id need a doctors note .  .  . ughh .  .  . 
+2	Interested in Linux ?   Check out 
+2	 @ standaloneSA do you let the business dictate what the recovery times should be  ( RTO )  or is it in your best judgment ? 
+2	 @ standaloneSA do you let the business dictate what the recovery times should be  ( RTO )  or is it in your best judgment ? 
+2	 @ hallinsky only 1 thing could top that :  KFC double - down with a poutine from poutinerie ! 
+2	 @ hallinsky  @ markflindall You guys see Zeitgeist 3 yet ?   MUST SEE :  
+2	Everyone needs to watch the Zeitgeist movies :   
+2	 @ hallinsky  @ markflindall You guys have to see this :  
+2	Features of Bell internet security :  throttle the hell out of everything ,  no matter how legit the traffic is . 
+2	Reclaim deleted files in Linux via scapel :  
+2	 @ sysconfig I was thinking more of the problem of migrating live processes .  .  . such as vMotion does in ESX .  ( but it needs shared SAN to do it ) 
+2	 @ sysconfig have you ever heard of anyone building a nix - based OS that stores all configs / files in a db back - end ? 
+2	 @ sysconfig very impressive !   I bet the traffic shaping is pretty important for the overall performance .  .  . 
+2	The society weve built stifles creativity .   It feels like this cubicle is a jail sometimes . Still ,  no excuse to accept the way things are . 
+2	 @ sysconfig using seperate vlans or VPNs to do the distributed DB replication ?   OpenVPN ? 
+2	 @ sysconfig I run m0n0wall at home ,  which is what pfsense was built on  ( I believe )  .  .  . pfsense better for shaping in my opinion .  .  . 
+2	 @ sysconfig Data - centre - in - a - box ?   You brits spell it  " centre "  ,  like us Canadians ,  eh ?   Saw the blog ,  cool concept .  .  . 
+2	I love autoexpect . 
+2	 @ sysconfig What are you looking for ,  specifically ?   I still do some work on the side .  .  . only RHEL / CentOS thats interesting though .  .  . 
+2	A real unified Linux package manager in the works ?  .  .  . Maybe well see all the nixes come together and unify !  !  ?   The end of MSFT ? 
+2	 @  _ linuxgeek _  I use Sabayon / Gnome for workstation at home .  .  . fantastic distro .  .  . really like Gentoo ,  very fast and stable  ( and logo = pacman )  ! 
+2	 @  _ linuxgeek _   @ sunnychahal Arch eh ?  .  .  . with which Window Manager ?   XFCE ,  Gnome ,  KDE ? 
+2	 @ sunnychahal Also check out :  
+2	 @ sunnychahal If you get frustrated with Arch and want a Linux that just works ,  check out :  LinuxMint or PCLinuxOS .  .  . very good versions .  .  . 
+2	 @ littlerandy hope they didnt get any espresso on their turtleneck or french beret .  .  . mac people are funny like that .  .  . 
+2	Does Google have more power and influence than the US government ?   It would be scary if the govt got their hands on all that data .  .  . 
+2	If there was 1 thing that I could  " save "  from the destruction of Earth it would be the Simpsons .   Actually ,  parrots first ,  then Simpsons .  .  . 
+2	and  " SUPER - Liminal "  was him yelling out the window :   " Hey ,  you !   Join the Navy !  "    [ Lenny shrugs and says  " sure ,  Im in !  "  ] 
+2	Great quote :   L . T .  Smash  ( Simpsons 1 - hit wonder character )  :    "  .  . Its a 3 - pronged approach :  subliminal ,  liminal and SUPER - liminal !  " 
+2	A Linux training company saying that Linux skills are hot ?  ?   Thats like Microsoft saying that Windows is amazing !   Im in ! 
+2	Create free PDFs :   
+2	Adobe Reader ,  zoom at 111 %   & lt ;  -  definitely where its at .   Faster than typing 100 and cooler than 99 . 
+2	 @ interslice has a TFF Ratio of 2 . 60 .  Check your TFF Ratio at 
+2	Is there anyone Microsoft wont sue ? 
+2	Downloading new QAD MFG / Pro Release  -  QAD2010 .   Trying to figure out how to change a DB domain in the process .  .  . 
+2	Checking out some Ciena products .   Seems like they have a pretty good reputation .  .  . comments anyone ? 
+2	I think Xandros was years ahead of their time .   I hope to get into a place some day where I have enough leverage to pitch it .  .  . 
+2	this looks like a good starting point :  
+2	looks like pbind in Sun or taskset in Linux / GNU .   More to come .  .  . would probably make a great blog entry .  .  . hmmm
+2	Anyone have a link specifically for processor affinity ,  specifically ,  binding individual processes to virtual cores on Intel i7 ? 
+2	People are consumed by their docks .   Cant get it to work ?   Create a shortcut .   Im sure you can spare the extra click ! 
+2	LinuxJournal did a poll of how often you re - install your Linux desktop .   I think most popular was every 2 years .   I concur . 
+2	Currently running Gnome on Sabayon  ( Gentoo )  with ReiserFS .   Very quick and stable .  .  . and its 3 years old ! 
+2	 @ jondkent you really need compiz to make Gnome look good .  .  . I still find KDE sluggish .  .  . no complaints about XFCE !   Its great on Mint .  .  . 
+2	Apparently  - 39 C .  in Ottawa today .  .  . sounds like an excuse not to leave the house ! 
+2	I really have to make the effort to put some more info out there .  .  . too much good stuff is buried deep in experts - exchange to be useful .  .  . 
+2	ahhh yes ,  the blog .  .  . Im guilty of creating it ,  making 2 posts then realizing its more trouble than its worth .  .  . sometimes .  . 
+2	 @ mikerigsby  @ ChrisMuncy I actually wrote a post about that :  
+2	Friday .   Finally . 
+2	 @ jondkent did you know about  " cal "  ?   amazing .  .  . Ive been using LInux for years and learnt that a few weeks ago .  .  . 
+2	 @ ChrisMuncy its  - 22 C in Ottawa right now .  .  . lol
+2	In my experience ,  Ive found nearly all HR employees are stone - faced ,  cold - shouldered ,  9 - 5 office dwellers .   Never a straight answer . 
+2	 @ gilliebee outstanding student loans ,  car loans and taxes  ( coupled with property tax and HST increases )  make it hard to run with 25y mort . 
+2	 @ gilliebee Its a good article .  .  . true too ;  Im in the same situation .   Our mortgage will go up nearly  $ 200 because of this .  .  . 
+2	Downloading a Redmine turnkey Linux ISO to check out .  .  . Looking for an easy PM solution thats free / OSS
+2	20 Linux monitoring tools you need to know :  
+2	20 openSSH tips :  
+2	Anyone else see where Shuttleworth is going with the Qt integration ?   Hes trying to unify Linux !   A unified Linux is a HUGE threat to MS .  .  . 
+2	 @ hallinsky  @ markflindall when did he sell out and get a beemer ?   is he still at the nucleon plant ? 
+2	 @ markflindall  @ hallinsky Campbell has a BMW ?   I really hope he doesnt play Rage in it .   Thats blasphemy . 
+2	Kudos to Shawn Powers on his An open video to HP .   Hes right .   A Linux user is a Linux user for life .   We are a VERY loyal bunch . 
+2	 @ hallinsky  @ markflindall campbell texts ?   impossible .   Next thing you know hell be on twitter .  .  .   Whats he up to these days ?  ? 
+2	 @ KatherineD Im sorry ,  I feel bad now .  .  . especially after how you handled the criticism !   Im a follower for life now b / c of that .  .  .  ;  ) 
+2	Im excited to try out the alpha Gnome 3 .   Dont have time right now but definitely something to look forward to .  .  . 
+2	Nothing personal ,  I really enjoy the content of the site ,  but make it look better .  .  . Linux isnt ONLY about efficiency .  .  . it looks great too .  . 
+2	Disappointed with the LinuxJournal home page layout .   It looks like it was designed by someone armed only with a ruler . 
+2	Im really hoping to hook up with Kevin Haime this year .  .  . heard so many great things but money is always tight .  .  . 
+2	After a broken thumb and only 5 under par rounds this year ,  I cant WAIT to get back out .  .  . damn you Canadian winters !  !  ! 
+2	 @ TigerWoods the variable offset is difficult to get used to ,  especially if youve played with static offset for years .  .  . just a thought .  .  . 
+2	 @ TigerWoods ever consider making a signature custom TW blade iron set ?   VR pro is nice but still kinda for the masses .  .  . 
+2	 @ hallinsky youre Canadian .   Its only natural to think about poutine and tim hortons non - stop ! 

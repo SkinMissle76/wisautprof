@@ -1,0 +1,166 @@
+33	 @ JohnLMacFarlane As a long - time user of Sonos  & amp ;  Windows Phone 8 ,  can you give me an idea of WP8 Sonos Controller availabilty please ? 
+33	 @ MrSausageroll Bang your head against it for 6 months .   Itll be worth it  -  I promise  :  -  ) 
+33	 # BritishGas :  How about spending some of your vast profits on upgrading your web servers so I can log in ?   Theyre slow at the best of times . 
+33	 @ CannyCreative If there was an Update option in LiveWriter instead of just  ( re ) Publish  (  & amp ;  a decent way to inline program code )  Id be happy ! 
+33	A cheeky 80 miles and in Strasbourg ,   lie in trow while a few combatants visit the local bike shop for repairs :  -  )  
+33	Long day today ,  another 80plus miles ,  but more climbing  -  a sign of things to come .  .  .   :  - S
+33	 @ Cloud _ Matt  @ martinclarkson so .  .  .  puppies have more attractive pricing models  :  -  ) 
+33	 @ rodtrent  @ pcgeek86  @ WindowsITPro Last Patch Tuesday broke my Hyper - V external network adapter  :  -  (  (  ( 
+33	Hey ,   @ BritishGas Funny how the  # BritishGas website is running so slowly .   I guess everyone else is doing the same as me .  .  .  ! 
+33	After an appallingly unpleasant wet cold windy morning the day ended with a rather enjoyable cruise through the picturesque .  .  .  . 
+33	 @ metrotwitapp Hi Guys ,  this is with the desktop app  -  yes ,  still seeing the issue .   Do you want screenshots or other info ?   Thanks ! 
+33	Thanks to everyone who came to see us off this morning ! 
+33	Off we go ! 
+33	 @ ShayLevy Just one browser  -  if the site doesnt work in Windows8 / IE10 Ill go elsewhere :  -  ) 
+33	 @ ProfBrianCox Dont feed the trolls ! 
+33	Millevaches ,  3000ft and exceedingly sunny
+33	 @ metrotwitapp Thanks !   That works straight away .  .  .  .  thanks guys ! 
+33	 @ pcgeek86 Yep ,  that fixes it ,  but seems I need the patch for 8 . 0  -  & gt ;  8 . 1 .   Im going to wait until 8 . 1  ( shortly )  7 take it from there .  .  .  . 
+33	A day coding on  # Quest Active Roles Server .   Unfortunately an old version ! 
+33	Just crossing the Loir at La Chartre - sur - le - loir for the second time ,  18 miles left to go today :  -  ) 
+33	 @ CannyCreative 
+33	 @ TobiasPSP Nice example of using the low level APIs  ( and useful too )   -  thanks ! 
+33	 @ JeffWouters Thanks Jeff  :  -  )   Incidentally ,  I think you may have a bug with  $ macaddy ? 
+33	PowerShell script to read network NTP time 
+33	Checked in at Tate Museum Of Modern Art  ( London )  
+33	RT  @ ExplosiveLS  @ CllrAlice great to have you following us from down the road in Abingdon & lt ;  - You never said that to me  ( down road in Harwell )  ! 
+33	Hey  @ oising ,   @ pcgeek86  -  you just helped remove one of my major objections to iTunes  ( QuickTime  +  other  *  *  *  *  )   -  luckily I have many more :  -  ) 
+33	Up to 1000ft in  " The Alps of the North "  :  -  )  Suns out :  - D
+33	Now 4 days and 330 miles into France ,  about half way .  .  .  albeit the easy half ! 
+33	Milanadam bike ride .  .  From Milan to Amsterdam via Switzerland ,  the Alps ,  Liechtenstein ,  Germany .   Off tomorrow ! 
+33	 @ alexandair Hi Aleksandar !   Yes  -  high information content ,  thanks  :  -  ) 
+33	Windows 8 on ARM includes WinRT versions of Word ,  Excel ,  Powerpoint ,  OneNote .   No Outlook .  .  .  . 
+33	M25 in tha van ,  the trip is underway .  Wheres the coffee .  .  . 
+33	 .  .  . countryside and villages of Normandy :  -  )   85 miles ,  could be an early night ! 
+33	Will someone please write a Metro - style PowerShell console app so I can run it on a Windows 8 RT tablet ?  !   Thanks :  -  )   # PowerShell  # Windows8
+33	All done :  -  )  80 miles and down to Beaumont La Ronce ;  no bar in the village but an invite around to the local farmers house for Eng / Fr game
+33	Beer - garden   ( Checked in at Restaurant Lölleken  " Verrückte - Teller am Niederrhein "  )  
+33	Now at Espalion and en route for Millau this evening
+33	Quickly check legacy or EFI Bios :   ( Sls Detected boot environment C :  \ Windows \ Panther \ setupact . log  - All )  . line  - replace  .  *  :  \ s +   # PowerShell
+33	 @ DSotnikov Congrats Dmitry !  I hope Jelastic enable automation using contemporary tools so you have justification for PowerShell deepdives :  -  ) 
+33	Thanks for the  # ff  :  -  )     @ pcgeek86
+33	RT  @ jamesoneill Ooohh  .  .  .  downloading now on my HTC 8x .    & lt ;  -  Hows it looking ? 
+33	Windows 8 Explorer now has  " Open in  # PowerShell "  
+33	Just registering for free Office 365 via  ( my soon - to - be - gone )  TechNet Subscription .   # Office365  
+33	This is my momentous 1000000000th tweet !    ( base 2 natch .  .  .  .  ) 
+33	 @ mrjimBob Beats me .  BTW , talking about this at last Carter do last night 
+33	Welcome to the Nederlands  :  -  )   ( Checked in at Bospark Bilthoven )  
+33	 @ ShayLevy  Hi Shay ,  can I attach XML to define default formatting  ( rather than creating a  . ps1xml file ?  ) 
+33	Anyone tried this ?  
+33	Great write - up of Windows 8 on ARM :  
+33	I thought France was flat !  At Neuvic ,  camping on the lake ,  5000ft of climbing today ,  Gorge Dordogne tomorrow .  .  . 
+33	 @ bielawb  @ jonoble OneNote Shower Edition  :  -  ) 
+33	 @ MrSausageroll Get over it .   Give it time .   Youll learn to love  # powershell as much as anyone else who knows anything about it .   Really . 
+33	Yikes .   Teacher suspended for reading mainstream sci - fi novel  " Enders Game "  
+33	Sitting nearby to a contractor whos programming COBOL on a 3270 emulator using JES2 on MVS  ( or whatever its called these days )   -  memories ! 
+33	Just downloaded all 5 volumes in the  # PowerShell PowerTips Reference Library 
+33	Oooooh  -  lots of app updates in the Windows 8 Store  :  -  ) 
+33	Out of Millau and 600ft up into Nant ,  wall to wall blue sky and stunning scenery :  -  ) 
+33	Looks like the TechNet Subscriber Download site is a bit busy .  .  .   # Windows8 . 1
+33	Finally moving on to the ferry ,  LD  -  what a complete shambles :  -  (    # fail
+33	 @ ShayLevy Thanks for the RT Shay  :  -  ) 
+33	I just installed java  ( against my better judgment )  so I could run the 
+33	 @ shanselman I take it youve seen todays Dilbert :  
+33	 @ CannyCreative Afraid I make my living as a Microsoft type  -  so I actively avoid Apple and  ( Especially )  Google .   My bad ! 
+33	I would like to try an alternative blogging host from Wordpress  -  anyone got any suggestions ?   Thanks ! 
+33	 @ mrjimBob A bad thing if well be forced to create a YouTube  ( Google )  account and sign in to use it
+33	 @ thurrott Fabulous write - ups Paul ,  thanks for all the information  -  reading while downloading :  ) 
+33	Checked in at Microsoft TVP ,  Reading 
+33	Off the ferry and into France .  Heavy rain ! 
+33	 @ jimalkhalili  @ davealkhalili  @ katealkhalili  @ ProfBrianCox At his age hes approaching time lord status anyway  :  -  ) 
+33	 .   @ joshpollard  @ JamesMontemagno Youre lucky .   I frequently get BSOD on my  # Lenovo  # ThinkPad W510  ( watchdog timer )  with Windows 8  :  -  ( 
+33	Just joined the band and installed Windows 8 Release Preview .   Lovin it  :  -  )   Much improved and the Metro Apps are pretty good ! 
+33	Dont forget ,  follow new and updated  # PowerShell Connect entries in your RSS reader here :  
+33	 .  @ Jaykul Nice Script :  -  )   BTW ,  is it just me / poor eyesight ,  or is there no  " Copy to Clipboard "  button on 
+33	 @ metrotwitapp Hi Guys ,  whats the story with Windows 8 ?   No tweets in  " mentions "  ,   " my tweets "  etc  (  " No tweets to display "  )   -  help ! 
+33	RT  @ Jaykul If only  @ Twitters web interface ,   (  .  .  .  )  could show them  & amp ;  keep my spot so I could read them !    & lt ;  -  use  @ metrotwitapp  :  -  ) 
+33	 @ pcgeek86 What will  @ MetroTwit do ?  ! 
+33	 .   @ asklloydstsb Can I add a vote for a Windows Phone 8 version of your online banking app please
+33	Good morning GB ,  fine weather  ( if a little blustery )  for a cycle ride to the Med !   Setting off for 800 miles - ish in an hour  -  eek ! 
+33	Arrived  @ Millau  :  -  )  Fabulous ride ,  a few nutty switchback bits ,  dropped  into the town on the old road ,  6 %  down hill for 9km :  -  ) 
+33	 @ surface Hey Guys ,  sorely tempted ,  I see RT includes PowerShell ,  does it include PowerShell ISE too ?   thanks
+33	 @ pcgeek86 Highly recommended ,  get to the country as well as Paris though  :  -  ) 
+33	Just had the very ,  very great privilege of seeing Roger Penrose 
+33	Amboise on the Loire for breakfast ,  nice chateau  :  -  ) 
+33	At Notre Dame De Courson ,  twinned with Sampford - Per
+33	 .  @ energizedtech Even the cheapest MSDN renewal is more than twice the price of TechNet +  and offers many fewer products .  Its not comparable . 
+33	iPhone 5S  -  S stands for Same  -  ha ha !  
+33	Idera PowerShell Plus now appears to be free .  .  .   
+33	 .  @ pcgeek86 Instant fix :  use 
+33	Lac Vassivere ,  2100ft ,  very scenic :  -  ) 
+33	 @ AskLloydsTSB Thanks !   Much appreciated ,  will keep following and voting  :  -  ) 
+33	RT  @ shanselman No joke .  Fascinating read :   " Xerox scanners / photocopiers  * randomly alter numbers *  in documents "  
+33	Croissant and coffee in Mamers ,  its market day ,  very French !  Fab cycling weather  :  -  ) 
+33	 .  .  Sampford - Peverell rather !  Happy birthday Dmitry Sotnikov :  -  ) 
+33	Wow ,  these ferries will never catch on ,  queuing for hours ,  Eurotunnel is the way forwards .  .  . 
+33	Hard day !  Hills started after the coffee ,  along with the torrential rain !  No camp site to be found either .  .  . 
+33	 @ CannyCreative 
+33	 @ IrisClasson  @ MarcoShaw   1  (  ?  based on recollection of maths from 25 years ago ,  but Im an optimist :  -  ) 
+33	 .  .  . stopped at the Hotel Auberge at Bourganeuf  -  luxury :  -  )  Night on the town later maybe :  -  ) 
+33	My Diary 
+33	New blog post  -  Getting NTP / SNTP Time with  # PowerShell 
+33	RT  @ JeffWouters My new blog :  Wake On Lan  .  .  .  Jeff :  I think you may have referenced the wrong source script ?   See :  
+33	 @ JohnACook  " Can I get a witness ,   yeah ,   I said  Come on ,  can ,  I get a witness "   Black Grape 
+33	 @ adamdriscoll  @ r _ keith _ hill  @ VisualStudio  @ ch9  & lt ;  -  I think the video undersells it ! 
+33	 .   @ oising Great for testing clients ,  but on servers I hardly ever use the console these days :  Remote PowerShell 1st or RSAT if not  :  -  ) 
+33	Another 95 for a total if 190miles in 2 days  ( all flat though so a doddle :  -  )      ( Checked in at Wisseler See )  
+33	RT  @ bsonposh Really wish  # Spotify integrated better with iTunes   & lt ;  -   ah ,  the open Apple ecosystem :  -  ) 
+33	 @ orinthomas Hi Orin ,  I see you have PowerShell on RT   -  cool !   I assume no ISE ?   How would you edit scripts ?   Is there a notepad ? 
+33	Updated Blog :  Modifying photo exif datetaken values with  # PowerShell 
+33	 @ jonoble I must be doing it wrong ! 
+33	Test SMS tweet ,  please ignore :  -  ) 
+33	Set up for the evening .   Pedaling begins in the morning .  Time for a couple of beers :  -  )  
+33	 .  @ energizedtech   ( Not to mention the initial first - year cost which I  ( or my company ,  unfortunately )  wont pay )   # technet  # fail
+33	Somehow I missed this in the Christmas rush 
+33	RT  @ cjwarwickps  # Pushalot is Very cool !   
+33	 @ bernd _ k  $ Hash . GetEnumerator (  )  | ft name ,  value
+33	Finally running a Metro version of  @ MetroTwit  :  -  )    Excellent ! 
+33	More G *  * gle privacy jokes :  Claims UK law doesnt apply !  
+33	Thats what I call a hill !   ( Checked in at S .  Bernardino )  
+33	 @ alanrenouf  @ halr9000 I always use 2 .  Except sometimes in tweets when it can become necessary to sacrifice the second to avoid running out o
+33	 @ jonoble How was your head this morning ?  ! 
+33	 @ thurrott  @ JohnACook Hey ,  fellow g *  * gle fans !   Check this out :  
+33	 # PowerShell file system provider finally supports credentials  -  
+33	 @ CannyCreative Yeah  -  I know ,  my contribution to their demise is pitiful ,  but it makes me happy  :  -  ) 
+33	 # PowerShell generate 14char complex passwords :   Add - Type  - AssemblyName System . Web ;   [ Web . Security . Membership ]  :  : GeneratePassword ( 14 , 2 ) 
+33	Congratulations to  @ RSiddaway for his 1 millionth blog hit :  
+33	 @ JeffWouters Thanks for the RT  :  -  ) 
+33	 @ toenuff  @ JamesBru  @ StevenMurawski  @ bielawb  @ adamdriscoll Dont drink with  @ JamesBru  -  I still havent recovered !   Hi to all  :  -  ) 
+33	 @ CannyCreative I obviously expect too much for nothing !  ! 
+33	RT  @ jsnover  @ OEDonline OED Word of the Day :  achoo ,  v .  :   
+33	 @ CannyCreative Thanks !  I may just be over - reacting to problems editing content  ( the web editor is naff  & amp ;  Live Writer wont edit in place ) 
+33	Day 4 done ,  330 miles in .   Basal tonight .  .  .  .   ( Checked in at Brasserie du rhin )  
+33	 @ CannyCreative I dont use any Google service  ( exception :  YouTube which I try to avoid  ( and I never sign in  -   & amp ;  I block their cookies  :  -  )  ) 
+33	 @ pcgeek86 Afraid not .  Qualcomm on Gigabyte Z77MX - D3H mboard .  No longer shares between host  & amp ;  guests ;  1 or the other .  Will move VMs to server
+33	Check your Windows Phone GDR 2 availability in Europe ;  
+33	 .   @ juneb _ get _ help  .  .  . not if you have set - strictmode in your profile  ( as you should  :  -  )  ) 
+33	Were off !  15 miles in and stopped for Costa :  -  ) 
+33	 @ StevenMurawski  @ juneb _ get _ help Try 
+33	 .  @ martinclarkson Good luck me - me  :  ) 
+33	Good series on automating lab builds with  # powershell from  @ deepfat 
+33	Hic .   ( Checked in at The Fox At Peasemore )  
+33	New  # PowerShell Script :  three ways to identify UEFI or Legacy BIOS :  
+33	 @ andyjmorgan  @ JeffWouters Very true !   Mine was based on work by MoW  -  not seen him about much recently .  .  . 
+33	At the Bat and Ball having a lovely pint of Fullers London Pride at a very reasonable rate  ( Jason !  )  Only 10 miles to Portsmouth
+33	 @ Andy _ BClough Hey Andy  -  hows the weather ?   Snow looks good  -  off to Les Arcs but not until end March .  .  .   Have a good one :  ) 
+33	Checked in at Dam Square 
+33	Eeek !  Bug in  . Net regex replace with lazy quantifier :   \  \ server \ data \ folder \ data and stats  - replace  .  *  ?  \  \ data  # PowerShell  # dotnet
+33	RT  @ makovec  .  .  .  Last week I celebrated four years on Twitter .  It was great time  .  .  .  # PowerShell community .  Thank you all !   :  )    & lt ;  -  Thank you ! 
+33	 @ ravikanth Hi Ravi ,  yes ,  long time !   Just started up MetroTwit  -  been a while .   Looking forward to reading your desired state article :  -  ) 
+33	RT  @ ravikanth PowerShell ISE Addon :  Yet another ISE function explorer 
+33	 .  @ mrjimBob  @ Carter _ 69 Where were The Ramones ?   Come to that ,  where were Carter USM ?  ?  ? 
+33	NASA TV !   Watch Curiosity landing tomorrow 05 . 30 UTC 
+33	 .  @ ThomasMaurer  @ energizedtech Thanks for the RT guys  :  -  ) 
+33	Less than a mile to go to the sea !  Waiting for the support boys to catch up :  -  ) 
+33	Got to Portsmouth ,  all 8 of us now enjoying a refined evening meal  ( with Cobra :  -  ) 
+33	 # PowerShell UK User Group live meeting now on :  
+33	Just back from a fab week skiing in Les Arcs ,  in the office catching up .   51 weeks to go before next trip .  .  ! 
+33	Checking out the Windows Server Online Backup Service :  
+33	 @ ProfBrianCox Yeah  -  sympathise ,  but youre just raising his profile ,  particularly to any other nutters who happen to follow you :  ( 
+33	RT  @ sstranger Thinking about using my  # raspberrypi browser to open  # PowerShell Web Access .  Will it work ?   & lt ;  - Well ?  ?   The suspense is too much ! 
+33	OneNote :  -  )   @ ShayLevy   Try Onetastic powertoy 
+33	 @ jonoble YUK !  !  !   You need beer :  -  ) 
+33	PowerShell script to read network NTP time 
+33	At Argenton - sur - Creuse ,  a swift 23 miles before coffee .  Suns making a rare appearance .  .  .  Good tunes Dave  :  -  ) 
+33	Wow ,  5 miles of exhilarating ,  winding downhill into the Gorge Dordogne ,  followed by a cruel teeth - gritting 6 mile crawl back out ! 
+33	 # Pushalot is Very cool !   

@@ -1,0 +1,67 @@
+2	 @ laazyj  @ MyGetTeam VS restart hasnt helped me ,  either . 
+2	 @ laazyj  @ MyGetTeam Yep  -  according to Fiddler2 ,   its exactly the same for me ,  too  -  no Auth info appears to be sent . 
+2	 @ laazyj  @ MyGetTeam Heres an fiddler trace of a 401 Unauthorized when accessing a myget hosted feed via studio :  
+2	 @ anton _ sutton 
+2	 @ ventongimps  @ kjwhite82  @ JohnGlendon  @ ChrisTaylor  @ efeek Unfortunately ,  no can do  -  I have plans this weekend
+2	Kickstarter project for updating the database migraitons for django 1 . 6 / 1 . 7 :  
+2	 @ JohnGlendon lucky you .  .  .  Im stuck with trains .   .  .  .  They are useless ! 
+2	 @ JohnGlendon  how are you getting to work with all the snow ?   Hope is not been too much of a hassle .  .  .  . 
+2	 @ JohnGlendon  hope getting into work wasnt too bad for you today ! 
+2	 @ MyGetTeam Ive got  a problem where a feed isnt updating its versions with pushed and accepted nugets .  Can anyone help ? 
+2	 @ JohnGlendon very apt ! 
+2	 @ JohnGlendon  @ kjwhite82 poor cat .   Has she been fighting with bubble or another cat ? 
+2	 @ JohnGlendon  @ kjwhite82 oh no .  .  .  poor kitty .  Is she ok ? 
+2	 @ kjwhite82  @ JohnGlendon He doesnt change ,  Kev !  !  !  Glad youre okay mate .  .  hope life at JLT is better than it was
+2	 @ kjwhite82 Life is going well ,  thanks mate .   Working with JG isnt too bad ,   the crazy can be ignored .  Hows life with you ? 
+2	 @ kjwhite82 You have a good weekend too ,  mate . 
+2	 @ kjwhite82 The new place is good so far  -  Im currently immersed in a 
+2	 @ kjwhite82 Just my P45 and all the termination stuff hasnt arrived yet .  .  .   Man ,   they cant even get people leaving right !  ! 
+2	 @ kjwhite82 Is JW in the office at all ? 
+2	 .  .  .  my last day at JLT Online .  .  and I cant wait for it to be over ! 
+2	 @ JohnGlendon I hear its a common deployment for you  :  ) 
+2	 @ JohnGlendon Gladly ! 
+2	 @ ventongimps cheers .  .  .  and not really .  .  at least JGs insanity is predictable and logical ! 
+2	Bye bye ,  Jlt !  Time to move on to pastures new .  Exciting times  :  -  ) 
+2	 @ ventongimps I have a job spec on my desk here for Team Leader at Focus Business Solutions !  !  !  ! 
+2	 @ ChrisTaylor Makes me glad that Ive not applied them yet .   Surely you need to get yourself a nice MacBook Pro with Retina display ? 
+2	 @ ventongimps  @ JohnGlendon dont worry .  .  .  Itll soon go down to one after . the ridiculous 1 on 1 I had on Friday .  .  .  .  . 
+2	 @ ventongimps  @ johnglendon He does eat all the pies .  .  .  .  .  . 
+2	 @ JohnGlendon  @ ventongimps By that he means they are going to water board him  .  .  .  .   :  ) 
+2	 @ ventongimps  @ JohnGlendon DM  & gt ;  & gt ;   @ JohnGlendon
+2	 @ ventongimps  @ JohnGlendon Nice !   Did he bring you up to speed in the latest constructor techniques ? 
+2	 @ ventongimps Im fuller than a full thing at a filling competition ! 
+2	 @ ventongimps Well ,  it turns out I did get a Belly Buster .  .  .  they gave me the wrong thing  :  ) 
+2	 @ ventongimps Wow ,   thats desperation .  .  .  . 
+2	 @ ventongimps I may have the full english rather than the Belly Buster .  .  .  Im not Im that hungry  !   Hope you are having a nice day of r  & amp ;  r ! 
+2	 @ Ferrett1978 You are too nice to me  :  )   :  ) 
+2	Yay !  I got my new  @ Raspberry _ Pi on order from RS .  Only 9 weeks to wait ! 
+2	 @ ventongimps Look on the bright side  -  at least you werent rudely told to shut up .   :  ) 
+2	 @ JohnGlendon  @ christaylor  @ ventongimps Erm ,   no .  .  Almost only counts in games of horseshoes and fireballs .  .  .  .  . 
+2	 @ ChrisTaylor  @ ventongimps I think pigs will fly first .  .  .  .  .  . 
+2	 @ Runniff I hear congratulations are in order ! 
+2	 @ ventongimps  @ JohnGlendon well ,  Im not in until Monday  so .  .  .  .  .   :  -  ) 
+2	 @ ventongimps  @ JohnGlendon congrats ,   Andy .  Bet you cant wait  :  -  ) 
+2	 @ JohnGlendon how did the interview go yesterday btw ? 
+2	 @ Runniff Thanks ,  Steve .   It does look gorgeous  :  ) 
+2	 @ anton _ sutton Thanks .  It took long enough to get ,  but its a monster  :  ) 
+2	finally on two wheels again : Yaay ! 
+2	15 minute queue for tickets for the train and still no ticket .  .  .  .  Stupidity ! 
+2	 @ JohnGlendon Well ,  youre definitely a leg - end .  .  .  .  .   :  ) 
+2	Im somewhat sunburnt ,  in March .  .  .  .  I hope it doesnt turn into sunstroke ! 
+2	 @ anton _ sutton  @ mattberryman Saw that this morning via Hacker News .   What a great set of wrappers ! 
+2	 @ ventongimps Its not just you .  .  I find him to be a complete tool too .  . 
+2	Always have your stuff when you need it with  @ Dropbox .  2GB account is free !  
+2	 @ ventongimps  @ johnglendon Get well soon mate . 
+2	Argh ,   manufacturing and part sourcing issues with the raspberry pi :  
+2	 @ anton _ sutton Thats the exact reason I want two .  .  .  one for a video player  and one to hack ! 
+2	 @ anton _ sutton  @ Raspberry _ Pi Those things are great .  .  .  I hope you have fun with it .  .  Im planning on getting one too .  .    :  ) 
+2	
+2	 @ ventongimps thanks !  Its turning into a great start .  .  .  .  I left work to find I had a puncture last night .  .  .  Typical ! 
+2	 @ JohnGlendon Theyd be  ( un ) lucky to  " have "  you .  .  .  . 
+2	 @ ventongimps  Im used to Antz pain now .  .  .  I think I am immune ! 
+2	 @ ventongimps Just about to .  .  .  then I need to go thru the other tickets and ensure they are fixed too .  .   Hope you are having a nice day off ! 
+2	 @ Runiff That IPod backup program was called SharePod  ( 
+2	 @ ventongimps congrats mate .  Hope baby and mother are both fine ! 
+2	Cheap Android Phone with these specs ?   
+2	Petition to stop the benefits of rioters :  
+2	 @ JohnGlendon ,   @ ventongimps ,   @ ChrisTaylor moo  :  ) 

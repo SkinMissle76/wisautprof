@@ -1,0 +1,179 @@
+-0.4	What I want to know is who all were fired  @ hostgator for dereliction of duty to the customers .   # fail 
+-0.4	Our website and email have now been restored .   # hostgator had some major issue which had lead to our site being down .  Need to change . 
+-0.4	IDesignSpec caveman Ad .  
+-0.4	Agnisys caveman video 
+-0.4	In Houston ,  Boston and hopefully Portland ,  ME this week visiting  ( potential )  customers . 
+-0.4	OMG what a  # 50DAC Agnisys had in Austin .  Best Ever  !  !   # EDA  # SemiEDA 
+-0.4	 @ karenbartleson Good to hear back .  Ill stop by .  Any particular time slot for CC  ? 
+-0.4	Agnisys joins Synopsys In - Sync program for greater interop between IDesignSpec  & amp ;  SynplifyPro  # 50DAC  # SemiEDA  # snps  @ karenbartleson
+-0.4	RT  @ lorikate :  Gary Smith  # EDA :  14 ESL products on What to See  @   # 50DAC :   @ CalyptoDesign  # 1247 ,   @ Agnisys  # 1543 
+-0.4	Thanks Pradeep !  RT  @ pradeep612 :  Agnisys makes design verification process extremely efficient !  
+-0.4	Kickin it up in Austin with Agnisys .  We are sponsoring this event  @ 50thDAC 
+-0.4	 @ 50thDAC Austin roadshow for IDesignSpec  -  Executable Design Spec .  ,   & amp ;  IVerifySpec  June 3rd - 5th Booth  # 1543 
+-0.4	 @ DVCON  Hardcore UVM presentation by  # Verilab is interesting .  Taking about embedding SVA in UVM .  Need to check proceedings for details
+-0.4	Thanks  @ dennisbrophy for the   # DVCon party invitation .  Guess  # MENT knows how to take care of partners and customers .  Looking forward to it ! 
+-0.4	My upcoming roadshow ! Seattle  :  Feb 21  -  feb 24San Jose  :  24  -  28Boston  :  28  -  mar 2ndHope to see some of you ! 
+-0.4	Yea !  We are going to  # DVCon  !  
+-0.4	Evolution of a start up is very similar to evolution of biological organisms  .  .  .  amusing . 
+-0.4	Begin Initialization Sequence – 10 ,  9 ,  8 ,  … 
+-0.4	USPTO assigns a broad patent to Agnisys for IDesignSpec  ( Executable Specification )  :  
+-0.4	 @ sricvc  Congratulations for the new edition Srini ! 
+-0.4	Tried to use ZOHO to manage support .   # fail  # junk
+-0.4	RT  @ Agnisys :  New release of IVerifySpec  ( 3 . 4 )  for Agile Verification Planning and Management .  New front end ,  new capabilities  # SemiEDA  # eda
+-0.4	Thanks Srini !  RT  @ CVCBLR :  Read about various  # EDA solutions and whats new in them for Verfication engs at :  
+-0.4	 @ dorecchio I got it to play with the  # ARM Cortex ,  andriod etc .   # panda
+-0.4	Just got a 
+-0.4	New blog post after 1 yr and 6 days  :   Customer’s Music and DVCon 2012  :  
+-0.4	 @ harrytheASICguy  me2 .  havent updated it in a year ! 
+-0.4	Frying Fish at  # DVCon  
+-0.4	Great to hear Art at this yrs  # DVCon Talked abt Executable Specification and Collaboration .  Maps perfectly with our tools !    # SemiEDA  # SNPS
+-0.4	Meeting customers in San Jose  &  Boston area March 1st  -  March 8th  :  gathering feedback ,  improving product lines . 
+-0.4	Agnisys offers free Register Generator for UVM 
+-0.4	IDesignSpec poster at the IP - XACT tutorial session  # DVCon  # SemiEDA was well received .  Visit  # 702 at the Exhibits for Free UVM tools
+-0.4	Planning for  # DVCon Visit  @ Agnisys Booth  # 702 .  Open for meetings  :  San Jose Feb 26th  -  March 3rd .  Boston HQ March 4th  -  March 8th  # li  # EDA
+-0.4	Count down to  @ DVCon has begun .  Registration rates to go up from tomorrow !   # EDA  # SemiEDA
+-0.4	1st Annual Accellera Tech  Excellence Award :  
+-0.4	 @ CVCBLR  I hope you are using IDesignSpec on that  :  )    
+-0.4	Verification Martial Arts on VMM Central  :  Closed loop verification of Register Models 
+-0.4	God ,  not another language .   SV is here to stay .  RT  @ CadenceDesign :  Rumors  .  .  . 
+-0.4	Webinar :  Closed Loop Verification of Large Designs 
+-0.4	 @ faes How about Sigasys  :  ) 
+-0.4	 @ marketingeda  @ tomacadence  # EDA is diluted  # SemiEDA is limited in scope  # EDA360 one company promotes .  How about  # EDA1  :  Complete blue field ! 
+-0.4	 # EDA startups should learn not to be dependent on VC money anyway !  RT  @ keensoftware :  Costello :  VCs see .  .  .  
+-0.4	Oh and the deadline just got extended after all  :  )  RT  @ bakshia :  OK submitted mine with minutes to spare .  Phew !   # dcvon RT  @ bakshia :   @ dvcon  .  . 
+-0.4	OK submitted mine with minutes to spare .  Phew !   # dcvon RT  @ bakshia :   @ dvcon Any chance the deadline will be extended for paper submission ?  .  .  .  . 
+-0.4	 @ dvcon Any chance the deadline will be extended for paper submission ?  Its summer time after all  ;  ) 
+-0.4	RT  @ am _ its :  Verification Martial Arts » The ‘user’ in RALF  :  get ralgen to generate ‘your’ code 
+-0.4	Looking forward to the webinar !  RT  @ dennisbrophy :   .  .  .   # OVM to  # UVM transition Wed ,  August  11th  .  .  .  Register at go . mentor . com / wd7l  # semieda
+-0.4	Interesting !  RT  @ nosnhojn :  More hardware perspective from  # agile2011 day 2  -  
+-0.4	 @ am _ its I think solvnet is for synopsys customers only  -  according to the registration page . Partners can download sw but not access articles
+-0.4	 @ am _ its Not sure why Synopsys doesnt allow partners access to such articles . 
+-0.4	Automatic generation of Register Model for VMM using IDesignSpec 
+-0.4	Something tells me we havent heard the last of GateRocket .  There may be a silver lining to all this .   # keepthefaith  # SemiEDA  # EDA  # FPGA
+-0.4	Proud moment !  RT  @ Agnisys :  Ver 3 . 0 of IVerifySpec is out  -  manage regressions ,  reqs ,  verif plan ,  metrics ,  history ,  bugs  # EDA  # SemiEDA
+-0.4	Thanks for the mention Gary .  RT  @ GarySnA :  Interview with  @ bakshia of  @ Agnisys about IDesignSpec .  
+-0.4	 @ faes  thats interesting ,  looking forward to your post . 
+-0.4	 @ faes  really ,  did it work ? 
+-0.4	Attended  # MENT sponsored Tech Design Forum .  More System Level focus corresponding to the name change from EDA Tech Forum  # SemiEDA  # EDA
+-0.4	 @ SachinGargIndia when i last used  . m to c +  +  it had some issues ,  but that was a long time ago and they probably have made it better . 
+-0.4	Didnt plan but may be i shdhow is business
+-0.4	 @ harrytheASICguy  Good to know  @ Xuropa now has Windows .  Looking forward to getting IDesignSpec running on it . 
+-0.4	 @ SachinGargIndia Matlab is straightforward and fun to learn and use .  I always liked it .  BTW Ill be  @  EDA tech forum  @  Radison on July20
+-0.4	Redefining  # EDA  :  Electronic Document Automation RT  @ Agnisys :  IDesignSpec for Word2007 :  Register Model Gen ver3 . 0  .  .  . 
+-0.4	 @ DVClub Delhi  -  Great start 
+-0.4	DVClub Delhi tomorrow !  RT  @ bakshia :   .  .  .  First DVClub Delhi event on July 6th 
+-0.4	Great to have Chi - Foon Chan  # SNPS president and COO at the  @ Agnisys booth at  # SNUG in Blr .   
+-0.4	Still time to register for the First DVClub Delhi event on July 6th 
+-0.4	Yes !  learnt the hard way !  RT  @ JamesColgan :  If you dont care passionately about the sales process youre buil…  ( cont )  
+-0.4	Meet us at  # SNUG Blore .  Closed Loop verification with VCS  &  IVS ,  Register Modeling with IDS .   # SemiEDA  # EDA  # SNPS 
+-0.4	Meet us at  # SNUG Blore .  Closed Loop verification with VCS  &  IVS ,  Register Modeling with IDS .   # SemiEDA  # EDA  # SNPS 
+-0.4	Often nice to visualize regs RT  @ Agnisys :  IDesignSpec creates vr _ ad  # eRM  &  SVG frm  # IP - XACT SystemRDL XML Word Excel  # EDA 
+-0.4	All the best Dave !  RT  @ dorecchio :  Check out GateRocket on John Cooleys cheesy must - see list for  # 48DAC http :  / …  ( cont )  
+-0.4	 @ sheikabhi  sorry that wasnt meant for you .  I apologize . 
+-0.4	 @ boldport Saw your site 
+-0.4	A Camel is not an inferior animal  ;  )  RT  @ boldport :  Reg .  IP - XACT :  My main concern is design - by - committee effect…  ( cont )  
+-0.4	 @ JimsInTucson  @ BrettOliver  @ LucAce IDS for Register mgmt .  and IVS for Verif .  mgmt .  save you time and  $  $ s .  Takeem for a spin / ask for demo
+-0.4	 # 48DAC  # SemiEDA RT  @ dorecchio :  Your Best DAC Ever 
+-0.4	A month in lab can often save an hour of verification planning  # FPGA  # SemiEDA RT  @ skmurphy :   " A month in the la…  ( cont )  
+-0.4	Good idea !  RT  @ karenbartleson :  Announcing a new hashtag for EDA !   # EDA is too diluted ,  cant get it back .  Lets use  # SemiEDA . 
+-0.4	RT  @ bakshia :  I created group DVClub - Delhi on Linkedin .  :  
+-0.4	I created group DVClub - Delhi on Linkedin .  :  
+-0.4	Organizing DVClub Delhi .   DM if you want to help steer it  # EDA  @ dvclub
+-0.4	RT  @ Agnisys :  Customers asked for VR _ AD output from Register Generator  -  IDesignSpec .  We have delivered .   # EDA   # CDNS   @ jhupcey  @ teamspecman
+-0.4	I missed the keynote .  Thanks for sharing Wallys presentation RT  @ dennisbrophy :   .  .  .  
+-0.4	Dave did very well RT  @ GateRocket :   @ Agnisys ,   # UVM and FPGAs at  # DVCon  -  I score a B on the Assertions Test 
+-0.4	Graham Bell of  @ EDACafe released new videos from the  # DVCon floor 
+-0.4	What a  # startup can do to you  -  more gray hair ,  or no hair  :  )  Think of starting one ,  if you dont care about either . 
+-0.4	If you are at  # DATE this week see  # Agnisys products live at our partner EASII - ic booth  # 29   # EDA
+-0.4	I like the way you put it .  RT  @ harrytheASICguy :   # DVCon Winners and Losers 
+-0.4	Meeting  # EDA customers in Boston  # li
+-0.4	Are assertions difficult ?  
+-0.4	Thanks to  @ harrytheASICguy   @ Xuropa  &   @ JamesColgan for their marketing help at  # DVCon  .  Good to have experts at the booth  # domorewithless
+-0.4	 # DVCon party over .  Now get back to work !   # EDA
+-0.4	 # DVCon  
+-0.4	 # DVCon 
+-0.4	Tom did good RT  @ harrytheASICguy :  Tom Fitzpatrick passes the assertions quiz at the  @ Agnisys booth at  # DVCon  # EDA 
+-0.4	Great dinner party by  # MENT Got my free UVM cookbook signed by verification greats .  Will be worth its weight in gold some day  :  )   # dvcon  # eda
+-0.4	Got up at 3 : 00 AM .  Competition heating up in Spec to Register space .  I say bring it on .  Now back to sleep  :  )   # DVCon  # EDA
+-0.4	Headed to  # DVCon  # UVM tutorial .  Check Agnisys Poster at lunch time .  There is a special offer to generate UVM registers from Excel .   # EDA
+-0.4	 @ dennisbrophy  Yes beautiful day in San Jose .  .  .  ready for  # DVCon
+-0.4	Check your SystemVerilog Assertion skills 
+-0.4	 @ pmarriott Clarification :  Free Register model generator !  Ofcourse  # uvm has classes for creating a register mod…  ( cont )  
+-0.4	All ready then !  RT  @ dennisbrophy :   # Accellera Board approves  # UVM 1 . 0 unanimously .  UVM tutorial set for  # DVCon .   # EDA . 
+-0.4	 @ DVCon and   # DATE preparations at feverish pace .   # EDA  .  New tool for SVA  ( iAssertSpec )  ,  exciting features ,  a Quiz and free  # UVM stuff ! 
+-0.4	RSA Animate  -  Drive :  The surprising truth about what motivates us 
+-0.4	 @ karenbartleson Likewise !  And thank you for the wonderful 10 Commandments book 
+-0.4	New  @ GateRocket ad is funny  :  
+-0.4	RT  @ vwadhwa :  Desperation to succeed / fear of starving motivates entrepreneurs to listen to customers ,  think smarter .   Money can be a curse . 
+-0.4	iAssertSpec  :  Create accurate SV Assertions for Verification .  Match assertions to design requirements .  Must see at  @ DVCon booth # 703  # EDA
+-0.4	Way to go .  Step on the Cloud !  RT  @ JamesColgan :  FPGA LTE webinar and Design in the Cloud 
+-0.4	Get Register Generator  
+-0.4	See u there !  RT  @ Agnisys :  Exhibiting  @   # DVCon Register generator ,  Verification planner and Spec assertion 
+-0.4	 @ ytrivedi  IEEE corporate award for  # snps  :  Congratulations !  A very good role model for smaller EDA companies .   
+-0.4	Thing to do this holiday season !  RT  @ Agnisys :  Take this short survey on Verification Planning and Mgmt .  
+-0.4	Happy Holidays from the entire Agnisys Team !   
+-0.4	Surprised but thrilled that Big Universities want our tools !  Continue work on University Loan program .  Looking for a good name for it  # EDA
+-0.4	Just released  :  )  New demo videos IVerifySpec 
+-0.4	I just donated to  # Wikipedia .  Help keep it free !    # keepitfree 
+-0.4	Wonderful resource RT  @ jhupcey :  RT  @ teamverify :   .  .  . 1 of 50 papers on Formal , multi - engine ,   &   # ABV tech & methodology ?  
+-0.4	Everything passing for all ?  RT  @ CVCBLR :   # UVM 1 . 0 regressions up and running all 3 major tools at CVC www . cvcblr . com  # CDNS  # SNPS  # MENT  # eda
+-0.4	Excellent !  No better deadline than a conference start date .  RT  @ markglasser :   # Accellera  # VIP - TSC says  # UVM will be released by Feb 16 . 
+-0.4	RT  @ Agnisys :  New IDesignSpec  :  Register Generator for  # UVM ,   # OVM ,   # VMM ,   # eRM .  Excel Plugin available .  Demo 
+-0.4	 @ ytrivedi Fixed Accellera links !  RT  @ bakshia :  Age of cooperation ,  is it ?   # EDA 
+-0.4	Age of cooperation ,  is it ?   # EDA 
+-0.4	Harvesting customer testimonials for IDesignSpec  :  Executable register specification 
+-0.4	 # UVM User Guide coming together .  Nice to see hard work of so many Verification Experts coming to fruition .  UVM will rock  # eda
+-0.4	Happy  # Diwali everyone !  
+-0.4	RT  @ harrytheASICguy PAYPAL is donating  $ 0 . 05 per tweet when you use the hashtag  # beatcancer .  Pls RT for charity . 
+-0.4	Hype Cycle 
+-0.4	Wonder why it takes so long to unravel .  RT  @ bradpiercephd :  That good old British Empire :  
+-0.4	 @ TomAtMentor  @ jlgray  @ tomatcadence  A whooping 89 %  respondents said that  # UVM must have a reg package 
+-0.4	Growing pains in Bangaluru ,  but great customer visits .  Nice to see local bigger decision making power  -  makes it ease for  # EDA companies
+-0.4	First visit to Hyderabad ,  found it to be very clean with nice people ,  great transport and low low cost of living  -  8 Coconuts for  $ 1  ! 
+-0.4	Good for EDA RT  @ karenbartleson :  Coop on standards ,  compete on products  @ dennisbrophy 
+-0.4	Notice  @ ronkarr there are 5 tips !  RT  @ bakshia :  5 tips to speed up regressions  
+-0.4	5 tips to speed up regressions  
+-0.4	RT  @ jlgray :  Ballot results in  -  Synopsys / Mentor UVM _ RAL package selected as basis of  # uvm register package .   # accellera  # viptsc
+-0.4	 @ jlgray  Any more pictures from yesterdays fireworks ? 
+-0.4	 @ jlgray Nice to see pictures .  Like being there .  Thanks ! 
+-0.4	Planning to attend  @ designreuse IP - SoC Days in Blore 
+-0.4	Looking forward to the result .  RT  @ jlgray :   # accellera  # viptsc face2face in Austin to determine RGM or RAL will be basis of UVM package . 
+-0.4	 @ pmarriott  @ DrUVM Deserves the loudest condemnation .  OK to have diff point of view but this is crossing the line .  Bad for  # EDA
+-0.4	Thats a bold move by Mentor ,  others should follow suite RT  @ dennisbrophy :   # UVM Register Package 
+-0.4	RT  @ dennisbrophy :   # UVM Reg Pack Candidate News ;  Mentor / Synopsys Collaborate on RAL « Verification Horizons BLOG 
+-0.4	Probably the first  # EDA company to offer Live support  RT  @ Agnisys :  Live support chat on Agnisys website 
+-0.4	RT  @ Agnisys :  Register mgmt with IDesignSpec demo now open for public 
+-0.4	vimdiff perhaps RT  @ adielkhan :  how do I diff 600MB files  ?   # tkdiff has died ,  unix diff has too much info to make sense of it . 
+-0.4	 @ yaron _ think _ ver  Agreed .  Interested in HOW a Vendor Neutral  # agile plan is created ,  maintained and monitored .   
+-0.4	 @ yaron _ think _ ver Like verf .  checklist 
+-0.4	Bigger the company ,  slower IT moves .  Many still using MS Word 2002 !  Asking for Word 2002 ver .  of IDesignSpec plugin for register mgmt .   # EDA
+-0.4	 @ ronkarr We create  # EDA Electronic Design Automation software for the Semiconductor industry .  We helpem improve productivity ,  quality  &  TTM
+-0.4	 @ ronkarr  Purchase wasnt a result of a tweet .  And I do marketing and sales ,  some engineering still . 
+-0.4	 @ ronkarr  Bought it  at an airport ,  cant remember which one !  Wasn
+-0.4	 @ ronkarr Will let you know when we harvest using the new techniques !  Book is great .  Best  $ 25 I ever spent on an impulsive buy  ;  ) 
+-0.4	 @ ronkarr  Was focused on products and features  ( being an engineer )  .  Now focus is on Value and Outcomes .  Much better conversations . 
+-0.4	 @ ronkarr Hi Ron ,  Im implementing your book these days .  Having lots of success with it . 
+-0.4	RT  @ Agnisys :  New IVerifySpec released .  Dynamic bidir links to MS Word for capturing requirements .  Differential heat - maps added .   # EDA  # li
+-0.4	Agreed !  New tools needed .  RT  @ dorecchio :  Amazing set of data regarding the FPGA debug crisis .  New tools needed 
+-0.4	Accellera Register Package Task Force for  # UVM is being formed .  Join in to collaborate and contribute .   # EDA  # li
+-0.4	Congrats  # MENT RT  @ jdonovan43 :  Mentor Passes Cadence in  # EDA Market 
+-0.4	 " None of my wars went according to plan ,  but then ,  I never went to a war without planning "  .   - Napoleon Bonaparte
+-0.4	Amount of data generated in simulation regression is so large .  Solve the problem using  " differential heatmaps "  of results .   # IVS  # EDA  # li
+-0.4	Good requirements for HW design are relatively rare ,  but are indispensable for distributed design and verification teams .   # IVS  # EDA  # li
+-0.4	If you missed  # 47DAC here is Agnisys presentation on Agile Methods for Verification 
+-0.4	If you missed  # 47DAC Agnisys presentation on Automatic generation of OVM regsisters at Mentor / Cadence  # OVM booth 
+-0.4	Recovering from  # 47DAC Nice to see Verification Mgmt .  and Register Mgmt .  are now mainstream  # EDA Teams not using either are loosing out
+-0.4	In Boston presenting Verification Management solutions to  # semi companies  # EDA
+-0.4	 # DAC47 musings 
+-0.4	 @ GateRocket CTO Chris Shalick presenting poster on  @ Agnisys IVerifySpec at  # 47DAC  
+-0.4	 @ Agnisys at DAC 
+-0.4	 @ warren _ savage   @ stephenabailey  @ markglasser  @ jlgray   @ gabemoretti    @ dorecchio  Janick @ Synopsys It was great to see you at  # 47DAC
+-0.4	 @ harrytheASICguy   @ JamesColgan   @ dennisbrophy  @ jhupcey  @ TomAtMentor   @ HarryAtMentor   @ JohnAynsley  It was great to see you at  # 47DAC
+-0.4	 @ nosnhojn Not too much happened ,  and I attended the BoF on Social Media ! 
+-0.4	 # 47DAC  IDesignSpec  :  OVM / UVM Registers from Specification talk at the OVM booth at 4 : 00PM ,  attend to receive a laser pen w /  invisible ink
+-0.4	 # 47DAC Great turnout at the  # OVM UVM booth for the Verification mgmt talk presented by  @ Agnisys
+-0.4	Last day see UVM Verification Mgmt  &  register automation  &  pick up cool lazer pen w /  invisible ink at Agnisys booth 359 at  # 47DAC   # EDA  # li
+-0.4	2 earthquakes in the last 1 / 2 hr  
+-0.4	Still time to signup for the Agile Verification birds of a feather at  # 47DAC 
+-0.4	Done !  Oh and I like the new Xuropa theme .   @ JamesColgan Good luck !  Make sure you include a link to your Software running on Xuropa  ;  -  ) 
+-0.4	Landed in LAX yesterday .  Booth setup today and tomorrow .   Meetings scheduled starting Sunday !  Getting ready for  # 47DAC

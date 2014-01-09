@@ -13,13 +13,18 @@ GENDER_TABLE_INVERTED = {
 
 def AGE_SYS_TO_REAL(sysAge):
   if (sysAge > 1 or sysAge < -1):
+<<<<<<< HEAD
     raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is " + sysAge)
+  return ((sysAge*50)+50.0)
+=======
+    raise NameError("yo watch out dude, sysAge must be between -1 and 1, yours is %s " % sysAge)
   return ((sysAge*50)+50)
+>>>>>>> 838a953029249583c5d5c4d74734715b05ddaf06
 
 def AGE_REAL_TO_SYS(realAge):
   if (realAge > 100 or realAge < 0):
     raise NameError("yo watch out dude, realAge must be between 0 and 100, yours is %s" % realAge)
-  return ((realAge-50)/50)
+  return ((realAge-50)/50.0)
 
 # id -> county
 LOCATIONS_TABLE = {
@@ -88,7 +93,8 @@ EDUCATION_TABLE_INVERTED = {
 }
 
 EMOTIONS_TABLE = {
-    1 : "Joy", 
+    0 : "Neutral",
+    1 : "Joy",
     2 : "Trust", 
     3 : "Fear",
     4 : "Surprise",

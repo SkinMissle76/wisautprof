@@ -10,16 +10,17 @@ import twitter
 import re
 import json
 import time
+import datetime 
+import requests
 
 apiKeys = Apis.Get().Twitter()
-STORAGE_FILE = "Twitter_results_db.shelve"
+STORAGE_FILE = "Twitter_results_db_dump_MALE.shelve"
 db = TwitterUserDB(filename=STORAGE_FILE)
-
 tc = Twitter.TwitterCrawler(apiKeys)
 re_username_find = re.compile(" OkCupid \| (.*?) /")
 
 # Open the dating data
-datingData = open("dump5.txt", "r")
+datingData = open("data/Dating_Data/male_dump.txt", "r")
 
 for profile in datingData.readlines():
 	username = re_username_find.search(profile)
@@ -48,10 +49,15 @@ for profile in datingData.readlines():
 		print "User saved"
 	# Something went wrong, store empty userdata to prevent revisit
 	except twitter.TwitterError as e:
+		print e.message
+		if type(e.message) == type([]) and e.message[0]['code'] == 88:
+			print "[%s] Sleeping for 15 minutes" % datetime.datetime.now().time()
+			time.sleep(900)
 		db.storeUser(username, None, "")
 		print "No twitter profile found for username: %s" % username
-	time.sleep(10)
-#	sys.exit(0)
+	except requests.exceptions.ConnectionError as e:
+		print e.message
+		continue
 #
 #url = "http://uclassify.com/browse/uClassify/Ageanalyzer/ClassifyText?"
 #

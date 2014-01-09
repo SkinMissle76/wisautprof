@@ -1,0 +1,167 @@
+-1	 . cpanel _ config . php  -  Example file used to hack Joomla sites through hole in com _ extplorer .  Thanks to  @ securejoomla 
+-1	Generation X News is out !  
+-1	Takai ,  the official K2 demo site ,  is now available as a free download .  Thank you to  @ fevangelou 
+-1	Generation X News is out !  
+-1	Easy Pinterest is a 300px wide widget for WordPress site to display images from Pinterest from  @ thisismyurl 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Latest Avast Online Security add - on from  @ avast _ antivirus set to block Facebook plugins by default .  Anyone have a server - side workaround ? 
+-1	Todays Google doodle celebrating the 50th Anniversary of Dr Who is truly fantastic .  
+-1	Generation X News is out !  
+-1	WordPress 3 . 8 is available with redesigned dashboard ,  new theme  & amp ;  widget screens ,  vector - based icons  & amp ;  more .  
+-1	Generation X News is out !  
+-1	Red Goes Wright .  Why  @ redCOMPONENT chose the Wright Framework by  @ joomlashack as their  # Joomla framework of choice 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Quick Tip :  Clear Cache  & amp ;  Hard Refresh on Chrome 
+-1	WordPress Co - Founder Matt Mullenwegs keynote at Joomla World Conference 13 .  
+-1	How long are you going to live ?  The hazard curve shows the conditional probability of your dying each year 
+-1	YouTube Audio Library :  selection of free background music for videos ,  by genre ,  mood ,  instrument  & amp ;  duration 
+-1	 @ buildingplanner Hi Sarah .  Just to let you know that on your website the Google +  link goes to the generic 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	 @ DaveTaylor Count me in .  
+-1	 @ TBRBradfordE Procedure outlined here is a useful aid to productivity / workflow ,  too . 
+-1	This list includes some of the most critical Wordpress vulnerabilities known to the security community .  
+-1	Generation X News is out !  
+-1	See if you can beat my time of :  33 : 30  # DrWhoDoodle
+-1	How to Hide Certain  # WooCommerce Sub - Categories in Catalog ,  by  @ SkyVerge 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	 @ ericaheinz You can email me directly from my profile at 
+-1	Generation X News is out !  
+-1	5 Local SEO Predictions for 2014 by  @ sarahbethwiltse ,  via  @ Content _ Money  -  Im working on 3  & amp ;  5 .  
+-1	 # TeamNigella  @ VictoriaCoren on how the brilliant John Diamond led her astray ,  too 
+-1	 @ saddington  @ MrChrisJWilson I completely agree with your rationale ,  although I actually preferred the look of Twenty Eleven for legibility . 
+-1	John  @ Saddington on why he opted to use Twenty Twelve for his blog :  The Kickass - ness of the WordPress Default Theme 
+-1	Image Gallery that applies jQuery Masonry to native  # WordPress image galleries 
+-1	Thank you to  @ HeartInternet for the White Label Christmas Cards  ( and the timely reminder of how few working days are left to send them !  ) 
+-1	 @ jillwhalen Avast throws up a threat detection warning when I try to open this link . 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Well chosen selection of free  # WooCommerce optimised WordPress Themes by  @ colorlib 
+-1	How to speed up  # WordPress :  15 easy methods ,  from  @ GregoryCiotti 
+-1	How to alter settings for front end editing screen in K2 
+-1	WRPage gives an insight into your webpage ,  visitors ,  links  & amp ;  what you can do make it stand out through  # SEO 
+-1	Configuring  # WordPress caching plugins with  # WooCommerce 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Good walk through on how to create a sitemap . xml in  # Joomla !  2 . 5 using Xmap from  @ SonKoral
+-1	Pretty responsive jQuery plugin by  @ webcodebuilder combines  @ Woothemes’ FlexSlider and Jeremy Martin’s Kwicks 
+-1	Generation X News is out !  
+-1	A useful list of essential WordPress plugins ,  as recommended by  @ srikat 
+-1	Generation X News is out !  
+-1	The key role of the web content management system in customer experience management  ( CXM )  by  @ bmosherzinck 
+-1	Strip the Blog by  @ timsoulo Free online tool shows the most popular articles of a blog based on no .  of social shares .  
+-1	Generation X News is out !  
+-1	 @ chirpingsha  @ DC _ Experience No joy .  Installing the beta version of Firefox 26 seems to have resolved my speed issues . 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	 @ TaraHibbott “There are poisons that blind you ,  and poisons that open your eyes . ” August Strindberg
+-1	Just joined  @ Dribbble .  Follow me at 
+-1	Generation X News is out !  
+-1	 @ franhoey Did 1970s car radios have FM ?  I seem to remember MW / LW being the standard . 
+-1	Statcounter Global Stats are based on aggregate data from  & gt ; 15 billion pageviews per month from over 3m websites .  
+-1	Why CXM  ( Customer Experience Management )  is the next category in the evolution of CRM by  @ cschaeffer 
+-1	 @ Torettox84  @ dilbert4life And the collective noun ? 
+-1	 " Is It Down Right Now "  offers an online website status checker  & amp ;  response time information / graphs .  
+-1	 @ albertjohn Applying to partner .  Alpha version for partners by January 2014 .  Public release planned for Spring 2014 .  
+-1	 @ TaraHibbott  " She nourishes the poison in her veins and is consumed by a secret fire .  "  Virgil  ( 70  -  19 BC ) 
+-1	“Real web designers write code .  Always have ,  always will . ” Jeffrey  @ Zeldman
+-1	T3 framework from  @ JoomlArt is now officially integrated into Joomla 3 . 5  -  Official Announcement 
+-1	Joomla page load speed impacts everything from bounce rate to SEO .  Tips to improve it ,  by  @ hdwebpro 
+-1	My dream is to walk around the world .   A smallish backpack ,  all essentials neatly in place .   A camer 
+-1	“I Am So Sick Of Being Broke” by  @ STUDIODOON 
+-1	Useful article by  @ erictiggeler on using the excellent MaxiMenu CK developed by  @ ced1870  -  
+-1	How to setup CloudFlare CDN in WordPress to speed up your website ,  by  @ pedrodasilvauk 
+-1	Generation X News is out !  
+-1	Why we have a 40 - hour work week  -  worth reading for the 4 steps to work - life bliss 
+-1	French businessman heads to desert island to become a Web Robinson - style  # digitalnomad with mixed success 
+-1	Generation X News is out !  
+-1	Heat Your Room For 8 Pence A Day ,  via  @ msjackmonroe .  .  .  
+-1	Generation X News is out !  
+-1	Matt Cutts on the  # SEO implications of responsive design 
+-1	3 Essential Pieces of Marketing Content Every Business Must Create  -  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Today’s communication  & amp ;  sharing tools are tomorrow’s advertising platforms says  @ tdavidson on mobile messaging / adtech 
+-1	Survey of 34 , 864  # eCommerce sites in the Alexa Top 1 Million shows  # Magento leading market share with  # VirtueMart 2nd 
+-1	Pagekit is a modular and lightweight new CMS built with Symfony components ,  developed by  @ yootheme Worth following  @ pagekit
+-1	 @ hmvdigital  @ hmvtweets Have you considered adding a search feature to your new website ? 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Useful implementation of jQuery Masonry in Native WordPress image galleries ,  by  @ rees _ will 
+-1	 @ piccavey  @ BlueValleyCars Hi Molly .  I get a 404 error when I try to follow this link .  Great blog btw . 
+-1	Nice !  RT  @ MelKirk :  Awesome way to start a Friday ,  the launch of the new  @ Tribal _ Media website !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Solved Instagram not supported on your device error by installing the latest apk from  @ AndroidDrawer 
+-1	 @ HeartInternet I just wanted to commend James Stephens from your Support Team for resolving an issue for me so quickly  & amp ;  efficiently . 
+-1	Generation X News is out !  
+-1	Inspiring story  & amp ;  clever marketing ,  too .   @ CaseyNeistat spent  @ 20thcenturyfox  $ 25k trailer budget on Phillipine aid  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Creativity and design quotes and sayings for inspiration by  @ artsspot :  
+-1	Researching pig - keeping  & amp ;  finding  @ asmallholders site ,  The Accidental Smallholder ,  a useful resource 
+-1	Google Cloud Platform Starter Pack gives app developers  $ 1k Google App Engine credit  & amp ;   $ 1k for Google Compute Engine 
+-1	Implementing sliding boxes  & amp ;  captions using Mosaic in  # WordPress ,  using this tutorial by  @ srikat 
+-1	Generation X News is out !  
+-1	The ultimate guide to everything Dribbble ,  by  @ cameron _ chapman 
+-1	24 ways  (  @ 24ways )  is the advent calendar for web geeks 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	 @ momentumhq  @ gazaston “The secret to creativity is knowing how to hide your sources . ” Albert Einstein
+-1	 " The young people of this society have not moved in the last 30 years .  They have been consumed with telephones .  Tweeting .  "  Donald Sutherland
+-1	Use the Norton Identity Safe Password Generator to create highly secure passwords .  
+-1	Does anyone have any experience / feedback of integrating  # Joomla with  # SugarCRM using Fabrik ?   @ fabfreek  @ sugarcrm
+-1	Generation X News is out !  
+-1	How to Create a Web Content Strategy For Your Company  by  @ johnpaul 
+-1	 # WordPress File Permissions 
+-1	Generation X News is out !  
+-1	Responsive drawer module for Joomla !  from  @ code7 _ co _ uk 
+-1	 # Supermarket  # marketing piece on  # Newsnight calls to mind comedian Bill Hicks on Advertising  & amp ;  Marketing 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	Interesting article on understanding the Five Generations Of Digital Workers via  @ ConstellationRG   @ rwang0 
+-1	W3Schools reports Chrome  ( 54 . 1 %  )  ahead of Firefox  ( 27 . 2 %  )  and IE  ( 11 . 7 %  )  for October in Browser Wars .  
+-1	So frustrated with  @ Yootheme Warps inflexible menu structure  & amp ;  poor documentation Im moving to  @ JoomlArts T3 framework mid - project . 
+-1	Front End Web Development Quiz .  Warning :  this may hurt your feelings ,  by  @ davidshariff 
+-1	K2 Links for JCE allows you to quickly link content to K2 categories ,  items ,  tags  & amp ;  users .  Indispensable .  
+-1	Tutorial on how to use the  # Joomla !  2 . 5 Redirect Manager 
+-1	Do We Live in the Matrix ?  Philosophers argue were artificial intelligences trapped in a fake universe .  Discuss .   
+-1	Roundup of What’s new for designers ,  December 2013 from  @ DesignerDepot 
+-1	Web Design Studios Trends :  What style have they used for their own sites ?  ,  from  @ awwwards :  
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	“I am always doing that which I cannot do ,  in order that I may learn how to do it . ”  -  Pablo Picasso
+-1	Favorited Does Favoriting A Lot Of Tweets Get You More Followers On Twitter ?  by  @ donloper Apparently theres a 5 %  chance hell follow me . 
+-1	Managing Multiple Google Analytics Properties  & amp ;  Accounts ,  by  @ rossbarefoot 
+-1	Shropshire Business Funding :  sources of finance available to support  |  # Shropshire  # startups  & amp ;  businesses 
+-1	Generation X News is out !  
+-1	Generation X News is out !  
+-1	23 more chocolate coins until Christmas 
+-1	Generation X News is out !  
+-1	After more than a decade the time has finally come to redesign the 
+-1	 @ DanDawes Fractals transport me right back to the 90s . 
+-1	 " Would you rather own a lightsaber or a helper monkey ?  "  Play the biggest game of  " would you rather ?  "  on the net .  
+-1	 @ drmmr763 Thanks for the prompt feedback Chad .  I have heard great things about their support . 
+-1	The Daily Mail Ipsum Generator .  Bigoted bile automatically generated from everyones favourite reactionary tabloid 
+-1	Generation X News is out !  
+-1	WooThemes recently announced the launch of an official blog for  # WooCommerce development 
+-1	 # Geek deemed word of the year by the Collins online dictionary 
+-1	Mozs list of the top 500 domains and pages on the web ,  . ranked by the number of linking root domains .  
+-1	 @ Stublr Thanks for the follow and the re - tweet . 
+-1	 @ ericaheinz  @ chriscoyier Id be happy to help .  Let me know how . 
+-1	Worth reading if you use WordPress :  The Definitive Guide To Higher Rankings For  # WordPress Sites 
+-1	 @ rosso A map of all the countries that contribute to a single jar of Nutella by  @ robferdman 
+-1	Generation X News is out !  
+-1	Just found out I have won one of our two club places in next years  # LondonMarathon .  Seriously thrilled . 
+-1	Generation X News is out !  
